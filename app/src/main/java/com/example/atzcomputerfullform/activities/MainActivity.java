@@ -3,17 +3,17 @@ package com.example.atzcomputerfullform.activities;
 import android.content.Intent;
 import android.content.res.ColorStateList;
 import android.graphics.drawable.Drawable;
-import android.graphics.drawable.GradientDrawable;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import androidx.annotation.RequiresApi;
+import androidx.cardview.widget.CardView;
 import androidx.core.graphics.drawable.DrawableCompat;
 
 import com.example.atzcomputerfullform.BuildConfig;
@@ -24,18 +24,18 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 
     private RelativeLayout mHeaderRL;
     private TextView mTitleTV;
-    private LinearLayout mAtoB_LL;
-    private LinearLayout mCtoD_LL;
-    private LinearLayout mEtoF_LL;
-    private LinearLayout mGtoH_LL;
-    private LinearLayout mItoJ_LL;
-    private LinearLayout mKtoL_LL;
-    private LinearLayout mMtoN_LL;
-    private LinearLayout mOtoP_LL;
-    private LinearLayout mQtoR_LL;
-    private LinearLayout mStoT_LL;
-    private LinearLayout mUtoV_LL;
-    private LinearLayout mWtoX_LL;
+    private CardView mAtoB_LL;
+    private CardView mCtoD_LL;
+    private CardView mEtoF_LL;
+    private CardView mGtoH_LL;
+    private CardView mItoJ_LL;
+    private CardView mKtoL_LL;
+    private CardView mMtoN_LL;
+    private CardView mOtoP_LL;
+    private CardView mQtoR_LL;
+    private CardView mStoT_LL;
+    private CardView mUtoV_LL;
+    private CardView mWtoX_LL;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,20 +49,19 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     void initView() {
         mHeaderRL = (RelativeLayout) findViewById(R.id.rl_header);
         mTitleTV = (TextView) findViewById(R.id.tv_title);
-        mAtoB_LL = (LinearLayout) findViewById(R.id.a_b_ff_ll);
-        mCtoD_LL = (LinearLayout) findViewById(R.id.c_d_ff_ll);
-        mEtoF_LL = (LinearLayout) findViewById(R.id.e_f_ff_ll);
-        mGtoH_LL = (LinearLayout) findViewById(R.id.g_h_ff_ll);
-        mItoJ_LL = (LinearLayout) findViewById(R.id.i_j_ff_ll);
-        mKtoL_LL = (LinearLayout) findViewById(R.id.k_l_ff_ll);
-        mMtoN_LL = (LinearLayout) findViewById(R.id.m_n_ff_ll);
-        mOtoP_LL = (LinearLayout) findViewById(R.id.o_p_ff_ll);
-        mQtoR_LL = (LinearLayout) findViewById(R.id.q_r_ff_ll);
-        mStoT_LL = (LinearLayout) findViewById(R.id.s_t_ff_ll);
-        mUtoV_LL = (LinearLayout) findViewById(R.id.u_v_ff_ll);
-        mWtoX_LL = (LinearLayout) findViewById(R.id.w_x_ff_ll);
+        mAtoB_LL = (CardView) findViewById(R.id.a_b_ff_ll);
+        mCtoD_LL = (CardView) findViewById(R.id.c_d_ff_ll);
+        mEtoF_LL = (CardView) findViewById(R.id.e_f_ff_ll);
+        mGtoH_LL = (CardView) findViewById(R.id.g_h_ff_ll);
+        mItoJ_LL = (CardView) findViewById(R.id.i_j_ff_ll);
+        mKtoL_LL = (CardView) findViewById(R.id.k_l_ff_ll);
+        mMtoN_LL = (CardView) findViewById(R.id.m_n_ff_ll);
+        mOtoP_LL = (CardView) findViewById(R.id.o_p_ff_ll);
+        mQtoR_LL = (CardView) findViewById(R.id.q_r_ff_ll);
+        mStoT_LL = (CardView) findViewById(R.id.s_t_ff_ll);
+        mUtoV_LL = (CardView) findViewById(R.id.u_v_ff_ll);
+        mWtoX_LL = (CardView) findViewById(R.id.w_x_ff_ll);
 
-        findViewById(R.id.iv_share_button).setOnClickListener(this);
         mAtoB_LL.setOnClickListener(this);
         mCtoD_LL.setOnClickListener(this);
         mEtoF_LL.setOnClickListener(this);
@@ -75,6 +74,11 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         mStoT_LL.setOnClickListener(this);
         mUtoV_LL.setOnClickListener(this);
         mWtoX_LL.setOnClickListener(this);
+
+        findViewById(R.id.iv_share_button).setOnClickListener(this);
+        findViewById(R.id.tv_facebook_link).setOnClickListener(this);
+        findViewById(R.id.tv_instagram_link).setOnClickListener(this);
+        findViewById(R.id.tv_all_app_link).setOnClickListener(this);
     }
 
     @Override
@@ -184,13 +188,30 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 wToxIntent.putExtra(Constants.W_TO_X_COLOR_CODE, getViewBackGroundColor(mWtoX_LL));
                 startActivity(wToxIntent);
                 break;
+            case R.id.tv_facebook_link:
+                Intent facebookIntent =
+                        new Intent("android.intent.action.VIEW",
+                                Uri.parse("https://www.facebook.com/its.android.talk"));
+                startActivity(facebookIntent);
+                break;
+            case R.id.tv_instagram_link:
+                Intent instagramIntent =
+                        new Intent("android.intent.action.VIEW",
+                                Uri.parse("https://www.instagram.com/developer_android_app/"));
+                startActivity(instagramIntent);
+                break;
+            case R.id.tv_all_app_link:
+                Intent allOurApp =
+                        new Intent("android.intent.action.VIEW",
+                                Uri.parse("https://www.google.com/"));
+                startActivity(allOurApp);
+                break;
         }
     }
 
     @RequiresApi(api = Build.VERSION_CODES.N)
-    private int getViewBackGroundColor(LinearLayout linearLayout) {
-        Drawable unwrappedDrawable = linearLayout.getBackground();
-        ColorStateList color = ((GradientDrawable) unwrappedDrawable).getColor();
+    private int getViewBackGroundColor(View view) {
+        ColorStateList color = ((CardView)view).getCardBackgroundColor();
         return color.getDefaultColor();
     }
 }

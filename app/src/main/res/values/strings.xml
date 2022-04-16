@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">ATZComputerFullForm</string>
+    <string name="facebook_text"><u>"@its.android.talk"</u></string>
+    <string name="insta_text"><u>"@developer_android_app"</u></string>
+    <string name="all_our_aps"><u>"All our apps"</u></string>
+    <string name="message">"To Learn Android Application Development. Please Click On Below Links: "</string>
     <!--Abbreviation A-B-->
     <string-array name="abbreviation_a_to_b">
         <item>A</item>
