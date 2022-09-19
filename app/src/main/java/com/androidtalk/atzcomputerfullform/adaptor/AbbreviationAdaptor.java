@@ -1,4 +1,4 @@
-package com.example.atzcomputerfullform.adaptor;
+package com.androidtalk.atzcomputerfullform.adaptor;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.atzcomputerfullform.R;
-import com.example.atzcomputerfullform.models.AbbreviationModel;
+import com.androidtalk.atzcomputerfullform.R;
+import com.androidtalk.atzcomputerfullform.models.AbbreviationModel;
 
 import java.util.ArrayList;
 

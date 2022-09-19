@@ -44,7 +44,22 @@
 
     </RelativeLayout>
 
+    <!--<com.google.android.gms.ads.admanager.AdManagerAdView
+        android:id="@+id/adManagerAdView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="3dp"
+        android:visibility="gone"
+        card_view:adSize="BANNER"
+        card_view:adUnitId="/6499/example/banner"></com.google.android.gms.ads.admanager.AdManagerAdView>-->
+
     <androidx.core.widget.NestedScrollView
+        android:id="@+id/nested_scroll"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/rl_header">
@@ -77,9 +92,10 @@
                     card_view:cardUseCompatPadding="true">
 
                     <LinearLayout
-                        android:layout_width="134dp"
+                        android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -113,6 +129,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -146,6 +163,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -190,6 +208,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -223,6 +242,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -256,6 +276,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -300,6 +321,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -333,6 +355,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -366,6 +389,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -411,6 +435,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -444,6 +469,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -478,6 +504,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:orientation="vertical"
+                        android:layout_gravity="center"
                         android:padding="15dp">
 
                         <TextView
@@ -572,6 +599,4 @@
 
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
-
-
 </RelativeLayout>

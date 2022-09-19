@@ -4,7 +4,9 @@
     <string name="insta_text"><u>"@developer_android_app"</u></string>
     <string name="all_our_aps"><u>"All our apps"</u></string>
     <string name="message">"To Learn Android Application Development. Please Click On Below Links: "</string>
-    <!--Abbreviation A-B-->
+    <string name="app_id">ca-app-pub-6497590271540178~9348751413</string>
+    <string name="banner_ad_main_activity_id">ca-app-pub-6497590271540178/3211003885</string>
+    <!--Computer Abbreviation A-B-->
     <string-array name="abbreviation_a_to_b">
         <item>A</item>
         <item>AAC</item>
@@ -47,7 +49,6 @@
         <item>BMP</item>
         <item>BRD</item>
     </string-array>
-
     <string-array name="fullform_a_to_b">
         <item>Full Form</item>
         <item>Advanced Audio Coding</item>
@@ -90,7 +91,6 @@
         <item>Bitmap</item>
         <item>Blu-Ray Disc</item>
     </string-array>
-
     <string-array name="abbreviation_c_to_d">
         <item>C</item>
         <item>CC</item>
@@ -139,7 +139,6 @@
         <item>DVR</item>
 
     </string-array>
-
     <string-array name="fullform_c_to_d">
         <item>Full Form</item>
         <item>Carbon Copy</item>
@@ -187,7 +186,6 @@
         <item>Digital Visual Interface</item>
         <item>Digital Video Recorder</item>
     </string-array>
-
     <string-array name="abbreviation_e_to_f">
         <item>E</item>
         <item>E-Commerce</item>
@@ -203,7 +201,6 @@
         <item>F</item>
         <item>FDD</item>
     </string-array>
-
     <string-array name="fullform_e_to_f">
         <item>Full Form</item>
         <item>Electronic Commerce</item>
@@ -219,7 +216,6 @@
         <item>Full Form</item>
         <item>Floppy Disk Drive</item>
     </string-array>
-
     <string-array name="abbreviation_g_to_h">
         <item>G</item>
         <item>GB</item>
@@ -230,7 +226,6 @@
         <item>HTML</item>
         <item>HTTP</item>
     </string-array>
-
     <string-array name="fullform_g_to_h">
         <item>Full Form</item>
         <item>Giga Byte</item>
@@ -241,7 +236,6 @@
         <item>Hyper Text Markup Language</item>
         <item>Hyper Text Transfer Protocol</item>
     </string-array>
-
     <string-array name="abbreviation_i_to_j">
         <item>I</item>
         <item>I/O</item>
@@ -260,7 +254,6 @@
         <item>JBL</item>
         <item>JVC</item>
     </string-array>
-
     <string-array name="fullform_i_to_j">
         <item>Full Form</item>
         <item>Input/Output (serial and parallel ports)</item>
@@ -279,7 +272,6 @@
         <item>JBL, James B. Lasing Speaker</item>
         <item>JVC Company Of America</item>
     </string-array>
-
     <string-array name="abbreviation_k_to_l">
         <item>K</item>
         <item>KB</item>
@@ -290,7 +282,6 @@
         <item>LLL</item>
         <item>LPT</item>
     </string-array>
-
     <string-array name="fullform_k_to_l">
         <item>Full Form</item>
         <item>KILOBYTE</item>
@@ -301,7 +292,6 @@
         <item>Low Level Language</item>
         <item>Line Printer</item>
     </string-array>
-
     <string-array name="abbreviation_m_to_n">
         <item>M</item>
         <item>MAC</item>
@@ -319,7 +309,6 @@
         <item>NAT</item>
         <item>NTP</item>
     </string-array>
-
     <string-array name="fullform_m_to_n">
         <item>Full Form</item>
         <item>Media Access Control</item>
@@ -337,7 +326,6 @@
         <item>Network Address Translation</item>
         <item>Network Time Protocol</item>
     </string-array>
-
     <string-array name="abbreviation_o_to_p">
         <item>O</item>
         <item>OCR</item>
@@ -357,7 +345,6 @@
         <item>PRN</item>
         <item>PROM</item>
     </string-array>
-
     <string-array name="fullform_o_to_p">
         <item>Full Form</item>
         <item>Optical Character Reader </item>
@@ -377,7 +364,6 @@
         <item>Printer</item>
         <item>Programmable Read Only Memory</item>
     </string-array>
-
     <string-array name="abbreviation_q_to_r">
         <item>Q</item>
         <item>QBASIC</item>
@@ -389,7 +375,6 @@
         <item>RISC</item>
         <item>ROM</item>
     </string-array>
-
     <string-array name="fullform_q_to_r">
         <item>Full Form</item>
         <item>Quick Beginners App Purpose Symbolic Instructions Code</item>
@@ -401,7 +386,6 @@
         <item>Reduced Instruction Set Computer</item>
         <item>Read Only Memory</item>
     </string-array>
-
     <string-array name="abbreviation_s_to_t">
         <item>S</item>
         <item>SAM</item>
@@ -424,7 +408,6 @@
         <item>TEC</item>
         <item>TPC</item>
     </string-array>
-
     <string-array name="fullform_s_to_t">
         <item>S</item>
         <item>Software Asset Management</item>
@@ -447,7 +430,6 @@
         <item>Thermoelectric cooler</item>
         <item>TipidPC</item>
     </string-array>
-
     <string-array name="abbreviation_u_to_v">
         <item>U</item>
         <item>UI</item>
@@ -463,7 +445,6 @@
         <item>VLSI</item>
         <item>VPN</item>
     </string-array>
-
     <string-array name="fullform_u_to_v">
         <item>U</item>
         <item>User Interface</item>
@@ -479,7 +460,6 @@
         <item>Very Large Scale Integration</item>
         <item>Virtual Private Network</item>
     </string-array>
-
     <string-array name="abbreviation_w_to_x">
         <item>W</item>
         <item>WAN</item>
@@ -496,7 +476,6 @@
         <item>XML</item>
         <item>XMS</item>
     </string-array>
-
     <string-array name="fullform_w_to_x">
         <item>W</item>
         <item>Wide Area Network</item>
@@ -513,7 +492,6 @@
         <item>Extensible Markup Language</item>
         <item>Extended Memory Specification</item>
     </string-array>
-
     <string-array name="abbreviation_y_to_z">
         <item>Y</item>
         <item>WAN</item>
@@ -530,4 +508,653 @@
         <item>XML</item>
         <item>XMS</item>
     </string-array>
+
+    <!--Automobile abbreviation A-Z-->
+    <string-array name="automobile_abbreviation_a_to_b">
+        <item>A</item>
+        <item>AA</item>
+        <item>AAA</item>
+        <item>AAAS</item>
+        <item>AAGR</item>
+        <item>AAIB</item>
+        <item>AAM</item>
+        <item>AAMA</item>
+        <item>AAMVA</item>
+        <item>Aarhus</item>
+        <item>ABA</item>
+        <item>ABC</item>
+        <item>ABI</item>
+        <item>ABPA</item>
+        <item>ABRO</item>
+        <item>ABS</item>
+        <item>ABS</item>
+        <item>ABTC</item>
+        <item>AC OR a/c</item>
+        <item>ACAP</item>
+        <item>ACAROM</item>
+        <item>ACBE</item>
+        <item>ACC</item>
+        <item>ACC</item>
+        <item>ACE</item>
+        <item>ACE</item>
+        <item>ACEA</item>
+        <item>ACEM</item>
+        <item>ACFO</item>
+        <item>ACICAE</item>
+        <item>ACM</item>
+        <item>ACoP</item>
+        <item>ACORD</item>
+        <item>ACPMS</item>
+        <item>ACPO</item>
+        <item>ACRIB</item>
+        <item>ACS</item>
+        <item>ACS</item>
+        <item>ACTO</item>
+        <item>ACTS</item>
+        <item>ADA</item>
+        <item>ADAC</item>
+        <item>ADAPS</item>
+        <item>ADAS</item>
+        <item>ADB</item>
+        <item>ADCCAT</item>
+        <item>ADD</item>
+        <item>ADEFA</item>
+        <item>ADF</item>
+        <item>ADI</item>
+        <item>ADLO</item>
+        <item>ADR</item>
+        <item>ADR</item>
+        <item>ADR</item>
+        <item>ADS</item>
+        <item>ADS</item>
+        <item>AE</item>
+        <item>AEA</item>
+        <item>AEBS</item>
+        <item>AECC</item>
+        <item>AECD</item>
+        <item>AECS</item>
+        <item>AEG</item>
+        <item>AEGPL</item>
+        <item>AEI</item>
+        <item>AEMT</item>
+        <item>AENOR</item>
+        <item>AEO</item>
+        <item>AEP</item>
+        <item>AETR</item>
+        <item>AFC</item>
+        <item>AFCAR</item>
+        <item>AFIA</item>
+        <item>AFNOR</item>
+        <item>AFQUAD</item>
+        <item>AFRC</item>
+        <item>AFRL</item>
+        <item>AFS</item>
+        <item>AGB</item>
+        <item>AGTC</item>
+        <item>AHAI</item>
+        <item>AHEG</item>
+        <item>AHO</item>
+        <item>AHS</item>
+        <item>AIA</item>
+        <item>AIA</item>
+        <item>AIA CR (SAP)</item>
+        <item>AIA SR</item>
+        <item>AIAA</item>
+        <item>AIAG</item>
+        <item>AIAM</item>
+        <item>AIAM</item>
+        <item>AIAMC</item>
+        <item>AIB</item>
+        <item>AIB</item>
+        <item>AICA</item>
+        <item>AICC</item>
+        <item>AICG</item>
+        <item>AID</item>
+        <item>AIGT</item>
+        <item>AILU</item>
+        <item>AIM</item>
+        <item>AIM</item>
+        <item>AIMA</item>
+        <item>AIMS</item>
+        <item>AIRC</item>
+        <item>AIRSO</item>
+        <item>AIS</item>
+        <item>AIS</item>
+        <item>AIS</item>
+        <item>AIT</item>
+        <item>AITF</item>
+        <item>ALAPA</item>
+        <item>ALARP</item>
+        <item>ALBRSO</item>
+        <item>ALEN</item>
+        <item>ALG</item>
+        <item>ALR</item>
+        <item>ALREM</item>
+        <item>AM</item>
+        <item>AMA</item>
+        <item>AMA</item>
+        <item>AME</item>
+        <item>AMF</item>
+        <item>AMFA</item>
+        <item>AMP</item>
+        <item>AMS</item>
+        <item>AMT</item>
+        <item>AMVCB</item>
+        <item>AMVIR</item>
+        <item>ANA</item>
+        <item>ANFAC</item>
+        <item>ANFAVEA</item>
+        <item>ANFIA</item>
+        <item>ANPR</item>
+        <item>ANPRM</item>
+        <item>ANSI</item>
+        <item>ANX</item>
+
+        <item>AONB</item>
+        <item>AORC</item>
+        <item>APAS</item>
+        <item>APC</item>
+        <item>APDS</item>
+        <item>API</item>
+        <item>APIA</item>
+        <item>APME</item>
+        <item>APMG</item>
+        <item>APS</item>
+        <item>APSN</item>
+        <item>APTA</item>
+        <item>APU</item>
+        <item>AQMD</item>
+        <item>ARAI</item>
+        <item>ARB</item>
+        <item>ARENA</item>
+        <item>ARFF</item>
+        <item>ARTC</item>
+        <item>ARTEMIS</item>
+        <item>ARTS</item>
+        <item>AS</item>
+        <item>ASA</item>
+        <item>ASCS</item>
+        <item>ASD</item>
+        <item>ASE</item>
+        <item>ASE</item>
+        <item>ASEP</item>
+        <item>ASG</item>
+        <item>ASME</item>
+        <item>ASN</item>
+        <item>ASN.1</item>
+        <item>ASR</item>
+        <item>ASR</item>
+        <item>ASSI</item>
+        <item>ASTM</item>
+        <item>ASV</item>
+        <item>AT</item>
+        <item>ATA</item>
+        <item>ATAG</item>
+        <item>ATA-MC</item>
+        <item>ATB</item>
+        <item>ATC</item>
+        <item>ATC</item>
+        <item>ATCO</item>
+        <item>ATD</item>
+        <item>ATEIL</item>
+        <item>ATL</item>
+        <item>ATOC</item>
+        <item>ATP</item>
+        <item>ATPA</item>
+        <item>ATSVR</item>
+        <item>ATT</item>
+        <item>ATV</item>
+        <item>ATVEA</item>
+        <item>AU</item>
+        <item>AUE</item>
+        <item>AUE/9</item>
+        <item>AUE/9/1</item>
+        <item>AUKOI</item>
+        <item>AUTIG</item>
+        <item>AUWED</item>
+        <item>AV</item>
+        <item>AVC</item>
+        <item>AVE</item>
+        <item>AVI</item>
+        <item>AVMS</item>
+        <item>AVRO</item>
+        <item>AVSS</item>
+        <item>AVT</item>
+        <item>AWD</item>
+        <item>AWF</item>
+        <item>AWLREM</item>
+        <item>AWP</item>
+        <item>AWS</item>
+
+        <item>B</item>
+        <item>BAA</item>
+        <item>BAC</item>
+        <item>BACMI</item>
+        <item>BAFO</item>
+        <item>BAGMA</item>
+        <item>BAMA</item>
+        <item>BAPPCO</item>
+        <item>BAS</item>
+        <item>BASt</item>
+        <item>BAT</item>
+        <item>BAT</item>
+        <item>BATNEEC</item>
+        <item>BATRRT</item>
+        <item>BBB</item>
+        <item>BCA</item>
+        <item>BCAM</item>
+        <item>BCB</item>
+        <item>BCC</item>
+        <item>BCCEG</item>
+        <item>BCCI</item>
+        <item>BCDTA</item>
+        <item>BCF</item>
+        <item>BCGA</item>
+        <item>BCM</item>
+        <item>BCMA</item>
+        <item>BCS</item>
+        <item>BCWMA</item>
+        <item>BEAMA</item>
+        <item>BECA</item>
+        <item>BEF</item>
+        <item>BEG</item>
+        <item>BEN</item>
+        <item>BERR</item>
+        <item>BEUC</item>
+        <item>BEV</item>
+        <item>BFPA</item>
+        <item>BFPDA</item>
+        <item>BFR</item>
+        <item>BHTA</item>
+        <item>BHW</item>
+        <item>BICEMA</item>
+        <item>BIFA</item>
+        <item>BIL</item>
+        <item>BIMTA</item>
+        <item>BioRID</item>
+        <item>BIP</item>
+        <item>BIPAVER</item>
+        <item>BIR</item>
+        <item>BISCC</item>
+        <item>BIT</item>
+        <item>BITA</item>
+        <item>BIVV</item>
+        <item>BIW</item>
+        <item>BJA</item>
+        <item>BLE(H)</item>
+        <item>BLIC</item>
+        <item>BM</item>
+        <item>BMA</item>
+        <item>BMCS</item>
+        <item>BMEP</item>
+        <item>BMF</item>
+        <item>BMF</item>
+        <item>BMIHT</item>
+        <item>BMRA</item>
+        <item>BMVBW</item>
+        <item>BNA</item>
+        <item>BNA</item>
+        <item>BNC</item>
+        <item>BNPe</item>
+        <item>BOD</item>
+        <item>BOHS</item>
+        <item>BOHS</item>
+        <item>BOO</item>
+        <item>BOSCA</item>
+        <item>BOTB</item>
+        <item>BPEO</item>
+        <item>BPF</item>
+        <item>BPM</item>
+        <item>BPTR</item>
+        <item>BQA</item>
+        <item>BQF</item>
+        <item>BQS</item>
+        <item>BR</item>
+        <item>BRC</item>
+        <item>BRDC</item>
+        <item>BRE</item>
+        <item>BREF</item>
+        <item>BREF</item>
+        <item>BRF</item>
+        <item>BRMA</item>
+        <item>BRPA</item>
+        <item>BRSCC</item>
+        <item>BSC</item>
+        <item>BSFC</item>
+        <item>BSI</item>
+        <item>BSIQA</item>
+        <item>BSOG</item>
+        <item>BSRIA</item>
+        <item>BST</item>
+        <item>BT</item>
+        <item>BTL</item>
+        <item>BTP</item>
+        <item>BVMA</item>
+        <item>BVRLA</item>
+        <item>BVSF</item>
+    </string-array>
+    <string-array name="automobile_fullform_a_to_b">
+        <item>Full Form</item>
+        <item>AUTOMOBILE ASSOCIATION</item>
+        <item>ASSOCIATION AUXILIAIRE DE L’AUTOMOBILE</item>
+        <item>ADVANCED ACTIVE ADAPTIVE SECONDARY SAFETY</item>
+        <item>AVERAGE ANNUAL GROWTH RATE</item>
+        <item>AIR ACCIDENTS INVESTIGATION BRANCH</item>
+        <item>ALLIANCE OF AUTOMOBILE MANUFACTURERS (USA)</item>
+        <item>AMERICAN AUTOMOBILE MANUFACTURERS ASSOCIATION</item>
+        <item>AMERICAN ASSOCIATION OF MOTOR VEHICLE ADMINISTRATORS</item>
+        <item>UNECE CONVENTION ON ACCESS TO JUSTICE IN ENVIRONMENTAL MATTERS</item>
+        <item>AMERICAN BUS ASSOCIATION</item>
+        <item>ACTIVE BODY CONTROL</item>
+        <item>ASSOCIATION OF BRITISH INSURERS</item>
+        <item>ASSOCIAO BRASILIERA DE PNEUS (BRAZILIAN TYRE ASSOCIATION)</item>
+        <item>DEFENCE LOGISTICS ASSOCIATION</item>
+        <item>ANTI-LOCKING BRAKING SYSTEM</item>
+        <item>ACRYLONITRILE BUTADIENE STYRENE</item>
+        <item>ALTOONA BUS TEST CENTRE (PENN STATE USA)</item>
+        <item>AIR CONDITIONING</item>
+        <item>ASSOCIACAO DO COMERCIO AUTOMOVEL DE PORTUGAL</item>
+        <item>ASOCIATIEI CONSTRUCTORILOR DE AUTOMOBILE DIN ROMANIA</item>
+        <item>ADVISORY COMMITTEE ON BUSINESS &amp; THE ENVIRONMENT</item>
+        <item>CRUISE CONTROL ADAPTIVE</item>
+        <item>AUTOMOTIVE COMPOSITES CONSORTIUM (USCAR)</item>
+        <item>ASSOCIATION OF CONSULTING ENGINEERS</item>
+        <item>AGGREGATED COST EFFICIENCY INDEX</item>
+        <item>ASSOCIATION DES CONSTRUCTEURS EUROPEENS D’AUTOMOBILES (EUROPEAN AUTOMOBILE MANUFACTURES ASSOCIATION)</item>
+        <item>ASSOCIATION OF EUROPEAN MOTORCYCLE MANUFACTURERS (ASSOCIATION DES CONSTRUCTEURS EUROPEENS DE MOTORCYLES)</item>
+        <item>ASSOCIATION OF CAR FLEET OPERATORS</item>
+        <item>BASQUE COUNTRY AUTOMOTIVE INDUSTRY</item>
+        <item>ACCOUNT MANAGEMENT</item>
+        <item>APPROVED CODE OF PRACTICE</item>
+        <item>AUTOMOTIVE CONSORTIUM ON RECYCLING AND DISPOSAL (UK)</item>
+        <item>ASSOCIATION COMPONENTS &amp; PARTS MANUFACTURERS SECTION</item>
+        <item>ASSOCIATION OF CHIEF POLICE OFFICERS</item>
+        <item>AIR CONDITIONING AND REFRIGERATION INDUSTRY BOARD</item>
+        <item>AUTOMOTIVE COMPONENTS SECTION</item>
+        <item>ANTICIPATORY CRASH SENSING</item>
+        <item>ASSOCIATION OF CHIEF TECHNICAL OFFICERS</item>
+        <item>ADVISORY COMMITTEE ON TOXIC SUBSTANCES</item>
+        <item>AMERICANS WITH DISABILITIES ACT</item>
+        <item>AUTOMOBILE ASSOCIATION (GERMANY)</item>
+        <item>ASSOCIATION FOR DRIVER ADAPTATION PRODUCT SPECIALISTS</item>
+        <item>AGRICULTURAL DEVELOPMENT &amp; ADVISORY SERVICE</item>
+        <item>ADVANCED DESIGN BUS</item>
+        <item>ASSOCIATION OF DIE CUTTERS AND CONVERTERS OF ADHESIVE TAPES</item>
+        <item>AUTOMATIC DEFECT DETECTION</item>
+        <item>ASOCIACION DE FABRICAS DE AUTOMORES (ARGENTINA)</item>
+        <item>AUTOMOTIVE DISTRIBUTION FEDERATION</item>
+        <item>APPROVED DRIVING INSTRUCTOR</item>
+        <item>ASSOCIATION OF DIRECT LABOUR ORGANISATIONS</item>
+        <item>AUSTRALIAN DESIGN RULES</item>
+        <item>AUTOMATED DURABILITY ROAD</item>
+        <item>ACCORD EUROPEEN RELATIF AUX TRANSPOR INTERNATIONAL DES MARCHANDISES DANGEREUSES PAR ROUTE (EUROPEAN AGREEMENT CARRIAGE OF DANGEROUS GOODS BY ROAD)</item>
+        <item>AUTOMOTIVE DATA SERVICES</item>
+        <item>ASSOCIATION OF AUTOMOTIVE MANUFACTURERS AND AUTHORISED IMPORTERS (SLOVENIA)</item>
+        <item>AUTHORISED EXAMINER – AND INDIVIDUAL, PERSONS IN PARTNERSHIP OR COMPANY, WHO MEETS REQUIREMENTS (PREMISES, EQUIPMENT, PERSONNEL AND GOOD REPUTE) TO CARRY OUT MOT TESING</item>
+        <item>AGRICULTURAL ENGINEERS ASSOCIATION</item>
+        <item>AUTOMATIC EMERGENCY BRAKING SYSTEM</item>
+        <item>ASSOCIATION FOR EMISSIONS CONTROL BY CATALYST</item>
+        <item>AUXILIARY EMISSIONS CONTROL DEVICE</item>
+        <item>AUXILIARY EMISSIONS CONTROL STRATEGY</item>
+        <item>AREA ENVIRONMENT GROUP</item>
+        <item>EUROPEAN LIQUIFIED PETROLEUM GAS ASSOCIATION</item>
+        <item>AUTOMATIC EQUIPMENT IDENTIFICATION</item>
+        <item>ASSOCIATION OF ELECTRICAL &amp; MECHANICAL TRADES</item>
+        <item>ASOCIATION ESPANOL DE NORMALIZACION</item>
+        <item>ASSOCIATION OF EXHIBITION ORGANIZERS</item>
+        <item>ASSOCIATION OF ELECTRICITY PRODUCERS</item>
+        <item>AGREEMENT ON THE WORKOF CREWS OF VEHICLES ENGAGED IN INTERNATIONAL ROAD TRANSPORT</item>
+        <item>AUTOMATIC FEE COLLECTION</item>
+        <item>ALLIANCE FOR THE FREEDOM OF CAR REPAIR</item>
+        <item>ASSOCIACAO DE FABRICANTES PARA A INDUSTRIA AUTOMOVEL (PORTUGAL)</item>
+        <item>ASSOCIATION FRANCAISE DE NORMALISATION</item>
+        <item>ASSOCIATION EUROPEENNE DES FABRICANTS ET IMPORTATEURS DE QUADRICYCLES</item>
+        <item>AGRICULTURAL FOOD RESEARCH COUNCIL</item>
+        <item>AUTOMATED FIRST REGISTRATION AND LICENSING</item>
+        <item>ADVANCED FRONT LIGHTING SYSTEMS</item>
+        <item>AD HOC GROUP ON BRAKING (EEC)</item>
+        <item>AGREEMENT ON INTERNATIONAL COMBINED TRANSPORT LINES &amp; RELATED INSTALLATIONS</item>
+        <item>ASSOCIATION OF THE HUNGARIAN AUTOMOTIVE INDUSTRY</item>
+        <item>AD HOC EXPERTS GROUP</item>
+        <item>AUTOMATIC HEADLAMP ON (MOTORCYCLE LIGHTING)</item>
+        <item>AUTOMATED HIGHWAY SYSTEM</item>
+        <item>AUTOMOBILE IMPORTERS OF AMERICA</item>
+        <item>AUTOMOTIVE INDUSTRY ASSOCIATION</item>
+        <item>AUTOMOTIVE INDUSTRY ASSOCIATION OF THE CZECH REPUBLIC</item>
+        <item>AUTOMOTIVE INDUSTRY ASSOCIATION (SLOVAKIA)</item>
+        <item>AMERICAN IMPORTERS AGENTS ASSOCIATION</item>
+        <item>AUTOMOTIVE INDUSTRY ACTION GROUP</item>
+        <item>ASSOCIATION OF INTERNATIONAL AUTOMOBILE MANUFACTURERS (USA)</item>
+        <item>ASSOCIATION OF INDIAN MANUFACTURERS</item>
+        <item>ASSOCIATION OF INTERNATIONAL AUTOMOBILE MANUFACTURERS OF CANADA</item>
+        <item>ACCREDITED, INDEPENDENT, TESTING BODY</item>
+        <item>ASBESTOS INSULATING BOARD</item>
+        <item>ASSOCIAZIONE ITALIANA CONSTRUTTORI AUTOATTREZZATURE</item>
+        <item>AUTONOMOUS INTELLIGENT CRUISE CONTROL</item>
+        <item>AUTOMOTIVE INDUSTRY CERTIFICATION GROUP</item>
+        <item>AUTOMOTIVE INDUSTRY DATA</item>
+        <item>AUTOMOTIVE INDUSTRY GROWTH TEAM</item>
+        <item>ASSOCIATION OF INDUSTRIAL LASER USERS</item>
+        <item>AUTOMATIC IDENTIFICATION MANUFACTURERS</item>
+        <item>ASSOCIATION DES INDUSTRIES DE PRODUITS DE MARQUES (ASSOCIATION OF BRANDED PRODUCTS INDUSTRIES) </item>
+        <item>ASSOCIACAO DOS INDUSTRIAS DE MONTAGEM DE AUTOMOVEIS</item>
+        <item>ASSOCIATION OF INDEPENDENT MOTOR STORES</item>
+        <item>ASSOCIATION INTERNATIONALE DES REPARATEURS EN CARROSSERIE</item>
+        <item>ASSOCIATION OF INDUSTRIAL ROAD SAFETY OFFICERS</item>
+        <item>ACCIDENT INJURY SEVERITY (SCALE)</item>
+        <item>AUTOMOBIL-IMPORTORERNES SAMMENSLUTNING (DENMARK)</item>
+        <item>AUTOMOTIVE INFORMATION SERVICE (SMMT)</item>
+        <item>ASSOCIATION INTERNATIONALE DE TOURISME (INTERNATIONAL TOURING ALLIANCE)</item>
+        <item>AUTOMOTIVE INDUSTRY TASK FORCE</item>
+        <item>ASSOCIAO LATINO AMERICANA DE PNEUS E AROS</item>
+        <item>AS LOW AS REASONABLY PRACTICABLE</item>
+        <item>ASSOCIATION OF LONDON BOROUGH ROAD SAFETY OFFICERS</item>
+        <item>ABNORMAL LOAD ESCORT NETWORK</item>
+        <item>ASSOCIATION OF LONDON GOVERNMENT</item>
+        <item>AUTOMATIC LOCKING RETRACTORS</item>
+        <item>ASSOCIATIONOF LOAD RESTRAINT EQUIPMENT</item>
+        <item>AMENDMENT</item>
+        <item>AMERICAN MILEAGE ACCUMULATION</item>
+        <item>AMERICAN MOTORCYCLISTS ASSOCIATION</item>
+        <item>ANNUALLY MANAGED BUDGET</item>
+        <item>ADVANCED MOTOR FUELS IMPLEMENTING AGREEMENT OF THE IEA</item>
+        <item>ALTERNATIVE MOTOR FUEL ACT (US 1988)</item>
+        <item>ASSET MANAGEMENT PLAN</item>
+        <item>AUTO MOTOR SPORT (GERMAN MAGAZINE)</item>
+        <item>ADVANCED MANUFACTURING TECHNOLOGY</item>
+        <item>AUSTRALIAN MOTOR VEHICLE CERTIFICATION BOARD</item>
+        <item>ASSOCIATION OF MOTOR VEHICLE IMPORTERS (GREECE)</item>
+        <item>ARTICLE NUMBER ASSOCIATION</item>
+        <item>ASOCIACION ESPANOLA DE FABRICANTES DE AUTOMOVILES Y CAMIONES (SPAIN)</item>
+        <item>ASSOCIACION NACIONAL DOS FABRICANTES DE VEICULOS AUTOMOTORES (BRAZIL)</item>
+        <item>ASSOCIAZIONE NAZIONALE FRA INDUSTRIE AUTOMOBILISTICHE (ITALY)</item>
+        <item>AUTOMATIC NUMBER PLATE RECOGNITION</item>
+        <item>ADVANCE NOTICE OF PROPOSED RULE MAKING</item>
+        <item>AMERICAN NATIONAL STANDARDS INSTITUTE</item>
+        <item>AUTOMOTIVE NETWORK EXCHANGE</item>
+        <item>AREA OF OUTSTANDING NATURAL BEAUTY</item>
+        <item>AUTOMOTIVE OCCUPANT RESTRAINTS COUNCIL (USA)</item>
+        <item>AUTOMOTIVE PARTS AND ACCESSORIES SECTION</item>
+        <item>AIR POLLUTION CONTROL</item>
+        <item>AUTOMOTIVE PARTS DISTRIBUTION SECTION</item>
+        <item>APPLICATION PROGRAMMING INTERFACE</item>
+        <item>AUTOMOTIVE MANUFACTURERS AND IMPORTERS ASSOCIATION (ROMANIA)</item>
+        <item>ASSOCIATION OF PLASTIC MANUFACTURERS IN EUROPE</item>
+        <item>ALL PARTY MOTOR GROUP</item>
+        <item>ACCELERATOR PEDAL POSITION SENSOR</item>
+        <item>ADVANCED PASSIVE SAFETY NETWORK</item>
+        <item>AMERCIAN PUBLIC TRANSPORT ASSOCIATION</item>
+        <item>AUXILIARY POWER UNIT</item>
+        <item>AIR QUALITY MANAGEMENT DISTRICT</item>
+        <item>AUTOMOTIVE RESEARCH ASSOCIATION OF INDIA</item>
+        <item>AIR RESOURCE BOARD</item>
+        <item>TEST SITE (SWEDEN)</item>
+        <item>AUTOMATIC REAR FOG FLASHLIGHTS</item>
+        <item>AUTOMOTIVE RESEARCH TECHNICALCENTRE (TAIWAN)</item>
+        <item>ASSESSMENT &amp; RELIABILITY OF TRANSPORT EMISSIONS MODELS &amp; INVENTORY SYSTEMS</item>
+        <item>ADAPTIVE RESTRAINT TECHNOLOGY SYSTEM</item>
+        <item>AFTERMARKET SECTOR</item>
+        <item>BUNDESVERBAND DER HERSTELLER UND IMPORTEUR VON AUTOMOBIL-SERVICE AUSTUNGEN</item>
+        <item>AEROSPACE SECTOR CERTIFICATION SCHEME</item>
+        <item>ANTI-SLIDE DEVICE</item>
+        <item>(NATIONAL INSTITUTE FOR) AUTOMOTIVE SERVICE EXCELLENCE (USA)</item>
+        <item>AUXILIARY STEERING EQUIPMENT</item>
+        <item>ADDITIONAL SOUND EMISSIONS PROVISIONS (ECE WG)</item>
+        <item>AUTOMOTIVE STUDIES GROUP</item>
+        <item>AMERICAN SOCIETY OF MECHANICAL ENGINEERS</item>
+        <item>ABSTRACT SYNTAX NOTATION</item>
+        <item>ABSTRACT SYNTAX NOTATION ONE</item>
+        <item>AUTOMOTIVE SHREDDER RESIDUE</item>
+        <item>AUTOMATIC SKID REDUCTION (TRACTION CONTROL)</item>
+        <item>AIR SAFETY SUPPORT INTERNATIONAL</item>
+        <item>AMERICAN SOCIETY FOR TESTING AND MATERIALS</item>
+        <item>ADVANCED SAFETY VEHICLES</item>
+        <item>AUTOTUOJAT (FINLAND)</item>
+        <item>AUTOMOTIVE TECHNICIAN ACCREDITATION</item>
+        <item>AMBULANCE TRANSPORT ADVISORY GROUP</item>
+        <item>MAINTENANCE COUNCIL OF THE AMERICAN TRUCKING ASSOCIATION</item>
+        <item>ARTICULATED TOTAL BODY</item>
+        <item>AUSTRALIAN TRANSPORT COUNCIL</item>
+        <item>ADDITIVES TECHNICAL COMMITTEE</item>
+        <item>ASSOCIATION OF TRANSPORT CO-ORDINATING OFFICERS</item>
+        <item>ANTHROPORMORPHIC TESTING DEVICE</item>
+        <item>ASSOCIATION TECHNIQUE DE L’INDUSTRIE EUROPEENNE DES LUBRIFIANTS</item>
+        <item>AUTOMATED TEST LANE</item>
+        <item>ASSOCIATION OF TRAIN OPERATING COMPANIES</item>
+        <item>INTERNATIONAL AGREEMENT FOR CARRIAGE OF PERISHABLE GOODS</item>
+        <item>AUTOMOBILE THEFT PROTECTION AUTHORITY (MICHIGAN)</item>
+        <item>AFTER THEFT SYSTEM FOR VEHICLE RECOVERY</item>
+        <item>ADVANCED ROAD TRANSPORT TELEMATICS</item>
+        <item>ALL TERRAIN VEHICLE</item>
+        <item>ALL TERRAIN VEHICLE INDUSTRY EUROPEAN ASSOCIATION</item>
+        <item>AUTOMOTIVE (BSI COMMITTEE DESIGNATION)</item>
+        <item>AUTOMOBILE ENGINEER</item>
+        <item>BSI TECHNICAL COMMITTEE FOR AUTOMOBILE DETAILS AND ACCESSORIES</item>
+        <item>BSI TECHNICAL COMMITTEE FOR CAR JACKS</item>
+        <item>ASSOCIATION OF UNITED KINGDOM OIL INDEPENDENTS</item>
+        <item>AUTORESERVEDELS-OG TILBEHORS FORENINGEN 1 DANMARK</item>
+        <item>AMENDING DIRECTIVE TO THE USE OF WORK EQUIPMENT DIRECTIVE (95/63/EEC)</item>
+        <item>ABANDONED VEHICLE</item>
+        <item>ADVANCED VEHICLE CONCEPT</item>
+        <item>ASSISTANT VEHICLE EXAMINER</item>
+        <item>AUTOMATIC VEHICLE INDENTIFICATION</item>
+        <item>AUTOMOTIC VEHICLE MONITORING SYSTEM</item>
+        <item>ASSOCIATION OF VEHICLE RECOVERY OPERATORS</item>
+        <item>ADVANCED VEHICLE SECURITY SYSTEM</item>
+        <item>ACTIVE VALVE TRAIN</item>
+        <item>ALL WHEEL DRIVE</item>
+        <item>ADAPTED WEIGHTING FACTOR</item>
+        <item>ASSOCIATION OF WEBBING LOAD RESTRAINT EQUIPMENT MANUFACTURERS</item>
+        <item>AREA WASTE PLAN (SCOTLAND X 11)</item>
+        <item>ADVANCED WEIGHT SENSOR</item>
+
+
+        <item>Full Form</item>
+        <item>BAA PLC (FORMERLY BRITISH AIRPORTS AUTHORITY)</item>
+        <item>BLOOD ALCHOHOL CONTENT</item>
+        <item>BRITISH AGGREGATE CONSTRUCTION MATERIALS INDUSTRIES (now merged with SAGA as QPA)</item>
+        <item>BEST AND FINAL OFFER (CONTRACT BIDDING)</item>
+        <item>BRITISH AGRICULTURAL AND GARDEN MACHINERY ASSOCIATION</item>
+        <item>BRITISH AUTOMOBILE MANUFACTURERS ASSOCIATION (USA)</item>
+        <item>BRITISH AUTOMOTIVE PARTS PROMOTION COUNCIL</item>
+        <item>BRAKE ASSIST SYSTEM</item>
+        <item>GERMAN FEDERAL HIGHWAY RESEARCH AGENCY</item>
+        <item>BEAT AUTO THEFT (ILLINOIS)</item>
+        <item>BEST AVAILABLE TECHNIQUES</item>
+        <item>BEST ABAILABLE TECHNIQUE NOT ENTAILING EXCESSIVE COST</item>
+        <item>BEST AVAILABLE TREATMENT, RECOVERY AND RECYCLING TECHNIQUES(esp WEEE)</item>
+        <item>BRITISH BUSINESS BUREAU</item>
+        <item>BASIC CREDIT APPROVAL</item>
+        <item>BUREAU OF CONSTRUCTION AND AGRICULTURAL MACHINERY (CHINA)</item>
+        <item>BRITISH CONSULTANTS BUREAU</item>
+        <item>BUS &amp; COACH COUNCIL (NOW CONFEDERATION OF PASSENGER TRANSPORT UK – SEE CPT)</item>
+        <item>BUSINESS CLIMATE CHANGE AND ENERGY GROUP (GOVERNMENT/BUSINESS GROUP)</item>
+        <item>BIRMINGHAM CHAMBER OF COMMERCE AND INDUSTRY</item>
+        <item>BRITISH CHEMICAL DISTRIBUTORS &amp; TRADERS ASSOCIATION</item>
+        <item>BRITISH COATINGS FEDERATION</item>
+        <item>BRITISH COMPRESSED GASES ASSOCIATION</item>
+        <item>BODY CONTROL MODULE</item>
+        <item>BRITISH COMBUSTION EQUIPMENT MANUFACTURERS ASSOCIATION</item>
+        <item>BUS AND COACH SECTION</item>
+        <item>BRITISH CAR WASH MANUFACTURERS ASSOCIATION</item>
+        <item>BRITISH ELECTROTECHNICAL &amp; ALLIED MANUFACTURERS ASSOCIATION</item>
+        <item>BRITISH EXHIBITION CONTRACTORS ASSOCIATION</item>
+        <item>BUSINESS ENERGY FORUM (GOVERNMENT/BUSINESS GROUP)</item>
+        <item>BRITISH ENGINES GROUP</item>
+        <item>MOTOR &amp; ALLIED TRADES BENEVOLENT FUND</item>
+        <item>BUSINESS, ENTERPRISE &amp; RGULATORY REFORM</item>
+        <item>BUREAU EUROPEEN DES UNIONS DE COSOMMATEURS (CONSORTIUM OF CONSUMER ORGANIZATIONS IN THE MEMBER STATES OF THE EEC)</item>
+        <item>BATTERY ELECTRIC VEHICLE</item>
+        <item>BRITISH FLUID POWER ASSOCIATION</item>
+        <item>BRITISH FLUID POWER DISTRIBUTORS ASSOCIATION</item>
+        <item>BROMINATED FLAME RETARDANT</item>
+        <item>BRITISH HEALTHCARE TRADES ASSOCIATION</item>
+        <item>BULKY HOUSEHOLD WASTE</item>
+        <item>BRITISH INTERNAL COMBUSTION ENGINE MANUFACTURERS ASSOCIATION</item>
+        <item>BRITISH INTERNATIONAL FREIGHT ASSOCIATION</item>
+        <item>BILINDIMPORTORENES (ASSOCIATION OF SWEDISH AUTOMOTIVE MANUFACTURERS AND WHOLESALERS)</item>
+        <item>BRITISH INDEPENDENT MOTOR TRADES ASSOCIATION</item>
+        <item>BIOFIDELIC REAR IMPACT DUMMY</item>
+        <item>BUSINESS INFORMATION PUBLICATIONS</item>
+        <item>EUROPEAN RETREAD (TYRE) MANUFACTURERS ASSOCIATION</item>
+        <item>BUREAU INTERNATIONAL DE LA RECUPERATION (RECOVERY AND RECYCLING ASSOCIATION)</item>
+        <item>BRITISH IRON AND STEEL CONSUMER COUNCIL</item>
+        <item>BUILT IN TEST</item>
+        <item>BRITISH INDUSTRIAL TRUCK ASSOCIATION</item>
+        <item>BELGIAN ROAD SAFETY INSTITUTE (BELGISCH INSTITUUT VOOR VERKEERSVEILIGHEID)</item>
+        <item>BODY IN WHITE</item>
+        <item>BUREAU OF JUSTICE ASSISTANCE (USA)</item>
+        <item>BONNET LEADING EDGE (HEIGHT)</item>
+        <item>LIAISON OFFICE OF THE RUBBER INDUSTRY OF THE EEC</item>
+        <item>BENCHMARK(ING) [ALLOCATION UNDER EMISSIONS TRADING SCHEME]</item>
+        <item>BRITISH MEDICAL ASSOCIATION</item>
+        <item>BUREAU OF MOTOR CARRIER SAFETY</item>
+        <item>BRAKE MEAN EFFECTIVE PRESSURE</item>
+        <item>BRITISH METALS FEDERATION</item>
+        <item>BRITISH MOTORCYCLISTS ASSOCIATION</item>
+        <item>BRITISH MOTOR INDUSTRY HERITAGE TRUST</item>
+        <item>BRITISH METALS RECYCLING ASSOCIATION</item>
+        <item>BUNDESMINISTERIUM FUR VERKEHR, BAUIND WOHNUNGWESEN</item>
+        <item>BUREAU OF NATIONAL AFFAIRS (USA)</item>
+        <item>FRENCH STANDARDIZATION</item>
+        <item>BRITISH NATIONAL COMMITTEE OF CIMAC</item>
+        <item>BUREAU DE NORMALISATION DU PETROLE, France</item>
+        <item>BIOLOGICAL OXYGEN DEMAND</item>
+        <item>BRITISH OCCUPATIONALHYGIENE BOARD</item>
+        <item>BRITISH OCCUPATIONAL HYGIENE BOARD</item>
+        <item>BUILD OWN OPERATE</item>
+        <item>BRITISH OIL SPILL CONTROL ASSOCIATION</item>
+        <item>BRITISH OVERSEAS TRADE BOARD</item>
+        <item>BEST PRACTICABLE ENVIRONMENTAL OPTION</item>
+        <item>BRITISH PLASTICS FEDERATION</item>
+        <item>BEST PRACTICABLE MEANS</item>
+        <item>BEST PRACTICABLE THROUGHPUT RATE</item>
+        <item>BRITISH QUALITY ASSOCIATION</item>
+        <item>BRITISH QUALITY FOUNDATION</item>
+        <item>BETTER QUALITY SERVICE</item>
+        <item>BRITISH RAIL</item>
+        <item>BULK REFUSE CONTAINER</item>
+        <item>BRITISH RACING DRIVERS’ CLUB</item>
+        <item>BUILDING RESEARCH ESTABLISHMENT</item>
+        <item>BRITISH RENEWABLE ENERGY FEDERATION</item>
+        <item>BEST AVAILABLE TECHNIQUES</item>
+        <item>BRITISH ROAD FEDERATION</item>
+        <item>BRITISH RUBBER MANUFACTURERS ASSOCIATION</item>
+        <item>BRITISH RECOVERED PAPER ASSOCIATION (formerly British Waste Paper Association)</item>
+        <item>BRITISH RACING &amp; SPORTS CAR CLUB</item>
+        <item>BALANCING &amp; SETTLEMENT CODE (UNDER NETA)</item>
+        <item>BRAKE SPECIFIC FUEL CONSUMPTION</item>
+        <item>BRITISH STANDARDS INSTITUTION</item>
+        <item>BRITISH STANDARDS INSTITUTION QUALITY ASSOCIATION</item>
+        <item>BUS SERVICE OPERATORS’ GRANT</item>
+        <item>BUILDING SERVICES RESEARCH &amp; INFORMATION ASSOCIATION</item>
+        <item>BLACK STANDARD TEMPERATURE</item>
+        <item>TECHNICAL BOARD, CEN</item>
+        <item>BIOMASS TO LIQUIDS</item>
+        <item>BRITISH TRANSPORT POLICE</item>
+        <item>BRITISH VALVE AND ACTUATORS MANUFACTURERS’ ASSOCIATION</item>
+        <item>BRITISH VEHICLE RENTAL &amp; LEASING ASSOCIATION</item>
+        <item>BRITISH VEHICLE SALVAGE FEDERATION</item>
+    </string-array>
+
 </resources>

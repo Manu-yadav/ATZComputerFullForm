@@ -1,6 +1,4 @@
-package com.example.atzcomputerfullform.activities;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.androidtalk.atzcomputerfullform.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,7 +6,7 @@ import android.os.Handler;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.example.atzcomputerfullform.R;
+import com.androidtalk.atzcomputerfullform.R;
 
 public class SplashActivity extends BaseActivity {
 

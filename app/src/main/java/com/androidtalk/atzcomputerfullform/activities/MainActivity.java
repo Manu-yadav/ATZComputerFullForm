@@ -1,4 +1,4 @@
-package com.example.atzcomputerfullform.activities;
+package com.androidtalk.atzcomputerfullform.activities;
 
 import android.content.Intent;
 import android.content.res.ColorStateList;
@@ -16,9 +16,9 @@ import androidx.annotation.RequiresApi;
 import androidx.cardview.widget.CardView;
 import androidx.core.graphics.drawable.DrawableCompat;
 
-import com.example.atzcomputerfullform.BuildConfig;
-import com.example.atzcomputerfullform.R;
-import com.example.atzcomputerfullform.utils.Constants;
+import com.androidtalk.atzcomputerfullform.BuildConfig;
+import com.androidtalk.atzcomputerfullform.R;
+import com.androidtalk.atzcomputerfullform.utils.Constants;
 
 public class MainActivity extends BaseActivity implements View.OnClickListener {
 
@@ -79,11 +79,62 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         findViewById(R.id.tv_facebook_link).setOnClickListener(this);
         findViewById(R.id.tv_instagram_link).setOnClickListener(this);
         findViewById(R.id.tv_all_app_link).setOnClickListener(this);
+        //Initializing ad.
+        /*MobileAds.initialize(this, new OnInitializationCompleteListener() {
+            @Override
+            public void onInitializationComplete(InitializationStatus initializationStatus) {
+            }
+        });*/
     }
 
     @Override
     void initVariables() {
         setHeaderColor(getResources().getColor(R.color.colorPrimaryDark));
+       /* mAdManagerAdView = findViewById(R.id.adManagerAdView);
+        mAdManagerAdView.setVisibility(View.VISIBLE);
+        AdManagerAdRequest adRequest = new AdManagerAdRequest.Builder().build();
+        mAdManagerAdView.loadAd(adRequest);
+        mAdManagerAdView.setAdListener(new AdListener() {
+            @Override
+            public void onAdClicked() {
+                // Code to be executed when the user clicks on an ad.
+                super.onAdClicked();
+                mAdManagerAdView.setVisibility(View.GONE);
+            }
+
+            @Override
+            public void onAdClosed() {
+                // Code to be executed when the user is about to return
+                // to the app after tapping on an ad.
+            }
+
+            @Override
+            public void onAdFailedToLoad(LoadAdError adError) {
+                super.onAdFailedToLoad(adError);
+                mAdManagerAdView.loadAd(adRequest);
+                Toast.makeText(MainActivity.this,"Failed to load "+adError.getMessage(),Toast.LENGTH_SHORT).show();
+                // Code to be executed when an ad request fails.
+            }
+
+            @Override
+            public void onAdImpression() {
+                // Code to be executed when an impression is recorded
+                // for an ad.
+            }
+
+            @Override
+            public void onAdLoaded() {
+                // Code to be executed when an ad finishes loading.
+                Toast.makeText(MainActivity.this,"Ad loaded",Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onAdOpened() {
+                super.onAdOpened();
+                // Code to be executed when an ad opens an overlay that
+                // covers the screen.
+            }
+        });*/
     }
 
     private void setHeaderColor(int color) {
@@ -203,7 +254,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             case R.id.tv_all_app_link:
                 Intent allOurApp =
                         new Intent("android.intent.action.VIEW",
-                                Uri.parse("https://www.google.com/"));
+                                Uri.parse("https://play.google.com/store/apps/details?id=" + BuildConfig.APPLICATION_ID ));
                 startActivity(allOurApp);
                 break;
         }

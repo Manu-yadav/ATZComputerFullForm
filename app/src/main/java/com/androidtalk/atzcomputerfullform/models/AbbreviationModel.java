@@ -1,4 +1,4 @@
-package com.example.atzcomputerfullform.models;
+package com.androidtalk.atzcomputerfullform.models;
 
 public class AbbreviationModel {
     private String abbreviation;

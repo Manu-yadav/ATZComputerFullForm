@@ -1,4 +1,4 @@
-package com.example.atzcomputerfullform.utils;
+package com.androidtalk.atzcomputerfullform.utils;
 
 public class Constants {
     public static final String A_TO_B_COLOR_CODE = "A_TO_B_COLOR_CODE";

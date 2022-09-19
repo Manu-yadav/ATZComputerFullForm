@@ -1,4 +1,4 @@
-package com.example.atzcomputerfullform;
+package com.androidtalk.atzcomputerfullform;
 
 import android.content.Context;
 

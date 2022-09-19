@@ -1,4 +1,4 @@
-package com.example.atzcomputerfullform.activities;
+package com.androidtalk.atzcomputerfullform.activities;
 
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
@@ -14,10 +14,10 @@ import androidx.core.graphics.drawable.DrawableCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.atzcomputerfullform.R;
-import com.example.atzcomputerfullform.adaptor.AbbreviationAdaptor;
-import com.example.atzcomputerfullform.models.AbbreviationModel;
-import com.example.atzcomputerfullform.utils.Constants;
+import com.androidtalk.atzcomputerfullform.R;
+import com.androidtalk.atzcomputerfullform.adaptor.AbbreviationAdaptor;
+import com.androidtalk.atzcomputerfullform.models.AbbreviationModel;
+import com.androidtalk.atzcomputerfullform.utils.Constants;
 
 import java.util.ArrayList;
 
@@ -57,6 +57,17 @@ public class FullFormActivity extends BaseActivity {
         mAbbreviationRV.setLayoutManager(linearLayoutManager);
         mAbbreviationRV.setAdapter(mAbbreviationAdaptor);
         Intent intent = getIntent();
+        switch (Constants.FROM){
+
+            case "Computer":
+                break;
+            case "Medical Science":
+                break;
+            case "Banking":
+                break;
+
+
+        }
         if (intent.getStringExtra(Constants.FROM).equals(Constants.FROM_A_TO_B)) {
             mTitleTV.setText("Computer Full Form A to B");
             int color = intent.getIntExtra(Constants.A_TO_B_COLOR_CODE, 0);

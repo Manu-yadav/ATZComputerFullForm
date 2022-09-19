@@ -18,4 +18,6 @@
     <color name="word_lime_bg">#CDDC39</color>
     <color name="word_pink_bg">#FFB6C1</color>
     <color name="word_yellow_bg">#BCF12A</color>
+
+    <color name="icon_circle_color">#CCCCCC</color>
 </resources>

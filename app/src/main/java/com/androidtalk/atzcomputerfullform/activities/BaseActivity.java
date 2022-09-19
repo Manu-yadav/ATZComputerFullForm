@@ -1,4 +1,4 @@
-package com.example.atzcomputerfullform.activities;
+package com.androidtalk.atzcomputerfullform.activities;
 
 import android.os.Bundle;
 
