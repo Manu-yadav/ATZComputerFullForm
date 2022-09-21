@@ -1157,4 +1157,490 @@
         <item>BRITISH VEHICLE SALVAGE FEDERATION</item>
     </string-array>
 
+    <string-array name="automobile_abbreviation_c_to_d">
+        <item>C</item>
+        <item>CA</item>
+        <item>CA</item>
+        <item>CAA</item>
+        <item>CAAM</item>
+        <item>CAC</item>
+        <item>CAC</item>
+        <item>CAD</item>
+        <item>CAE</item>
+        <item>CAESAR</item>
+        <item>CAGR</item>
+        <item>CAM</item>
+        <item>CAM</item>
+        <item>CAN</item>
+        <item>CAPT</item>
+        <item>CARB</item>
+        <item>CARE</item>
+        <item>CAS</item>
+        <item>CASE</item>
+        <item>CATP</item>
+        <item>CATs</item>
+        <item>CBA</item>
+        <item>CBI</item>
+        <item>CBI</item>
+        <item>CBI</item>
+        <item>CBM</item>
+        <item>CC</item>
+        <item>CCA</item>
+        <item>CCC</item>
+        <item>CCFA</item>
+        <item>CCL</item>
+        <item>CCL</item>
+        <item>CCP</item>
+        <item>CCR</item>
+        <item>CCT</item>
+        <item>CCTV</item>
+        <item>CD</item>
+        <item>CDG</item>
+        <item>CDGRail</item>
+        <item>CDGRoad</item>
+        <item>CDL</item>
+        <item>CDM</item>
+        <item>CEA</item>
+        <item>CEA</item>
+        <item>CEC</item>
+        <item>CED</item>
+        <item>CEFIC</item>
+        <item>CEI (IEC)</item>
+        <item>CEMA</item>
+        <item>CEN</item>
+        <item>CENELEC</item>
+        <item>CEO</item>
+        <item>CEPE</item>
+        <item>CEPI</item>
+        <item>CEST</item>
+        <item>CETE</item>
+        <item>CFA</item>
+        <item>CFBAC</item>
+        <item>CFC</item>
+        <item>CFD</item>
+        <item>CFEIS</item>
+        <item>CFF</item>
+        <item>CfiT</item>
+        <item>CFPP</item>
+        <item>CFR</item>
+        <item>CFR</item>
+        <item>CFV</item>
+        <item>CG</item>
+        <item>CGI</item>
+        <item>CHEM</item>
+        <item>CHIEF</item>
+        <item>CHMSL</item>
+        <item>CHP</item>
+        <item>CHP</item>
+        <item>CHPA</item>
+        <item>CI</item>
+        <item>CIA</item>
+        <item>CIDADEC</item>
+        <item>CIDI</item>
+        <item>CIE</item>
+        <item>CIEF</item>
+        <item>CILG</item>
+        <item>CIM</item>
+        <item>CIMAH</item>
+        <item>CIPFA</item>
+        <item>CIRIA</item>
+        <item>CIS</item>
+        <item>CISPR</item>
+        <item>CFPP</item>
+        <item>CITA</item>
+        <item>CITB</item>
+        <item>CITs</item>
+        <item>CIWEM</item>
+        <item>CIWM</item>
+        <item>CLAW</item>
+        <item>CLCA</item>
+        <item>CLCVTC</item>
+        <item>CLD</item>
+        <item>CLEAR</item>
+        <item>CLEDIPA</item>
+        <item>CLEPA</item>
+        <item>CLER</item>
+        <item>CLEUD</item>
+        <item>CLH</item>
+        <item>CLRTAP</item>
+        <item>CMBS</item>
+        <item>CMC</item>
+        <item>CMEA</item>
+        <item>CMF</item>
+        <item>CMPS</item>
+        <item>CMR</item>
+        <item>CMV</item>
+        <item>CMVSA</item>
+        <item>CMVSS</item>
+        <item>CN</item>
+        <item>CNC</item>
+        <item>CNG</item>
+        <item>CoC</item>
+        <item>COD</item>
+        <item>COD</item>
+        <item>CODES</item>
+        <item>COER</item>
+        <item>COGENT</item>
+        <item>COIF</item>
+        <item>COMAH</item>
+        <item>COMEAP</item>
+        <item>COMMET</item>
+        <item>CONCAWE</item>
+        <item>COP</item>
+        <item>CoPA 1974</item>
+        <item>COR</item>
+        <item>CORA</item>
+        <item>COSHH</item>
+        <item>COSVAM</item>
+        <item>COTR</item>
+        <item>CP</item>
+        <item>CPA</item>
+        <item>CPC</item>
+        <item>CPC</item>
+        <item>CPOS</item>
+        <item>CPSC</item>
+        <item>CPT</item>
+        <item>CRA</item>
+        <item>CRABI</item>
+        <item>CRASH</item>
+        <item>CRDF</item>
+        <item>CREED</item>
+        <item>CRF</item>
+        <item>CRI</item>
+        <item>CRN</item>
+        <item>CROSS</item>
+        <item>CRP</item>
+        <item>CRS</item>
+        <item>CRT</item>
+        <item>CRT</item>
+        <item>CSA</item>
+        <item>CSA</item>
+        <item>CSDD</item>
+        <item>CSERGE</item>
+        <item>CSFTE</item>
+        <item>CSNI</item>
+        <item>CSO</item>
+        <item>CSR</item>
+        <item>CSR</item>
+        <item>CSRS</item>
+        <item>CSSA</item>
+        <item>CT</item>
+        <item>CTA</item>
+        <item>CTA</item>
+        <item>CTP</item>
+        <item>CTRL</item>
+        <item>CUNA</item>
+        <item>CURB</item>
+        <item>CURS</item>
+        <item>CUSA</item>
+        <item>CV</item>
+        <item>CV</item>
+        <item>CVBB</item>
+        <item>CVMS</item>
+        <item>CVRA</item>
+        <item>CVSA</item>
+        <item>CVT</item>
+        <item>CW</item>
+        <item>CWA</item>
+        <item>CWWG</item>
+
+
+        <item>D</item>
+        <item>DAB</item>
+        <item>DAC</item>
+        <item>DAC</item>
+        <item>DAM</item>
+        <item>DAS</item>
+        <item>DASCAR</item>
+        <item>DBERR</item>
+        <item>DBFO</item>
+        <item>DBI</item>
+        <item>DC</item>
+        <item>DCAS</item>
+        <item>DCC</item>
+        <item>DCMS</item>
+        <item>DCT</item>
+        <item>DDMC</item>
+        <item>DEFRA</item>
+        <item>DEG</item>
+        <item>DEOG</item>
+        <item>DERA</item>
+        <item>DERA</item>
+        <item>DETA</item>
+        <item>DETR</item>
+        <item>DfES</item>
+        <item>DFG</item>
+        <item>DFID</item>
+        <item>DfT</item>
+        <item>DGSA</item>
+        <item>DH</item>
+        <item>DI</item>
+        <item>DIN</item>
+        <item>DIQAP</item>
+        <item>DIS</item>
+        <item>DIS</item>
+        <item>DLO</item>
+        <item>DLR</item>
+        <item>DME</item>
+        <item>DMFC</item>
+        <item>DNC</item>
+        <item>DNEL</item>
+        <item>DOC</item>
+        <item>DoC</item>
+        <item>DoD</item>
+        <item>DoE</item>
+        <item>DoE</item>
+        <item>DOHC</item>
+        <item>DoT</item>
+        <item>DoTaRS</item>
+        <item>DP</item>
+        <item>DPF</item>
+        <item>DPM</item>
+        <item>DPM</item>
+        <item>DPNR</item>
+        <item>DPTAC</item>
+        <item>DPV</item>
+        <item>DRDF</item>
+        <item>DRE</item>
+        <item>DRIVE</item>
+        <item>DRL</item>
+        <item>DS</item>
+        <item>DS</item>
+        <item>DSA</item>
+        <item>DSC</item>
+        <item>DSC</item>
+        <item>DSD</item>
+        <item>DSD</item>
+        <item>DSO</item>
+        <item>DSP</item>
+        <item>DSP</item>
+        <item>DSRC</item>
+        <item>DSTC</item>
+        <item>DTI</item>
+        <item>DTL</item>
+        <item>DTLR</item>
+        <item>DU</item>
+        <item>DUT</item>
+        <item>DVA</item>
+        <item>DVD</item>
+        <item>DVLC</item>
+        <item>DVLNI</item>
+        <item>DVPR</item>
+        <item>DVT</item>
+        <item>DVTA</item>
+        <item>DWI</item>
+        <item>DWP</item>
+        <item>DZNM</item>
+    </string-array>
+
+    <string-array name="automobile_fullform_c_to_d">
+        <item>Full Form</item>
+        <item>COPETENT AUTHORITY</item>
+        <item>COMPROMISE AMENDMENT</item>
+        <item>CIVIL AVIATION AUTHORITY</item>
+        <item>CHINA ASSOCIATION OF AUTOMOBILE MANUFACTURERS</item>
+        <item>CONSUMER AFFAIRS COMMITTEE</item>
+        <item>CHANNEL AMPLITUDE CLASS</item>
+        <item>COMPUTER AIDED DESIGN</item>
+        <item>COMPUTER AIDED ENGINEERING</item>
+        <item>CIVILIAN AMERICAN AND EUROPEAN SURFACE ANTHROPOMETRY RESOURCE</item>
+        <item>COMPOUND ANNUAL GROWTH RATE</item>
+        <item>COMPUTER AIDED MACHINING</item>
+        <item>COMPUTER AIDED MANUFACTURE</item>
+        <item>CONTROLLER AREA NETWORK</item>
+        <item>CHILD ACCIDENT PREVENTION TRUST</item>
+        <item>CALIFORNIAN AIR RESOURCES BOARD</item>
+        <item>CONSORTIUM FOR AUTOMOTIVE RECYCLING</item>
+        <item>CENTRE FOR AUTO SAFETY (USA)</item>
+        <item>COMPUTER AIDED SOFTWARE ENGINEERING</item>
+        <item>COMMITTEE FOR ADAPTION TO TECHNICAL PROGRESS</item>
+        <item>CORRECTIVE ACTION TEAMS</item>
+        <item>COST BENEFIT ANALYSIS</item>
+        <item>CONFEDERATION OF BRITISH INDUSTRY</item>
+        <item>CONFEDERATION OF BRITISH INDUSTRY</item>
+        <item>CONFIDENTIAL BUSINESS INFORMATION</item>
+        <item>CONDITION BASES MAINTENANCE</item>
+        <item>CONGESTION CHARGE</item>
+        <item>CLIMATE CHANGE AGREEMENT</item>
+        <item>CAMPING &amp; CARAVAN CLUB</item>
+        <item>COMITE DES CONSTRUCTEURS FRANCAIS D’AUTOMOBILES (FRANCE)</item>
+        <item>CLIMATE CHANGE LEVY</item>
+        <item>COMPACTED CLAY LINER</item>
+        <item>COMMERCIAL CUSTOMER PROGRAMME</item>
+        <item>CALIFORNIAN CODE OF REGULATIONS</item>
+        <item>COMPULSORY COMPETITIVE TENDERING [NOW BEST VALUE]</item>
+        <item>CLOSE CIRCUIT TELEVISION</item>
+        <item>CONSOLIDATED DOCUMENT</item>
+        <item>CARRIAGE OF DANGEROUS GOODS</item>
+        <item>CARRIAGE OF DANGEROUS GOODS BY RAIL</item>
+        <item>CARRIAGE OF DANGEROUS GOODS BY ROAD</item>
+        <item>COMMERICAL DRIVERS LICENCE</item>
+        <item>CLEAN DEVELOPMENT MECHANISM</item>
+        <item>CONFEDERATION ESPANOLA DE AUTOMOCION</item>
+        <item>COMBUSTION ENGINEERING ASSOCIATION</item>
+        <item>OMMISSION OF THE EUROPEAN COMMUNITIES</item>
+        <item>COMMON EUROPEAN DEMONSTRATORS</item>
+        <item>EUROPEAN CHEMICAL INDUSTRY COUNCIL</item>
+        <item>INTERNATIONAL ELECTRO TECHNICAL COMMISSION</item>
+        <item>EUROPEAN COMMITTEE OF ASSOCIATIONS OF MANUFACTURERS OF AGRICULTURAL MACHINERY</item>
+        <item>COMITE EUROPEEN DE NORMALISATION (EUROPEAN COMMITTEE FOR STANDARDISATION)</item>
+        <item>EUROPEAN COMMITTEE FOR ELECTRICAL STANDARDISATION</item>
+        <item>CHIEF EXECUTIVE OFFICE(R)</item>
+        <item>EUROPEAN COUNCIL OF THE PAINT, PRINTING INK AND ARTISTS’ COLOURS INDUSTRY</item>
+        <item>CONFEDERATION OF EUROPEAN PAPER INDUSTRIES</item>
+        <item>CENTRE FOR EXPLOITATION OF SCIENCE &amp; TECHNOLOGY</item>
+        <item>CENTRE D’ETUDES TECHNIQUES DE L’EQUIPMENT DU SUD-OUEST (France)</item>
+        <item>CONSUMER FEDERATION OF AMERICA</item>
+        <item>CENTRAL FIRE BRIGADES ADVISORY COUNCIL</item>
+        <item>CHANNEL FREQUENCY CLASS</item>
+        <item>COMPUTATIONAL FLUID DYNAMICS</item>
+        <item>CERTIFICATION AND FUEL ECONOMY INFORMATION SYSTEM</item>
+        <item>CLEAN FUEL FLEET</item>
+        <item>COMMISSION FOR INTEGRATED TRANSPORT</item>
+        <item>COLD FILTER PLUGGING POINT (DIESEL)</item>
+        <item>CODE OF FEDERAL REGULATIONS</item>
+        <item>COOPERATIVE FUEL RESEARCH</item>
+        <item>CLEAN FUEL VEHICLE</item>
+        <item>CENTRE OF GRAVITY</item>
+        <item>COMPACT GRAPHITE IRON</item>
+        <item>CONTAINER HANDLING EQUIPMENT MANUFACTURERS (ASSOCIATION)</item>
+        <item>CUSTOMS HANDLING OF IMPORT AND EXPORT FREIGHT</item>
+        <item>CENTRAL HIGH MOUNTED STOP LIGHT</item>
+        <item>CALIFORNIA HIGHWAY PATROL</item>
+        <item>COMBINED HEAT &amp; POWER</item>
+        <item>COMBINED HEAT &amp; POWER ASSOCIATION</item>
+        <item>COMPRESSION IGNITION</item>
+        <item>CHEMICAL INDUSTRIES ASSOCIATION</item>
+        <item>INTERNATIONAL CONFEDERATION OF EXPERTS AND CONSULTANTS</item>
+        <item>COMPRESSION IGNITION DIRECT INJECTION</item>
+        <item>INTERNATIONAL COMMITTEE OF ILLUMINATION</item>
+        <item>CONSTRUCTION INDUSTRY ENVIRONMENTAL FORUM</item>
+        <item>COMPONENT INDUSTRY LIAISON GROUP</item>
+        <item>COMPUTER INTEGRATED MACHINING</item>
+        <item>CONTROL OF INDUSTRIAL MAJOR ACCIDENT HAZARDS REGS1984 (AS AMENDED)</item>
+        <item>CHARTERED INSTITUTE OF PUBLIC FINANCE AND ACCOUNTING</item>
+        <item>CONSTRUCTION INDUSTRY RESEARCH &amp; INFORMATION ASSOCIATION</item>
+        <item>COMMONWEALTH OF INDEPENDENT STATES (FORMER USSR)</item>
+        <item>COMITE INTERNATIONAL SPECIAL DES PERTURBATIONS RADIOELECTRIQUE</item>
+        <item>CFPP</item>
+        <item>INTERNATIONAL MOTOR VEHICLE INSPECTION COMMITTEE</item>
+        <item>CONSTRUCTION INDUSTRY TRAINING BOARD</item>
+        <item>CONTINOUS IMPROVEMENT TEAMS</item>
+        <item>CHARTERED INSTITUTION OF WATER &amp; ENVIRONMENTAL MANAGEMENT</item>
+        <item>CHARTERED INSTITUTE OF WASTES MANAGEMENT</item>
+        <item>CONTROL OF LEAD AT WORK REGS 1990</item>
+        <item>COMITE DE LIAISON DE LA CONSTUCTION AUTOMOBILE</item>
+        <item>CAR AND LIGHT COMMERCIAL VEHICLE TECHNICAL COMMITTEE</item>
+        <item>CHEMILUMINSCENT DETECTOR</item>
+        <item>CAMPAIGN FOR LEAD-FREE AIR</item>
+        <item>LIAISON COMMITTEE OF EEC AUTOMOBILE PARTS WHOLESALERS</item>
+        <item>LIAISON COMMITTEE FOR THE MANUFACTURE OF AUTOMOBILE EQUIPMENT &amp; SPARE PARTS</item>
+        <item>CLASSIFICATION &amp; LABELLING OF EXPLOSIVE REGULATIONS 1983</item>
+        <item>CERTIFICATE OF LAWFULNESS OF EXISTING USE OR DEVELOPMENT</item>
+        <item>COMPANIA LOGISTICA DE HYDROCARBUROS</item>
+        <item>CONVENTION ON LONG RANGE TRANSBOUNDARY AIR POLLUTION</item>
+        <item>COLLISION MITIGATION BRAKING SYSTEMS</item>
+        <item>CAR MULTIMEDIA COMMITTEE</item>
+        <item>COUNCIL FOR MUTUAL ECONOMIC AID</item>
+        <item>CAPITAL MODERNISATION FUND</item>
+        <item>CENTRE FOR MANAGEMENT AND POLICY STUDIES</item>
+        <item>CARCINOGENIC MUTAGENIC REPROTOXIC</item>
+        <item>COMMERCIAL MOTOR VEHICLE</item>
+        <item>COMMERICAL VEHICLE SAFETY ACT OF 1986 (USA)</item>
+        <item>CANADIAN MOTOR VEHICLE SAFETY STANDARDS</item>
+        <item>CONSOLIDATED AMENDMENT</item>
+        <item>COMPUTERISED NUMERICAL CONTROL</item>
+        <item>COMPRESSED NATURAL GAS</item>
+        <item>CERTIFICATE OF CONFORMITY</item>
+        <item>CHEMICAL OXYGEN DEMAND</item>
+        <item>CERTIFICATE OF DESTRUCTION (FOR VEHICLES)</item>
+        <item>CRASH OUTCOME DATA EVALUATION SYSTEMS (USA)</item>
+        <item>CONTROL OF EXPLOSIVES REGULATIONS</item>
+        <item>CO-DEVELOPMENT RE GENERATION TOOLS</item>
+        <item>CERTIFICATE OF INITIAL FITNESS</item>
+        <item>CONTROL OF MAJOR ACCIDENT HAZARDS</item>
+        <item>COMMITTEE OF THE MEDICAL EFFECTS OF AIR POLLUTANTS</item>
+        <item>COUNCIL OF MECHANICAL &amp; METAL TRADE ASSOCIATION</item>
+        <item>CONSERVATION OF CLEAN AIR AND WATER IN EUROPE (OIL COMPANIES)</item>
+        <item>CONFORMITY OF PRODUCTION</item>
+        <item>CONTROL of POLLUTION ACT</item>
+        <item>COMMITTEE OF THE REGIONS</item>
+        <item>CHEMICAL &amp; OIL RECOVERY ASSOCIATION</item>
+        <item>CONTROL OF SUBSTANCES HAZARDOUS TO HEALTH REGULATIONS 1994 (UK)</item>
+        <item>COALITION OF SMALL VOLUME AUTOMOBILE MANUFACTURERS (USA)</item>
+        <item>CONTRACTING OFFICERS TECHNICAL REPRESENTATIVE</item>
+        <item>CP</item>
+        <item>CPA</item>
+        <item>CPC</item>
+        <item>CPC</item>
+        <item>CPOS</item>
+        <item>CPSC</item>
+        <item>CPT</item>
+        <item>CRA</item>
+        <item>CRABI</item>
+        <item>CRASH</item>
+        <item>CRDF</item>
+        <item>CREED</item>
+        <item>CRF</item>
+        <item>CRI</item>
+        <item>CRN</item>
+        <item>CROSS</item>
+        <item>CRP</item>
+        <item>CRS</item>
+        <item>CRT</item>
+        <item>CRT</item>
+        <item>CSA</item>
+        <item>CSA</item>
+        <item>CSDD</item>
+        <item>CSERGE</item>
+        <item>CSFTE</item>
+        <item>CSNI</item>
+        <item>CSO</item>
+        <item>CSR</item>
+        <item>CSR</item>
+        <item>CSRS</item>
+        <item>CSSA</item>
+        <item>CT</item>
+        <item>CTA</item>
+        <item>CTA</item>
+        <item>CTP</item>
+        <item>CTRL</item>
+        <item>CUNA</item>
+        <item>CURB</item>
+        <item>CURS</item>
+        <item>CUSA</item>
+        <item>CV</item>
+        <item>CV</item>
+        <item>CVBB</item>
+        <item>CVMS</item>
+        <item>CVRA</item>
+        <item>CVSA</item>
+        <item>CVT</item>
+        <item>CW</item>
+        <item>CWA</item>
+        <item>CWWG</item>
+
+
+
+        <item>Full Form</item>
+        <item>Data Acquisition and Control</item>
+        <item>Digital Audio Tape</item>
+        <item>Decibel</item>
+        <item>Data Base Management System</item>
+        <item>Data Definition Language</item>
+        <item>Dynamics Hyper Text Markup Language</item>
+        <item>Data Manipulation Language</item>
+        <item>Domain Name System</item>
+        <item>Data Optimizing Computer</item>
+        <item>Document</item>
+        <item>Disk Operating System</item>
+        <item>Dynamic Random Access Memory</item>
+        <item>Digital Video/Versatile Disc</item>
+        <item>Digital Versatile Disk Recordable</item>
+        <item>Digital Versatile Disk Rewritable</item>
+        <item>Data Communications Equipment</item>
+        <item>Digital Visual Interface</item>
+        <item>Digital Video Recorder</item>
+    </string-array>
+
 </resources>

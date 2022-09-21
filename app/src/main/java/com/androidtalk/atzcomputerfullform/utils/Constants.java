@@ -26,4 +26,16 @@ public class Constants {
     public static final String FROM_U_TO_V = "FROM_U_TO_V";
     public static final String FROM_W_TO_X = "FROM_W_TO_X";
     public static final String FROM = "FROM";
+
+    //..........
+    public static final String KEY_SELECTED_CATEGORY = "KEY_SELECTED_CATEGORY";
+    public static final String KEY_SELECTED_CATEGORY_COLOR = "KEY_SELECTED_CATEGORY_COLOR";
+    public static final String KEY_ABBREVIATION_COLOR = "KEY_ABBREVIATION_COLOR";
+
+    //........Category.......
+    public static final String CAT_COMPUTER = "COMPUTER";
+    public static final String CAT_MEDICAL_SCIENCE = "MEDICAL SCIENCE";
+    public static final String CAT_AUTOMOBILE = "AUTOMOBILE";
+    public static final String CAT_BANKING = "BANKING";
+    public static final String CAT_CORPORATE = "CORPORATE";
 }

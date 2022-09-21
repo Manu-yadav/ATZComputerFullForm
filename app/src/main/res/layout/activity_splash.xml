@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#3C39C8">
+    android:background="#5c34a4">
 
     <ImageView
         android:id="@+id/fullscreen_content"
@@ -13,7 +13,7 @@
         android:gravity="center"
         android:keepScreenOn="true"
         android:src="@mipmap/app_icon"
-        android:textColor="@color/colorPrimary"
+        android:textColor="#683bb7"
         android:textSize="50sp"
         android:textStyle="bold" />
 
