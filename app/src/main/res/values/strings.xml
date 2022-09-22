@@ -1156,7 +1156,6 @@
         <item>BRITISH VEHICLE RENTAL &amp; LEASING ASSOCIATION</item>
         <item>BRITISH VEHICLE SALVAGE FEDERATION</item>
     </string-array>
-
     <string-array name="automobile_abbreviation_c_to_d">
         <item>C</item>
         <item>CA</item>
@@ -1432,7 +1431,6 @@
         <item>DWP</item>
         <item>DZNM</item>
     </string-array>
-
     <string-array name="automobile_fullform_c_to_d">
         <item>Full Form</item>
         <item>COPETENT AUTHORITY</item>
@@ -1569,78 +1567,697 @@
         <item>CONTROL OF SUBSTANCES HAZARDOUS TO HEALTH REGULATIONS 1994 (UK)</item>
         <item>COALITION OF SMALL VOLUME AUTOMOBILE MANUFACTURERS (USA)</item>
         <item>CONTRACTING OFFICERS TECHNICAL REPRESENTATIVE</item>
-        <item>CP</item>
-        <item>CPA</item>
-        <item>CPC</item>
-        <item>CPC</item>
-        <item>CPOS</item>
-        <item>CPSC</item>
-        <item>CPT</item>
-        <item>CRA</item>
-        <item>CRABI</item>
-        <item>CRASH</item>
-        <item>CRDF</item>
-        <item>CREED</item>
-        <item>CRF</item>
-        <item>CRI</item>
-        <item>CRN</item>
-        <item>CROSS</item>
-        <item>CRP</item>
-        <item>CRS</item>
-        <item>CRT</item>
-        <item>CRT</item>
-        <item>CSA</item>
-        <item>CSA</item>
-        <item>CSDD</item>
-        <item>CSERGE</item>
-        <item>CSFTE</item>
-        <item>CSNI</item>
-        <item>CSO</item>
-        <item>CSR</item>
-        <item>CSR</item>
-        <item>CSRS</item>
-        <item>CSSA</item>
-        <item>CT</item>
-        <item>CTA</item>
-        <item>CTA</item>
-        <item>CTP</item>
-        <item>CTRL</item>
-        <item>CUNA</item>
-        <item>CURB</item>
-        <item>CURS</item>
-        <item>CUSA</item>
-        <item>CV</item>
-        <item>CV</item>
-        <item>CVBB</item>
-        <item>CVMS</item>
-        <item>CVRA</item>
-        <item>CVSA</item>
-        <item>CVT</item>
-        <item>CW</item>
-        <item>CWA</item>
-        <item>CWWG</item>
-
+        <item>CLOUD POINT</item>
+        <item>CRIME PREVENTION AGENCY</item>
+        <item>CO-ORDINATED POLLUTION CONTROL</item>
+        <item>CERTIFICATE OF PROFESSIONAL COMPETENCE</item>
+        <item>FORMERLY COUNTY PLANNING OFFICERS SOCIETY (NOW PLANNING OFFICERS SOCIETY)</item>
+        <item>CONSUMER PRODUCT SAFETY COMMISSION (USA)</item>
+        <item>CONFEDERATION OF PASSENGER TRANSPORT UK (FORMERLY BUS AND COACH COUNCIL)</item>
+        <item>CENTRAL REGISTRATION ADMINISTRATOR</item>
+        <item>CHILD RESTRAINT &amp; AIRBAG INTERACTION (TASK FORCE)</item>
+        <item>CITIZENS FOR RELIABLE AND SAFE HIGHWAYS (USA)</item>
+        <item>COARSE REFUSE DERIVED FUEL (AS OPPOSED TO DENSIFIED RDF)</item>
+        <item>COLLABORATIVE RESEARCH IN THE ECONOMICS OF ENVIRONMENT &amp; DEVELOPMENT</item>
+        <item>CHILD RESTRAINT FIXTURE</item>
+        <item>CAPITAL RECEIPTS INITIATIVE</item>
+        <item>CRIME REFERENCE NUMBER</item>
+        <item>COMPREHENSIVE ROAD SURROUNDING SIMULATION</item>
+        <item>CO-OPERATIVE RESEARCH PROGRAM</item>
+        <item>CHILD RESTRAINT SYSTEMS</item>
+        <item>CONTINUOUSLY REGENERATING TRAP</item>
+        <item>CATHODE RAY TUBE</item>
+        <item>CANADIAN STANDARDS ASSOCIATION</item>
+        <item>CHEMICAL SAFETY ASSESSMENT</item>
+        <item>ROAD TRAFFIC SAFETY DIRECTORATE (LATVIA)</item>
+        <item>CENTRE FOR SOCIAL &amp; ECONOMIC RESEARCH ON THE GLOBAL ENVIRONMENT</item>
+        <item>CIVIL SERVICE FULL TIME EQUIVALENT</item>
+        <item>CZECH STANDARDS INSTITUTE</item>
+        <item>CAR SEAT ONLY (CHILD RESTRAINTS)</item>
+        <item>CORPORATE SOCIAL RESPONSIBILITY</item>
+        <item>CHEMICAL SAFETY REPORT (UNDER REACH)</item>
+        <item>CHILD SAFETY RESTRAINTS SYSTEM</item>
+        <item>CHAMBRE SYNDICALE SUISSE DE L’AUTOMOBILE ET BRANCHES ANNEXES (SWITZERLAND)</item>
+        <item>CURRENT TRANSFORMER (SIMILAR TO VT)</item>
+        <item>COMMERCIAL TRAILERS ASSOCIATION</item>
+        <item>COMMUNITY TRANSPORT ASSOCIATION</item>
+        <item>COMPOSITE TEST PROCEDURE</item>
+        <item>CHANNEL TUNNEL RAIL LINK</item>
+        <item>ITALIAN STANDARDS ORGANISATION</item>
+        <item>COMMUNITIES USING RESOURCES BETTER</item>
+        <item>COMPUTERISED VEHICLE AND ROUTING SCHEDULING SYSTEMS</item>
+        <item>CONNECTION AND USE OF SYSTEM AGREEMENT (SEE ALSO MCUSA)</item>
+        <item>CALORIFIC VALUE</item>
+        <item>COMMERCIAL VEHICLE</item>
+        <item>COMMERCIAL VEHICLES BODYBUILDERS SECTION</item>
+        <item>COMMERCIAL VEHICLE MANUFACTURERS SECTION</item>
+        <item>COMMERCIAL VEHICLE RACKING ASSOCIATION</item>
+        <item>COMMERCIAL VEHICLE SAFETY ALLIANCE (USA)</item>
+        <item>CONTINUOUS VARIABLE TRANSMISSION</item>
+        <item>CURB WEIGHT</item>
+        <item>CEN WORKSHOP AGREEMENT</item>
+        <item>CRASHWORTHINESS WORKING GROUP</item>
 
 
         <item>Full Form</item>
-        <item>Data Acquisition and Control</item>
-        <item>Digital Audio Tape</item>
-        <item>Decibel</item>
-        <item>Data Base Management System</item>
-        <item>Data Definition Language</item>
-        <item>Dynamics Hyper Text Markup Language</item>
-        <item>Data Manipulation Language</item>
-        <item>Domain Name System</item>
-        <item>Data Optimizing Computer</item>
-        <item>Document</item>
-        <item>Disk Operating System</item>
-        <item>Dynamic Random Access Memory</item>
-        <item>Digital Video/Versatile Disc</item>
-        <item>Digital Versatile Disk Recordable</item>
-        <item>Digital Versatile Disk Rewritable</item>
-        <item>Data Communications Equipment</item>
-        <item>Digital Visual Interface</item>
-        <item>Digital Video Recorder</item>
+        <item>DIGITAL AUDIO BROADCAST</item>
+        <item>DEPARTMENT APPROVAL CERTIFICATE (Northern Ireland)</item>
+        <item>DENSE ASPHALTIC CONCRETE</item>
+        <item>DESIGNATION OF APPROVAL MARKS (REGULATIONS)</item>
+        <item>DATA ACQUISITION SYSTEM</item>
+        <item>DATA ACQUISITION SYSTEM FOR CRASH AVOIDANCE RESEARCH</item>
+        <item>DEPARMENT FOR BUSINESS ENTERPRISE &amp; REGULATORY REFORM</item>
+        <item>DESIGN, BUILD, FINANCE AND OPERATE</item>
+        <item>DE DANSKE BILIMPORTORER (DENMARK)</item>
+        <item>DESIGNATED COUNCIL – LOCAL AUTHORITY AUTHORISED TGO CARRY OUT MOT TESTS</item>
+        <item>DISTANCE CONTROL ASSIST SYSTEM</item>
+        <item>DOUBLE COUNTING CORRECTION (EUETS/CCA)</item>
+        <item>DEPARTMENT FOR CULTURE, MEDIA AND SPORT</item>
+        <item>DUAL CLUTCH TRANSMISSION</item>
+        <item>DISABLED DRIVERS MOTOR CLUB</item>
+        <item>DEPARTMENT FOR ENVIRONMENT, FOODS AND RURAL AFFAIRS</item>
+        <item>DESIGN ENGINEERING GROUP</item>
+        <item>DIESEL EMISSION ORGANIC GASES</item>
+        <item>DEPARTMENT FOR ENVIRONMENT AND RURAL AFFAIRS</item>
+        <item>DEFENCE EVALUATION RESEARCH AGENCY</item>
+        <item>DATABASE for EXCHANGE of TYPE APPROVALS</item>
+        <item>DEPARTMENT OF THE ENVIRONMENT, TRANSPORT AND THE REGIONS</item>
+        <item>DEPARTMENT FOR EDUCATION AND SKILLS</item>
+        <item>DISABLED FACILITIES GRANT</item>
+        <item>DEPARTMENT FOR INTERNATIONAL DEVELOPMENT</item>
+        <item>DEPARTMENT FOR TRANSPORT</item>
+        <item>DANGEROUS GOODS SAFETY ADVISER</item>
+        <item>DEPARTMENT OF HEALTH</item>
+        <item>DIRECT INJECTION</item>
+        <item>DEUTCHES INSTITUT FUR NORMALISIERUNG</item>
+        <item>DEFENSE INDUSTRIES QUALITY ASSURANCE PANEL</item>
+        <item>DEPARTMENTAL INVESTMENT STRATEGY</item>
+        <item>DRAFT INTERNATIONAL STANDARD (IN ISO)</item>
+        <item>DIRECT LABOUR ORGANISATION</item>
+        <item>DOCKLANDS LIGHT RAILWAY</item>
+        <item>DI-METHYL ETHER</item>
+        <item>DIRECT METHANOL FUEL CELL</item>
+        <item>DECLARED NET CAPACITY FOR RENEWABLE ENERGY</item>
+        <item>DERIVED NO EFFECT CONCENTRATION</item>
+        <item>DIESEL OXIDATION CATALYST</item>
+        <item>DUTY OF CARE</item>
+        <item>DEPARTMENT OF DEFENCE (USA)</item>
+        <item>DEPARTMENT OF THE ENVIRONMENT</item>
+        <item>DEPARTMENT OF ENERGY (USA)</item>
+        <item>DUAL OVERHEAD CAMSHAFT</item>
+        <item>DEPARTMENT OF TRANSPORT</item>
+        <item>DEPARTMENT of TRANSPORT and REGIONAL SERVICES (AUS)</item>
+        <item>DESIGNATED PREMISES </item>
+        <item>DIESEL PARTICULATE FILTER</item>
+        <item>DEPUTY PRIME MINISTER</item>
+        <item>DIESEL PARTICULATE MATTER</item>
+        <item>DIESEL PARTICULATE – NOX REDUCTION SYSTEM</item>
+        <item>DISABLED PERSONS TRANSPORT ADVISORY COMMITTEE</item>
+        <item>DISABLED PERSON’S VEHICLE</item>
+        <item>DENSIFIED REFUSE DERIVED FUEL (AS OPPOSED TO COARSE RDF)</item>
+        <item>DRIVERS RIGHT EAR</item>
+        <item>DEDICATED ROAD INFRASTRUCTURE FOR VEHICLE SAFETY IN EUROPE</item>
+        <item>DAYTIME RUNNING LAMPS</item>
+        <item>DANSK STANDARDS</item>
+        <item>DANGEROUS SUBSTANCES</item>
+        <item>DRIVING STANDARDS AGENCY</item>
+        <item>DESIGNATED SEATING CAPACITY</item>
+        <item>DYNAMIC STABILITY CONTROL</item>
+        <item>DUALES SYSTEM DEUTSCHLAND</item>
+        <item>DANGEROUS SUBSTANCES </item>
+        <item>DIRECT SERVICE ORGANISATION</item>
+        <item>DESIGNATED SEATING POSITION</item>
+        <item>DYNAMIC STABILITY PROGRAM</item>
+        <item>DEDICATED SHORT RANGE COMMUNICATION</item>
+        <item>DYNAMIC STABILITY AND TRACTION CONTROL</item>
+        <item>DEPARTMENT OF TRADE AND INDUSTRY</item>
+        <item>DETROIT TESTING LABORATORY</item>
+        <item>DEPARTMENT OF TRANSPORT LOCAL GOVERNMENT AND REGIONS </item>
+        <item>DOWNSTREAM USER</item>
+        <item>DEVICE UNDER TEST</item>
+        <item>DRIVER AND VEHICLE LICENSING AGENCY – NORTHERN IRELAND</item>
+        <item>DIGITAL VERSATILE DISC</item>
+        <item>DRIVER AND VEHICLE LICENSING AGENCY</item>
+        <item>DRIVER AND VEHICLE LICENSING NORTHERN IRELAND</item>
+        <item>DRIVER AND VEHICLE POLICY AND REGULATION</item>
+        <item>DEEP VEIN THROMBOSIS</item>
+        <item>DRIVER AND VEHICLE TESTING AGENCY</item>
+        <item>DRIVING WHILE INTOXICATED</item>
+        <item>DEPARTMENT FOR WORK AND PENSIONS</item>
+        <item>STATE OFFICE for STANDARDIZATION &amp; METROLOGY (Croatia)</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_e_to_f">
+        <item>E</item>
+        <item>EA</item>
+        <item>EA</item>
+        <item>EA</item>
+        <item>EA</item>
+        <item>EAA</item>
+        <item>EAC</item>
+        <item>EAC</item>
+        <item>EAC</item>
+        <item>EAGLE</item>
+        <item>EAMA</item>
+        <item>EARS</item>
+        <item>EASA</item>
+        <item>EAU</item>
+        <item>EBIO</item>
+        <item>EBS</item>
+        <item>EC</item>
+        <item>ECA</item>
+        <item>ECAC</item>
+        <item>ECATRA</item>
+        <item>ECB</item>
+        <item>ECC</item>
+        <item>ECCP</item>
+        <item>ECE</item>
+        <item>ECF</item>
+        <item>ECG</item>
+        <item>ECG</item>
+        <item>ECJ</item>
+        <item>ECJ</item>
+        <item>ECM</item>
+        <item>ECMC</item>
+        <item>ECMT</item>
+        <item>ECOS</item>
+        <item>ECOSOC</item>
+        <item>ECS</item>
+        <item>ECSVA</item>
+        <item>ECU</item>
+        <item>ECV</item>
+        <item>ECWVTA</item>
+        <item>ED</item>
+        <item>EDI</item>
+        <item>EDIA</item>
+
+        <item>EDIE</item>
+        <item>EDIFACT</item>
+        <item>EDIFICE</item>
+        <item>EDL</item>
+        <item>EDM</item>
+        <item>EDMS</item>
+        <item>EDR</item>
+        <item>EDRM</item>
+        <item>EDT</item>
+        <item>EEA</item>
+        <item>EEA</item>
+        <item>EEB</item>
+        <item>EEC</item>
+        <item>EEE</item>
+        <item>EEFMA</item>
+        <item>EEMC</item>
+        <item>EEO</item>
+        <item>EEV</item>
+        <item>EEVC</item>
+        <item>EEVC</item>
+        <item>EEWC</item>
+        <item>EFAEP</item>
+        <item>EFL</item>
+        <item>EFLC</item>
+        <item>EFR</item>
+        <item>EFR</item>
+        <item>EFTA</item>
+        <item>EFW</item>
+        <item>EGARA</item>
+        <item>EGEA</item>
+        <item>EGNOS</item>
+        <item>EGR</item>
+        <item>EHA</item>
+        <item>EHPS</item>
+        <item>EIA</item>
+        <item>EIC</item>
+        <item>EIONET</item>
+        <item>EISA</item>
+        <item>EIU</item>
+        <item>ELC</item>
+        <item>ELD</item>
+
+        <item>ELF</item>
+        <item>ELOT</item>
+        <item>ELR</item>
+        <item>ELR</item>
+        <item>ELV</item>
+        <item>ELVs</item>
+        <item>EMA</item>
+        <item>EMAS</item>
+        <item>EMAS</item>
+        <item>EMC</item>
+        <item>EMEA</item>
+        <item>EMERGE</item>
+        <item>EMI</item>
+        <item>EMS</item>
+        <item>EMSA</item>
+        <item>EMTA</item>
+        <item>EMV</item>
+        <item>EN</item>
+        <item>ENCAMS</item>
+        <item>ENE</item>
+        <item>ENGVA</item>
+        <item>EnTra</item>
+        <item>ENTRUST</item>
+        <item>ENTWG</item>
+        <item>ENV</item>
+        <item>ENX</item>
+        <item>EOML</item>
+        <item>EOQC</item>
+        <item>EOS</item>
+        <item>EOS</item>
+        <item>EP</item>
+        <item>EPA</item>
+        <item>EPA 90</item>
+        <item>EPACT</item>
+        <item>EPAQS</item>
+        <item>EPD</item>
+        <item>EPER</item>
+        <item>EPG</item>
+        <item>EPMA</item>
+        <item>EPP</item>
+        <item>EPR</item>
+
+        <item>EPS</item>
+        <item>EPS</item>
+        <item>EPSRC</item>
+        <item>EQS</item>
+        <item>ERC</item>
+        <item>ERGA</item>
+        <item>ERGA</item>
+        <item>ERP</item>
+        <item>ERTICO</item>
+        <item>ERTMS</item>
+        <item>ERTRAC</item>
+        <item>ERU</item>
+        <item>ESA</item>
+        <item>ESA</item>
+        <item>ESAS</item>
+        <item>ESC</item>
+        <item>ESC</item>
+        <item>ESP</item>
+        <item>ESP</item>
+        <item>ESRC</item>
+        <item>ESTA</item>
+        <item>ESVA</item>
+        <item>ESVA</item>
+        <item>ET</item>
+        <item>ETA</item>
+        <item>ETAES</item>
+        <item>ETBE</item>
+        <item>ETBPP</item>
+        <item>ETC</item>
+        <item>ETC</item>
+        <item>ETI</item>
+        <item>ETIS</item>
+        <item>ETP</item>
+        <item>ETRC</item>
+        <item>ETRMA</item>
+        <item>ETRTO</item>
+        <item>ETS</item>
+        <item>ETSC</item>
+        <item>ETSI</item>
+        <item>ETSU</item>
+        <item>EU</item>
+
+        <item>EUCAR</item>
+        <item>EUCARIS</item>
+        <item>EUETS</item>
+        <item>EUMS</item>
+        <item>EUPC</item>
+        <item>EUROBAT</item>
+        <item>EUROFER</item>
+        <item>EUROMETAUX</item>
+        <item>EUROMETREC</item>
+        <item>EUROMOT</item>
+        <item>EURONCAP</item>
+        <item>EUROPEN</item>
+        <item>EUROPIA </item>
+        <item>EURORAP</item>
+        <item>EuroSID</item>
+        <item>EUROSTAT</item>
+        <item>EV</item>
+        <item>EVA</item>
+        <item>EVAP</item>
+        <item>EVI</item>
+        <item>EVL</item>
+        <item>EVR</item>
+        <item>EVSA</item>
+        <item>EVSA</item>
+        <item>EVSC</item>
+        <item>EWA</item>
+        <item>EWB</item>
+        <item>EWC</item>
+        <item>EWFA</item>
+
+        <item>F</item>
+        <item>FACS</item>
+        <item>FACT</item>
+        <item>FAEE</item>
+        <item>FAINES</item>
+        <item>FAME</item>
+        <item>FAP</item>
+        <item>FAPM</item>
+        <item>FAPP</item>
+        <item>FARS</item>
+        <item>FARS</item>
+        <item>FAU</item>
+        <item>FBHVC</item>
+        <item>FBU</item>
+        <item>FCAI</item>
+        <item>FCI</item>
+        <item>FCO</item>
+        <item>FCQAO</item>
+        <item>FCWS</item>
+        <item>FE</item>
+        <item>FEA</item>
+        <item>FEAD</item>
+        <item>FEF</item>
+        <item>FEFPEB</item>
+        <item>FEL</item>
+        <item>FEM</item>
+        <item>FEM</item>
+        <item>FEMA</item>
+        <item>FEMFM</item>
+        <item>FER</item>
+        <item>FFMS</item>
+        <item>FFO</item>
+        <item>FFPG</item>
+        <item>FFS</item>
+        <item>FFSG</item>
+        <item>FFV</item>
+        <item>FFV</item>
+        <item>FFVMA</item>
+        <item>FGG</item>
+        <item>FHLA</item>
+        <item>FHWA</item>
+        <item>FIA</item>
+        <item>FICC</item>
+        <item>FID</item>
+        <item>FIEV</item>
+        <item>FIGIEFA</item>
+        <item>FIRM</item>
+        <item>FLA</item>
+        <item>FLT</item>
+        <item>FMA</item>
+        <item>FMCEC</item>
+        <item>FMCSR</item>
+        <item>FMEA</item>
+        <item>FMH</item>
+        <item>FMVSS</item>
+        <item>FOBFO</item>
+        <item>FoE</item>
+        <item>FoEE</item>
+        <item>FOI</item>
+        <item>FOPS</item>
+        <item>FORS</item>
+        <item>FPC</item>
+        <item>FPP</item>
+        <item>FQA</item>
+        <item>FQP</item>
+        <item>FR</item>
+        <item>FRP</item>
+        <item>FS</item>
+        <item>FSG</item>
+        <item>FST</item>
+        <item>FTA</item>
+        <item>FTA</item>
+        <item>FTP</item>
+        <item>FTP</item>
+        <item>FTSS</item>
+        <item>FUPD</item>
+        <item>FVRS</item>
+    </string-array>
+    <string-array name="automobile_fullform_e_to_f">
+        <item>Full Form</item>
+        <item>ENERGY ABSORBING</item>
+        <item>ENVIRONMENT AGENCY</item>
+        <item>ENFORCING AUTHORITY</item>
+        <item>ENGINEERING ANALYSIS (NHTSA)</item>
+        <item>EUROPEAN ALUMINIUM ASSOCIATION</item>
+        <item>EDUCATIONAL AFFAIRS COMMITTEE</item>
+        <item>ENVIROMENTAL AUDIT COMMITTEE</item>
+        <item>EMERGENCY ACTION CODE</item>
+        <item>ENVIRONMENTAL ANALYSIS GROUP OF LABORATORY EXCELLENCE</item>
+        <item>EGYPTIAN AUTOMOBILE MANUFACTURERS ASSOCIATION</item>
+        <item>EUROPEAN AUTOMOTIVE REDAR SYSTEMS</item>
+        <item>EUROPEAN AVIATION SAFETY AGENCY</item>
+        <item>EU ALLOWANCE UNIT (UNDER EUETS)</item>
+        <item>EUROPEAN BIETHANOL FUEL ASSOCIATION</item>
+        <item>ELECTRONIC CONTROL OF BRAKING SYSTEMS</item>
+        <item>ELEMENTAL CARBON</item>
+        <item>ENCHANCED CAPITAL ALLOWANCE</item>
+        <item>EUROPEAN CIVIL AVIATION CONFERENCE</item>
+        <item>EUROPEAN CAR &amp; TRUCK RENTAL ASSOCIATION</item>
+        <item>EUROPEAN CHEMICALS BUREAU</item>
+        <item>ELECTRONIC CLIMATE CONTROL</item>
+        <item>EUROPEAN CLIMATE CHANGE PROGRAMME</item>
+        <item>ECONOMIC COMMISSION FOR EUROPE</item>
+        <item>EUROPEAN CARAVAN FEDERATION</item>
+        <item>ASSOCIATION OF EUROPEAN VEHICLE LOGISTICS</item>
+        <item>EUROPEAN CAR-TRANSPORT INTEREST GROUP</item>
+        <item>EUROPEAN COURT OF JUSTICE</item>
+        <item>EUROPEAN COMPETITION JOURNAL</item>
+        <item>ELECTRONIC CONTROL MODULE</item>
+        <item>EUROPEAN CONTAINER MANUFACTURERS COMMITTEE</item>
+        <item>EUROPEAN CONFERENCE of MINISTERS of TRANSPORT</item>
+        <item>ENVIRONMENT COUNCIL OF STATES</item>
+        <item>ECONOMIC &amp; SOCIAL COMMITTEE (OF EURO COMMISSION)</item>
+        <item>EDDY-CURRENT SEPARATOR</item>
+        <item>EUROPEAN COMMITTEE FOR SINGLE VEHICLE APPROVAL</item>
+        <item>ELECTRONIC CONTROL UNIT</item>
+        <item>ELECTRIC COMMERCIAL VEHICLE</item>
+        <item>EUROPEAN COMMUNITY WHOLE VEHICLE TYPE APPROVAL</item>
+        <item>ENUMERATION DISTRICT</item>
+        <item>ELECTRONIC DATA INTERCHANGE</item>
+        <item>ELECTRONIC DATA INTERCHANGE ASSOCIATION</item>
+        <item>ENVIRONMENTAL DATA INTERATIVE EXCHANGE (WEB NEWS SERVICE)</item>
+        <item>ELECTRONIC DATA INTERCHANGE FOR ADMINISTRATION, COMMERCE &amp; TRANSPORT</item>
+        <item>ELECTRONIC DATA INTERCHANGE FOR INTERESTED COMMERCIAL ENTERPRISES</item>
+        <item>ELECTRONIC DIFFERENTIAL LOCK</item>
+        <item>ELECTRO-DISCHARGE MACHINING</item>
+        <item>ELECTRONIC DATA MANAGEMENT SYSTEMS</item>
+        <item>EVENT DATA RECORDER</item>
+        <item>ELECTRONIC DATA RECORDS MANAGEMENT</item>
+        <item>ELECTRONIC DATA TRANSFER</item>
+        <item>EUROPEAN ECONOMIC AREA</item>
+        <item>EUROPEAN ENVIRONMENT AGENCY</item>
+        <item>EUROPEAN ENVIRONMENTAL BUREAU</item>
+        <item>EUROPEAN ECONOMIC COMMUNITY</item>
+        <item>ELECTRICAL AND ELECTRONIC EQUIPMENT</item>
+        <item>EUROPEAN EMULSION FUELS MANUFACTURERS ASSOCIATION</item>
+        <item>ENERGY EFFICIENCY MOTOR SPORT</item>
+        <item>EUROPEAN ECO-LABEL ORGANISATION</item>
+        <item>ENHANCED ENVIRONMENTAL FRIENDLY VEHICLES</item>
+        <item>EUROPEAN ENHANCED VEHICLE-SAFETY COMMITTEE</item>
+        <item>EUROPEAN EXPERIMENTAL VEHICLES COMMITTEE</item>
+        <item>EUROPEAN ENERGY FROM WASTE COALITION</item>
+        <item>EUROPEAN FEDERATION of ASSOCIATIONS of ENVIRONMENTAL PROFESSIONALS</item>
+        <item>EXTERNAL FINANCING LIMIT</item>
+        <item>EXTENDED FOLDING LARGE CONTAINERS</item>
+        <item>EUROPEAN FERROUS RECOVERY</item>
+        <item>EXTERNAL FINANCING REQUIREMENT</item>
+        <item>EUROPEAN FREE TRADE ASSOCIATION</item>
+        <item>ENERGY FOR WASTE</item>
+        <item>EUROPEAN GROUP OF AUTOMOTIVE RECYCLING ASSOCIATIONS</item>
+        <item>EUROPEAN GARAGE EQUIPMENT ASSOCIATION</item>
+        <item>EUROPEAN GEO-SATIONERY NAVIGATION OVERLAY SYSTEM</item>
+        <item>EXHAUST GAS RECIRCULATION</item>
+        <item>EUROPEAN HYDROGEN ASSOCIATION</item>
+        <item>ELECTRO-HYDRAUIC POWER STEERING</item>
+        <item>ENVIRONMENTAL IMPACT ASSESSMENT</item>
+        <item>ENVIRONMENT INDUSTRIES COMMISSION</item>
+        <item>EUROPEAN INFORMATION &amp; OBSERVATION NETWORK</item>
+        <item>EUROPEAN INDEPENDENT STEELWORKS ASSOCIATION</item>
+        <item>ECONOMIST INTELLIGENCE UNIT</item>
+        <item>EXHIBITION LIAISON COMMITTEE</item>
+        <item>ENVIRONMENTAL LIABILITY DIRECTIVE</item>
+        <item>END OF LIFE FRIDGE/FREEZER</item>
+        <item>HELLENIC ORGANISATION FOR STANDARDISATION (GREECE)</item>
+        <item>EMERGENCY LOCKING RETRACTORS</item>
+        <item>EMERGENCY LOCKING RETRACTORS</item>
+        <item>END of LIFE VEHICLE</item>
+        <item>EMISSION LIMIT VALUES</item>
+        <item>ENGINE MANUFACTURERS ASSOCIATION</item>
+        <item>ECO MANAGEMENT AND AUDIT SCHEME</item>
+        <item>EMPLOYMENT MEDICAL ADVISORY SERVICE (of HSE)</item>
+        <item>ELECTROMAGNETIC COMPATIBILITY</item>
+        <item>EUROPE, MIDDLE EAST AND AFRICA</item>
+        <item>ELECTRONIC MANUFACTURERS EQUIPMENT RECYCLING GROUP</item>
+        <item>ELECTROMAGNETIC INTERFERENCE</item>
+        <item>ENVIRONMENTAL MANAGEMENT SYSTEM/STANDARD</item>
+        <item>EUROPEAN MARITIME SAFETY AGENCY</item>
+        <item>THE NATIONAL TRAINING ORGANISATION FOR ENGINEERING MANUFACTURE</item>
+        <item>ELECTRONIC MULTI-VISION</item>
+        <item>EUROPEAN STANDARD</item>
+        <item>ENVIRONMENTAL CAMPAIGNS</item>
+        <item>ENERGY EFFICIENCY</item>
+        <item>EUROPEAN NATURAL GAS VEHICLE ASSOCIATION</item>
+        <item>ENGINEERING TRAINING AUTHORITY</item>
+        <item>ENVIRONMENTAL TRUST REGULATORY BODY LTD</item>
+        <item>EURO ENCAP TECHNICAL WORKING</item>
+        <item>EUROPEAN ‘PRE-STANDARD’</item>
+        <item>EUROPEAN NETWORK EXCHANGE</item>
+        <item>END OUTLINE MARKER LAMP</item>
+        <item>EUROPEAN ORGANIZATION FOR QUALITY CONTROL</item>
+        <item>END OF SERIES</item>
+        <item>ENVIROMENTAL OPERATING SYSTEM</item>
+        <item>EUROPEAN PARLIAMEN</item>
+        <item>ENVIRONMENTAL PROTECTION AGENCY</item>
+        <item>ENVIRONMENTAL PROTECTION ACT 1990</item>
+        <item>ENERGY POLICY ACT (USA)</item>
+        <item>EXPERT PANEL ON AIR QUALITY STANDARDS</item>
+        <item>ENVIROMENTAL PRODUCT DECLARATION</item>
+        <item>EU POLLUTANT EMISSION REGISTER</item>
+        <item>ENHANCED PROTECTIVE GLASS</item>
+        <item>EUROPEAN POWDER METALLURGY ASSOCIATION</item>
+        <item>ENVIRONMENTAL PERMITTING PROGRAMME</item>
+        <item>EXTENDED PRODUCER RESPONSIBILITY</item>
+        <item>ELECTRONIC POWER STEERING</item>
+        <item>EXPANDED POLYSTYRENE</item>
+        <item>ENGINEERING AND PHYSICAL SCIENCE RESEARCH COUNCIL</item>
+        <item>ENVIRONMENTAL QUALITY STANDARD (IPPC DIR)</item>
+        <item>EUROPEAN RADIOCOMMUNICATIONS COMMITTEE</item>
+        <item>EXTERIOR NOISE WORKING GROUP</item>
+        <item>EUROPEAN REGULATIONS GLOBAL APPROACH</item>
+        <item>ENTERPRISE RESOURCE PLANNING</item>
+        <item>INTELLIGENT TRANSPORT SYSTEMS – EUROPE</item>
+        <item>EUROPEAN RAIL TRAFFIC MANAGEMENT SYSTEM</item>
+        <item>EUROPEAN ROAD TRANSPORT RESEARCH ADVISORY COMMITTEE</item>
+        <item>EMISSION REDUCTION UNIT</item>
+        <item>ENVIRONMENTALLY SENSITIVE AREA</item>
+        <item>ENVIRONMENTAL SERVICES ASSOCIATION</item>
+        <item>ELECTRIC STEER ASSISTED STEERING</item>
+        <item>ELECTRONIC STABILITY CONTROL</item>
+        <item>ECONOMIC &amp; SOCIAL COMMITTEE (OF EURO COMMISSION ALSO ECOSOC)</item>
+        <item>ELECTRONIC STABILITY PROGRAM</item>
+        <item>ELECTRONIC STABILISATION PROGRAMME</item>
+        <item>ECONOMIC &amp; SOCIAL RESEARCH COUNCIL</item>
+        <item>EUROPEAN ASSOCIATION OF HEAVY HAULAGE TRANSPORT AND MOBILE CRANES</item>
+        <item>EUROPEAN SECURITY VEHICLE ASSOCIATION</item>
+        <item>ENHANCED SINGLE VEHICLE APPROVAL</item>
+        <item>EMERGENCY TESTING</item>
+        <item>ENVIRONMENTAL TRANSPORT ASSOCIATION</item>
+        <item>EUROPEAN TYPE APPROVAL EXCHANGE SYSTEM</item>
+        <item>ETHYL TERTIARY BUTYL ETHER</item>
+        <item>ENVIRONMENTAL TECHNOLOGY BEST PRACTICE PROGRAMME (DTI FUNDED)</item>
+        <item>ELECTRONIC THROTTLE CONTROL</item>
+        <item>EUROPEAN TRANSIENT CYCLE (GAS ENGINE EMISSIONS)</item>
+        <item>EQUIPMENT AND TOOL INSTITUTE</item>
+        <item>ENVIRONMENTAL TECHNOLOGY INNOVATION SCHEME (DTI FUNDED)</item>
+        <item>EFFLUENT TREATMENT PLANT</item>
+        <item>ELECTRONICALLY CONTROLLED BRAKING</item>
+        <item>EUROPEAN TYRE &amp; RUBBER MANUFACTURERS ASSOCIATION</item>
+        <item>EUROPEAN TYRE AND RIM TECHNICAL ORGANISATION</item>
+        <item>EMISSIONS TRADING SCHEME</item>
+        <item>EUROPEAN TRANSPORT SAFETY COUNCIL</item>
+        <item>EUROPEAN TELECOMMUNICATIONS STANDARDS INSTITUTE</item>
+        <item>ENVIRONMENTAL TECHNOLOGY SUPPORT UNIT (OF DTI)</item>
+        <item>EUROPEAN UNION</item>
+        <item>EUROPEAN COUNCIL FOR AUTOMOTIVE R&amp;D</item>
+        <item>EUROPEAN VEHICLE &amp; DRIVING LICENCE INFO SYSTEM</item>
+        <item>EU EMISSIONS TRADING SCHEME</item>
+        <item>EU MEMBERS STATE</item>
+        <item>EUROPEAN PLASTIC CONVERTERS</item>
+        <item>ASSOCIATION DES FABRICANTES EUROPEENS D’ACCUMULATEURS</item>
+        <item>ASSOCIATION EUROPEENE DE LA SIDERURGIE</item>
+        <item>METAUX NON FERREUX</item>
+        <item>EUROPEAN METAL TRADE AND RECYCLING FEDERATION</item>
+        <item>ASSOCIATION DE EUROPEAN MANUFACTURERS OF INTERNAL COMBUSTION ENGINES</item>
+        <item>EUROPEAN NEW CAR ASSESSMENT PROGRAMME</item>
+        <item>EUROPEAN ORGANISATION FOR PACKAGING &amp; THE ENVIRONMENT</item>
+        <item>EUROPEAN PETROLEUM INDUSTRY ASSOCIATION </item>
+        <item>EUROPEAN ROAD ASSESSMENT PROGRAMME</item>
+        <item>EUROPEAN SIDE IMPACT DUMMY</item>
+        <item>EC STATISTICAL BODY</item>
+        <item>ELECTRIC VEHICLE</item>
+        <item>ELECTRIC VEHICLE ASSOCIATION</item>
+        <item>EVAPORATIVE EMISSIONS</item>
+        <item>ELECTRONIC VEHICLE IDENTIFICATION</item>
+        <item>ELECTRONIC VEHICLE LICENSING</item>
+        <item>ELECTRONIC VEHICLE REGISTRATION</item>
+        <item>ELECTRIC VEHICLE SECURITY ASSOCIATION</item>
+        <item>ELECTRONIC VEHICLE SECURITY ASSOCIATION</item>
+        <item>ELECTRONIC VEHICLE STABILITY CONTROL</item>
+        <item>ENERGY FROM WASTE ASSOCIATION</item>
+        <item>ELECTRONIC WEDGE BRAKE</item>
+        <item>EUROPEAN WASTE CATALOGUE (94/3/EEC)</item>
+        <item>EUROPEAN WINDOW FILM ASSOCIATION</item>
+
+
+        <item>Full Form</item>
+        <item>FULLY AUTOMATIC COUPLING SYSTEM</item>
+        <item>FATAL ACCIDENT COMPLAINT TEAM (USA)</item>
+        <item>FATTY ACID ETHYL ESTER</item>
+        <item>FOREIGN-MADE AUTOMOBILE COMPONENTS INFORMATION NETWORK SYSTEM (JAPAN)</item>
+        <item>FATTY ACID METHYL ESTER</item>
+        <item>FLEET APPLICATION PROTOCOL</item>
+        <item>FEDERATION OF AUTOMOTIVE PRODUCTS MANUFACTURERS (AUSTRALIA)</item>
+        <item>FIT AND PROPER PERSON</item>
+        <item>FATAL ACCIDENT REPORTING SYSTEM (U.S. NHTSA)</item>
+        <item>FATALITY ANALYSIS REPORTING SYSTEM</item>
+        <item>FEDERATION AUTOMOBILE D’UKRAINE (UKRAINE)</item>
+        <item>FEDERATION OF BRITISH HISTORIC VEHICLE CLUBS</item>
+        <item>FIRE BRIGADES UNION</item>
+        <item>FEDERAL CHAMBER OF AUTOMOBILE INDUSTRIES (AUSTRALIA)</item>
+        <item>FUNCTIONAL CAPACITY INDEX</item>
+        <item>FOREIGN AND COMMONWEALTH OFFICE</item>
+        <item>GERMAN FEDERAL COMPOST QUALITY ASSURANCE ORGANISATION</item>
+        <item>FORWARD COLLISION WARNING SYSTEM</item>
+        <item>FIXED EQUIPMENT</item>
+        <item>FINITE ELEMENT ANALYSIS</item>
+        <item>FEAD</item>
+        <item>FORECOURT EQUIPMENT FEDERATION</item>
+        <item>EUROPEAN FEDERATION OF WOODEN PALLET &amp; PACKAGING MANUFACTURERS</item>
+        <item>FRONT END LOADER</item>
+        <item>FINITE ELEMENT MODEL</item>
+        <item>FRONT END MODULE</item>
+        <item>FEDERATION OF EUROPEAN MOTORCYCLISTS ASSOCIATION</item>
+        <item>FEDERATION OF EUROPEAN MANUFACTURERS OF FRICTION MATERIALS</item>
+        <item>FEDERATION OF ENGINE REMANUFACTURERS</item>
+        <item>FREIGHT AND FLEET MANAGEMENT SYSTEM</item>
+        <item>FACHVERBAND DER FAHRZEUGINDUSTRIE OSTERREICHS (AUSTRIA)</item>
+        <item>FARM FILM PRODUCERS GROUP</item>
+        <item>FREE FLOOR SPACE</item>
+        <item>FUTURE FUELS STRATEGY GROUP</item>
+        <item>FLAT FRONT VEHICLE</item>
+        <item>FLEXIBLE FUEL VEHICLE</item>
+        <item>FIRE FIGHTING VEHICLE MANUFACTURERS ASSOCIATION</item>
+        <item>FLUORINATED GREENHOUSE GAS</item>
+        <item>FINANCE HOUSES &amp; LEASING ASSOCIATION</item>
+        <item>FEDERAL HIGHWAY ADMINISTRATION</item>
+        <item>INTERNATIONAL AUTOMOBILE ASSOCIATION</item>
+        <item>FEDERATION INTERNATIONALE DE CAMPING ET DE CARAVANNING</item>
+        <item>FLAME IONISATION DETECTOR</item>
+        <item>FEDERATION DES INDUSTRIES DES EQUIPMENT POUR VEHICULES</item>
+        <item>INTERNATIONAL FEDERATION of AUTOMOTIVE AFTERMARKET DISTRIBUTORS</item>
+        <item>INTERNATIONAL ASSOCIATION of ENGINE REBUILDERS &amp; REMANUFACTURERS</item>
+        <item>FINANCE &amp; LEASING ASSOCIATION</item>
+        <item>FORKLIFT TRUCK</item>
+        <item>FEDERATION DU MATERIAL POUR L’AUTOMOBILE</item>
+        <item>FEDERATION OF MANUFACTURERS OF CONSTRUCTION EQUIPMENT AND CRANES</item>
+        <item>FEDERAL MOTOR CARRIER SAFETY REGULATIONS</item>
+        <item>FAILURE MODE AND EFFECTS ANALYSIS</item>
+        <item>FREE MOTION HEADFORM</item>
+        <item>FEDERAL MOTOR VEHICLE SAFETY STANDARDS</item>
+        <item>FEDERATION OF BRITISH FIRE OFFICERS</item>
+        <item>FRIENDS OF THE EARTH</item>
+        <item>FRIENDS OF THE EARTH EUROPE</item>
+        <item>FREEDOM OF INFORMATION</item>
+        <item>FALLING OBJECT PROTECTION STRUCTURES</item>
+        <item>FEDERAL OFFICE of ROAD SAFETY (AUSTRALIA)</item>
+        <item>FEMUR PERFORMANCE CRITERION</item>
+        <item>FUEL PREPARATION PLANT</item>
+        <item>FASTENER QUALITY ACT (USA)</item>
+        <item>FREIGHT QUALITY PARTNERSHIP</item>
+        <item>FEDERAL REGISTER</item>
+        <item>FRIDGE RECYCLING PLANTS</item>
+        <item>FULL SCALE</item>
+        <item>FACTORING SERVICES GROUP</item>
+        <item>FULL SCALE TEST</item>
+        <item>FREIGHT TRANSPORT ASSOCIATION</item>
+        <item>FEDERAL TRANSIT ADMINISTRATION (USA DoT)</item>
+        <item>FEDERAL TEST PROCEDURE</item>
+        <item>FILE TRANSFER PROTOCOL</item>
+        <item>FIRST TECHNOLOGY SAFETY SYTEMS</item>
+        <item>FRONT UNDERRUN PROTECTION DEVICE</item>
+        <item>FRANCHISED VEHICLE RETAILERS SECTION</item>
     </string-array>
 
 </resources>
