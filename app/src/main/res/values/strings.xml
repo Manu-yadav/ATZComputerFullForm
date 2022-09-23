@@ -2259,5 +2259,454 @@
         <item>FRONT UNDERRUN PROTECTION DEVICE</item>
         <item>FRANCHISED VEHICLE RETAILERS SECTION</item>
     </string-array>
+    <string-array name="automobile_abbreviation_g_to_h">
+        <item>G</item>
+        <item>GAIKINDO</item>
+        <item>GAP</item>
+        <item>GATB</item>
+        <item>GATT</item>
+        <item>GCC</item>
+        <item>GCL</item>
+        <item>GCWR</item>
+        <item>GDE</item>
+        <item>GDF</item>
+        <item>GDP</item>
+        <item>GDV</item>
+        <item>GEA</item>
+        <item>GEPE</item>
+        <item>GEPVP</item>
+        <item>GES</item>
+        <item>GESA</item>
+        <item>GESP</item>
+        <item>GF</item>
+        <item>GHG</item>
+        <item>GHS</item>
+        <item>GIDAS</item>
+        <item>GIEG</item>
+        <item>GIS</item>
+        <item>GLA</item>
+        <item>GMH</item>
+        <item>GMT</item>
+        <item>GNSS</item>
+        <item>GoEM</item>
+        <item>GOL</item>
+        <item>GOs</item>
+        <item>GPC</item>
+        <item>GPC</item>
+        <item>GPRMC</item>
+        <item>GPRS</item>
+        <item>GPS</item>
+        <item>GQA</item>
+        <item>GRB</item>
+        <item>GRD</item>
+        <item>GRE</item>
+        <item>GRPE</item>
+        <item>GRRF</item>
+        <item>GRSA</item>
+        <item>GRSP</item>
+        <item>GSA</item>
+        <item>GSI</item>
+        <item>GSI</item>
+        <item>GSM</item>
+        <item>GTA</item>
+        <item>GTB</item>
+        <item>GTDI</item>
+        <item>GTL</item>
+        <item>GTMA</item>
+        <item>GTR</item>
+        <item>GV(P&amp;T)</item>
+        <item>GVL</item>
+        <item>GVM</item>
+        <item>GVTS</item>
+        <item>GVW</item>
+        <item>GVWR</item>
+        <item>GWP</item>
+
+        <item>H</item>
+        <item>HA</item>
+        <item>HC</item>
+        <item>HCCI</item>
+        <item>HCFC</item>
+        <item>HCLD</item>
+        <item>HD</item>
+        <item>HDE</item>
+        <item>HDPE</item>
+        <item>HDV</item>
+        <item>HEAT</item>
+        <item>HECV</item>
+        <item>HEUI</item>
+        <item>HEV</item>
+        <item>HFCV</item>
+        <item>HFID</item>
+        <item>HGV</item>
+        <item>HHDDE</item>
+        <item>HIC</item>
+        <item>HID</item>
+        <item>HLDI</item>
+        <item>HMCE</item>
+        <item>HMI</item>
+        <item>HMIP</item>
+        <item>HMIPI</item>
+        <item>HMSO</item>
+        <item>HMT</item>
+        <item>HOPES</item>
+        <item>HPC</item>
+        <item>HR</item>
+        <item>HRA</item>
+        <item>HRMD</item>
+        <item>HSC</item>
+        <item>HSE</item>
+        <item>HSWA</item>
+        <item>HSWAct</item>
+        <item>HT</item>
+        <item>HUD</item>
+        <item>HVAC</item>
+        <item>HVC</item>
+        <item>HVE</item>
+        <item>HVF</item>
+        <item>HWID</item>
+        <item>HWL</item>
+        <item>HWRC</item>
+    </string-array>
+    <string-array name="automobile_fullform_g_to_h">
+        <item>Full Form</item>
+        <item>ASSOCIATION OF INDONESIAN AUTOMOTIVE INDUSTRIES</item>
+        <item>GLOBAL ACTION PLAN</item>
+        <item>GRAPHICAL ARTICULATED TOTAL BODY</item>
+        <item>GENERAL AGREEMENT ON TRADE AND TARIFFS</item>
+        <item>GLOBAL CHASSIS CONTROL</item>
+        <item>GEOSYNTHETIC CLAY LINER</item>
+        <item>GROSS COMBINATION VEHICLE RATING</item>
+        <item>BARRIERS TO TRADE GROUP (EEC GROUPEES DES ENTRAVES)</item>
+        <item>GEOGRAPHIC DATA FILE</item>
+        <item>GROSS DOMESTIC PRODUCT</item>
+        <item>INSTITUTE FOR VEHICLE SAFETY, GERMANY</item>
+        <item>GARAGE EQUIPMENT ASSOCIATION</item>
+        <item>GROUP OF EXPERTS ON POLLUTION AND ENERGY</item>
+        <item>GROUPMENT EUROPEAN DES PRODUCTEURS DE VERRE PLAT</item>
+        <item>GENERAL ESTIMATES SYSTEM</item>
+        <item>GROUP OF EXPERTS ON SAFETY PROVISIONS ON MOTOR COACHES AND BUSES</item>
+        <item>OICA GROUP OF EXPERTS ON PASSIVE SAFETY</item>
+        <item>GRANDFATHERING (ALLOCATION UNDER EMISSIONS TRADING SCHEME)</item>
+        <item>GREENHOUSE GAS</item>
+        <item>GLOBALLY HARMONISED SYSTEM</item>
+        <item>GERMAN IN-DEPTH ACCIDENT STUDIES (database)</item>
+        <item>GROUP DES INDUSTRIES D’EQUIPMENT DE GARAGE</item>
+        <item>GEOGRAPHICAL INFORMATION SYSTEM</item>
+        <item>GREATER LONDON AUTHORITY</item>
+        <item>GREAT MINSTER HOUSE (DfT HQ-Westminster)</item>
+        <item>GREENWICH MEAN TIME</item>
+        <item>GLOBAL NAVIGATION SATELLITE SYSTEM</item>
+        <item>GUILD of EXPERIENCED MOTORISTS</item>
+        <item>GOVERNMENT OFFICE FOR LONDON</item>
+        <item>GOVERNMENT OFFICES</item>
+        <item>GENERAL PURPOSES COMMITTEE</item>
+        <item>GOVERNMENT PROCUREMENT CARD</item>
+        <item>GROUPMENT EUROPEEN DES PLASTIQUES RENFORCES/MATERIAUX COMPOSITES</item>
+        <item>GENERAL PACKET RADIO SERVICE</item>
+        <item>GLOBAL POSITIONING SYSTEM</item>
+        <item>GENERAL QUALITY ASSESSMENT</item>
+        <item>GROUPE DE RAPPORTEURS BRUIE </item>
+        <item>GEOGRAPHIC ROAD DATABASE</item>
+        <item>GROUPE DE RAPPORTEUR</item>
+        <item>GROUPE DE RAPPORTEURS</item>
+        <item>GROUPE DE RAPPORTEURS</item>
+        <item>GROUPE DE RAPPORTEURS (SAFETY PROVISIONS ON MOTOR COACHES &amp; BUSES)</item>
+        <item>GROUPE DE RAPPORTEURS SECURITE PASSIVE</item>
+        <item>GEOMETRIC SURFACE AREA</item>
+        <item>GOVERNMENT SECURE INTRANET</item>
+        <item>GEAR SHIFT INDICATOR</item>
+        <item>GLOBAL SYSTEM FOR MOBILE</item>
+        <item>GROUP TRAINING ASSOCIATION</item>
+        <item>WORKING PARTY BRUSSLES 1952</item>
+        <item>GUIDELINES ON TRADE DATA INTERCHANGE (UK)</item>
+        <item>GAS-TO-LIQUIDS</item>
+        <item>GAUGE AND TOOLMAKERS ASSOCIATION</item>
+        <item>GLOBAL TECHNICAL REGULATIONS</item>
+        <item>GOODS VEHICLE (PLATING &amp; TESTING)</item>
+        <item>GROSS VEHICLE LOAD</item>
+        <item>GROSS VEHICLE MASS</item>
+        <item>GOODS VEHICLE TESTING STATION</item>
+        <item>GROSS VEHICLE WEIGHT</item>
+        <item>GROSS VEHICLE WEIGHT RATING</item>
+        <item>GLOBAL WARNING POTENTIAL</item>
+
+        <item>Full Form</item>
+        <item>HIGHWAYS AGENCY</item>
+        <item>HYDROCARBONS</item>
+        <item>HOMOGENOUS CHARGE COMPRESSION IGNITION</item>
+        <item>HYDROCHLOROFLUROCARBON</item>
+        <item>HEATED CHEMILUMINESCENT DETECTOR</item>
+        <item>HEAVY DUTY</item>
+        <item>HEAVY DUTY ENGINES</item>
+        <item>HIGH DENSITY POLYETHYLENE</item>
+        <item>HEAVY DUTY VEHICLES</item>
+        <item>HELP ELIMINATE AUTO THEFT</item>
+        <item>HYBRID ELECTRIC COMMERCIAL VEHICLE</item>
+        <item>HDRAULIC/ELECTRONIC UNIT INJECTOR</item>
+        <item>HYBRID ELECTRIC VEHICLE</item>
+        <item>HYDROGEN FUEL CELL VEHICLE</item>
+        <item>HEATED FLAME IONISATION DETECTOR</item>
+        <item>HEAVY GOODS VEHICLE</item>
+        <item>HEAVY HEAVY-DUTY DIESEL ENGINE</item>
+        <item>HEAD INJURY CRITERION</item>
+        <item>HIGH INTENSITY DISCHARGE</item>
+        <item>HIGHWAY LOSS DATA INSTITUTE</item>
+        <item>HER MAJESTY’S CUSTOMS AND EXCISE</item>
+        <item>HUMAN-MACHINE INTERACTION</item>
+        <item>HER MAJESTY’S INSPECTORATE OF POLLUTION (NOW ENVIRONMENT AGENCY)</item>
+        <item>HER MAJESTY’S INDUSTRIAL POLLUTION INSPECTORATE</item>
+        <item>HER MAJESTY’S STATIONARY OFFICE</item>
+        <item>HER MAJESTY’S TREASURY</item>
+        <item>HORIZONTAL PROJECT FOR EVALUATION OF SAFETY (DRIVE)</item>
+        <item>HEAD PERFORMANCE CRITERION</item>
+        <item>HUMAN RESOURCES</item>
+        <item>HUMAN RIGHTS ACT</item>
+        <item>HEAD RESTRAINT MEASURING DEVICE</item>
+        <item>HEALTH AND SAFETY COMMISSION</item>
+        <item>HEALTH AND SAFETY EXECUTIVE</item>
+        <item>HEALTH &amp; SAFETY AT WORK ETC ACT 1974</item>
+        <item>HEALTH AND SAFETY AT WORK ACT</item>
+        <item>HIGH TENSION (IGNITION SYSTEM)</item>
+        <item>HEAD-UP DISPLAY</item>
+        <item>HEATING, VENTILATING AND AIR-CONDITIONING</item>
+        <item>HIGHEST VULNERABILITY CLASS</item>
+        <item>HUMAN VEHICLE ENVIRONMENT</item>
+        <item>HIGH FRONT VEHICLE</item>
+        <item>HAZARDOUS WASTE INCINERATION DIRECTIVE</item>
+        <item>HAZARDOUS WASTE LIST</item>
+        <item>HOUSEHOLD WASTE RECYCLING CENTRE (FORMERLY CIVIC AMENITY SITE)</item>
+    </string-array>
+
+    <string-array name="automobile_abbreviation_i_to_j">
+        <item>I</item>
+        <item>I/M</item>
+        <item>I2C</item>
+        <item>IA</item>
+        <item>IACG</item>
+        <item>IATF</item>
+        <item>IBA</item>
+        <item>IBAS</item>
+        <item>IBC</item>
+        <item>IC</item>
+        <item>IC</item>
+        <item>ICAO</item>
+        <item>ICBC</item>
+        <item>ICC</item>
+        <item>ICCS</item>
+        <item>ICDP</item>
+        <item>ICE</item>
+        <item>ICE</item>
+        <item>ICER</item>
+        <item>ICPCMP</item>
+        <item>ICR</item>
+        <item>ICSITMUA</item>
+        <item>ICT</item>
+        <item>IDELSEY</item>
+        <item>IDI</item>
+        <item>IDIADA</item>
+        <item>IDO</item>
+        <item>IEA</item>
+        <item>IEA</item>
+        <item>IEC</item>
+        <item>IEE</item>
+        <item>IEEE</item>
+        <item>IEEP</item>
+        <item>IEPC</item>
+        <item>IF</item>
+        <item>IGES</item>
+        <item>IGOs</item>
+        <item>IHRA</item>
+        <item>IIHS</item>
+        <item>IIP</item>
+        <item>IIW</item>
+        <item>IIWPG</item>
+        <item>ILEV</item>
+        <item>ILO</item>
+        <item>IM</item>
+        <item>IM</item>
+        <item>IMDS</item>
+        <item>IMMA</item>
+        <item>IMO</item>
+        <item>IMS</item>
+        <item>IMVIC</item>
+        <item>INCPEN</item>
+        <item>INTRASTAT</item>
+        <item>IPA</item>
+        <item>IPC</item>
+        <item>IPIECA</item>
+        <item>IPPC</item>
+        <item>IPPR</item>
+        <item>IPR</item>
+        <item>IPS</item>
+        <item>IRCA</item>
+        <item>IRF</item>
+        <item>IRFA</item>
+        <item>IRFO</item>
+        <item>IRR</item>
+        <item>IRS</item>
+        <item>IRTAD</item>
+        <item>IRTO</item>
+        <item>IRU</item>
+        <item>IS</item>
+        <item>ISA</item>
+        <item>ISI</item>
+        <item>ISM</item>
+        <item>ISO</item>
+        <item>ISP</item>
+        <item>ISSB</item>
+        <item>ISWA</item>
+        <item>ITN</item>
+        <item>ITR</item>
+        <item>ITS</item>
+        <item>ITSEC</item>
+        <item>ITSOFC</item>
+        <item>ITSUG</item>
+        <item>ITU</item>
+        <item>ITUSA</item>
+        <item>IUC</item>
+        <item>IUCLID</item>
+        <item>IUD</item>
+        <item>IVA</item>
+        <item>IVHS</item>
+        <item>IVIS</item>
+        <item>IVT</item>
+        <item>IVTM</item>
+        <item>IWPPA</item>
+
+        <item>J</item>
+        <item>JAA</item>
+        <item>JAIA</item>
+        <item>JAMA</item>
+        <item>JAPIA</item>
+        <item>JASIC</item>
+        <item>JASPA</item>
+        <item>JATMA</item>
+        <item>JEDI</item>
+        <item>JI</item>
+        <item>JIC</item>
+        <item>JIT</item>
+        <item>J-MOT</item>
+        <item>JRC</item>
+        <item>JSA</item>
+        <item>JSIC</item>
+        <item>JUMVEA</item>
+
+    </string-array>
+
+    <string-array name="automobile_fullform_i_to_j">
+        <item>Full Form</item>
+        <item>I/M</item>
+        <item>I2C</item>
+        <item>IA</item>
+        <item>IACG</item>
+        <item>IATF</item>
+        <item>IBA</item>
+        <item>IBAS</item>
+        <item>IBC</item>
+        <item>IC</item>
+        <item>IC</item>
+        <item>ICAO</item>
+        <item>ICBC</item>
+        <item>ICC</item>
+        <item>ICCS</item>
+        <item>ICDP</item>
+        <item>ICE</item>
+        <item>ICE</item>
+        <item>ICER</item>
+        <item>ICPCMP</item>
+        <item>ICR</item>
+        <item>ICSITMUA</item>
+        <item>ICT</item>
+        <item>IDELSEY</item>
+        <item>IDI</item>
+        <item>IDIADA</item>
+        <item>IDO</item>
+        <item>IEA</item>
+        <item>IEA</item>
+        <item>IEC</item>
+        <item>IEE</item>
+        <item>IEEE</item>
+        <item>IEEP</item>
+        <item>IEPC</item>
+        <item>IF</item>
+        <item>IGES</item>
+        <item>IGOs</item>
+        <item>IHRA</item>
+        <item>IIHS</item>
+        <item>IIP</item>
+        <item>IIW</item>
+        <item>IIWPG</item>
+        <item>ILEV</item>
+        <item>ILO</item>
+        <item>IM</item>
+        <item>IM</item>
+        <item>IMDS</item>
+        <item>IMMA</item>
+        <item>IMO</item>
+        <item>IMS</item>
+        <item>IMVIC</item>
+        <item>INCPEN</item>
+        <item>INTRASTAT</item>
+        <item>IPA</item>
+        <item>IPC</item>
+        <item>IPIECA</item>
+        <item>IPPC</item>
+        <item>IPPR</item>
+        <item>IPR</item>
+        <item>IPS</item>
+        <item>IRCA</item>
+        <item>IRF</item>
+        <item>IRFA</item>
+        <item>IRFO</item>
+        <item>IRR</item>
+        <item>IRS</item>
+        <item>IRTAD</item>
+        <item>IRTO</item>
+        <item>IRU</item>
+        <item>IS</item>
+        <item>ISA</item>
+        <item>ISI</item>
+        <item>ISM</item>
+        <item>ISO</item>
+        <item>ISP</item>
+        <item>ISSB</item>
+        <item>ISWA</item>
+        <item>ITN</item>
+        <item>ITR</item>
+        <item>ITS</item>
+        <item>ITSEC</item>
+        <item>ITSOFC</item>
+        <item>ITSUG</item>
+        <item>ITU</item>
+        <item>ITUSA</item>
+        <item>IUC</item>
+        <item>IUCLID</item>
+        <item>IUD</item>
+        <item>IVA</item>
+        <item>IVHS</item>
+        <item>IVIS</item>
+        <item>IVT</item>
+        <item>IVTM</item>
+        <item>IWPPA</item>
+
+        <item>Full Form</item>
+        <item>JOINT AVIATION AUTHORITIES</item>
+        <item>JAPAN AUTOMOBILE IMPORTERS ASSOCIATION</item>
+        <item>JAPAN AUTOMOBILE MANUFACTURERS ASSOCIATION</item>
+        <item>JAPAN AUTOPARTS INDUSTRIES ASSOCIATION</item>
+        <item>JAPAN AUTOMOBILE STANDARDS COUNCIL</item>
+        <item>JAPAN AUTOMOBILE SERVICE PROMOTION ASSOCIATION</item>
+        <item>JAPAN AUTOMOBILE TYPE MANUFACTURERS ASSOCIATION</item>
+        <item>JOINT ENFORCEMENT DATABASE INITIATIVE</item>
+        <item>JOINT IMPLEMENTATION (KYOTO PROTOCOL)</item>
+        <item>JOINT INDUSTRIAL COUNCIL</item>
+        <item>JUST-IN-TIME</item>
+        <item>JAPAN MINISTRY OF TRANSPORT</item>
+        <item>JOINT RESEARCH COUNCIL</item>
+        <item>JAPAN STANDARDS ASSOCIATION</item>
+        <item>JAPAN STANDARDS INTERNATIONALISATION CENTRE</item>
+        <item>JAPAN MOTOR VEHICLES EXPORTER ASSOCIATION</item>
+    </string-array>
 
 </resources>
