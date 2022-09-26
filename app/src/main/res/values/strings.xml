@@ -3822,5 +3822,546 @@
         <item>TIME-TRIGGERED PROTOCOL</item>
         <item>TEST VEHICLE TARGET WEIGHT</item>
     </string-array>
+    <string-array name="automobile_abbreviation_u_to_v">
+        <item>U</item>
+        <item>UBOA</item>
+        <item>UCRA</item>
+        <item>UITP</item>
+        <item>UKSA</item>
+        <item>ULCCC</item>
+        <item>ULEV</item>
+        <item>ULSAB</item>
+        <item>ULSAC</item>
+        <item>ULSAS</item>
+        <item>ULSD</item>
+        <item>UMTS</item>
+        <item>UN</item>
+        <item>UNATAC</item>
+        <item>UN-ECE</item>
+        <item>UNFCCC</item>
+        <item>URPA</item>
+        <item>URTU</item>
+        <item>USDOT</item>
+        <item>UTC</item>
+        <item>UTMC</item>
+
+
+        <item>V</item>
+        <item>V2G</item>
+        <item>VAM</item>
+        <item>VAN</item>
+        <item>VAT</item>
+        <item>VBRA</item>
+        <item>VCA</item>
+        <item>VCEA</item>
+        <item>VCRAT</item>
+        <item>VCW</item>
+        <item>VDC</item>
+        <item>VDIK</item>
+        <item>VDS</item>
+        <item>VDU</item>
+        <item>VDV</item>
+        <item>VDV</item>
+        <item>VED</item>
+        <item>VEDR</item>
+        <item>VER</item>
+        <item>VGT</item>
+        <item>VI</item>
+        <item>VIC</item>
+        <item>VIEA</item>
+        <item>VIN</item>
+        <item>VIRRAG</item>
+        <item>VISTA</item>
+        <item>VITS</item>
+        <item>VM</item>
+        <item>VMBRC</item>
+        <item>VMIA</item>
+        <item>VOC</item>
+        <item>VOSA</item>
+        <item>VPR</item>
+        <item>VPS</item>
+        <item>VRB</item>
+        <item>VRM</item>
+        <item>VRN</item>
+        <item>VRO</item>
+        <item>VRR</item>
+        <item>VS</item>
+        <item>VSC</item>
+        <item>VSE</item>
+        <item>VSF</item>
+        <item>VSIB</item>
+        <item>VSRC</item>
+        <item>VSWR</item>
+        <item>VT</item>
+        <item>VTAC</item>
+        <item>VTC</item>
+        <item>VTS</item>
+        <item>VVT</item>
+        <item>VWF</item>
+    </string-array>
+    <string-array name="automobile_fullform_u_to_v">
+        <item>Full Form</item>
+        <item>UNITED BUS OWNERS OF AMERICA</item>
+        <item>UNIFORM CHILD RESTRAINT ANCHORAGE</item>
+        <item>INTERNATIONAL UNION OF PUBLIC TRANSPORT</item>
+        <item>UNITED KINGDOM ACCREDITATION SERVICE</item>
+        <item>ULTRA LOW CARBON CAR CHALLENGE</item>
+        <item>ULTRA LOW EMISSION VEHICLE</item>
+        <item>ULTRALIGHT STEEL AUTO BODY</item>
+        <item>ULTRALIGHT STEEL AUTO CLOSURES</item>
+        <item>ULTRALIGHT STEEL AUTO SUSPENSIONS</item>
+        <item>ULTRA LOW SULPHUR DIESEL</item>
+        <item>UNIVERSAL MOBILE TELECOMMUNICATION SYSTEM</item>
+        <item>UNITED NATIONS</item>
+        <item>UNION OF TECHNICAL ASSISTANCE FOR MOTOR VEHICLE AND ROAD TRAFFIC</item>
+        <item>UNITED NATIONS ECONOMIC COMMISSION FOR EUROPE</item>
+        <item>UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE</item>
+        <item>ULTRASONIC REAR PARKING ASSIST</item>
+        <item>UNITED ROAD TRANSPORT UNION</item>
+        <item>UNITED STATES DEPARTMENT OF TRANSPORTATION</item>
+        <item>UNIVERSAL TIME COORDINATED ANOTHER NAME FOR GMT</item>
+        <item>URBAN TRAFFIC MANAGEMENT AND CONTROL</item>
+
+        <item>Full Form</item>
+        <item>VEHICLE TO GRID</item>
+        <item>VALID ANALYTICAL MEASUREMENT PROGRAMME</item>
+        <item>VALUE ADDED NETWORK</item>
+        <item>VALUE ADDED TAX</item>
+        <item>VEHICLE BUILDERS AND REPAIRERS ASSOCIATION</item>
+        <item>VEHICLE CERTIFICATION AGENCY</item>
+        <item>VEHICLE CERTIFICATION EXECUTIVE AGENCY</item>
+        <item>VEHICLE CRIME PREVENTION GROUP</item>
+        <item>VEHICLE CAPACITY WEIGHT</item>
+        <item>VEHICLE DYNAMIC CONTROL</item>
+        <item>ASSOCIATION OF INTERNATIONAL MOTOR VEHICLE MANUFACTURERS</item>
+        <item>VEHICLE DEGRADATION SYSTEMS</item>
+        <item>VISUAL DISPLAY UNIT</item>
+        <item>GERMAN ASSOCIATION OF PUBLIC TRANSPORT AUTHORITIES</item>
+        <item>VIBRATION DOSE VALUE</item>
+        <item>VEHICLE EXCISE DUTY</item>
+        <item>VEHICLE EVENTS DATA RECORDER</item>
+        <item>VOLUNTARY EXPORT RESTRAINT</item>
+        <item>VARIABLE GEOMETRY TURBOCHARGERS</item>
+        <item>VEHICLE INSPECTORATE</item>
+        <item>VEHICLE IDENTITY CHECK</item>
+        <item>VEHICLE INSPECTORATE EXECUTIVE AGENCY</item>
+        <item>VEHICLE INDENTIFICATION NUMBER</item>
+        <item>VEHICLE INDUSTRY REGULATORY REFORM ACTION GROUP</item>
+        <item>VCA INFORMATION SYSTEM for TYPE APPROVAL</item>
+        <item>VEHICLE INSPECTORATE TRAINING SERVICES</item>
+        <item>VEHICLE MANUFACTURER</item>
+        <item>VEHICLE MANUFACTURERS BODY REPAIR COUNCIL</item>
+        <item>VENDOR MANAGED INVENTORY</item>
+        <item>VOLATILE ORGANIC COMPOUNDS</item>
+        <item>VEHICLE AND OPERATOR SERVICES AGENCY</item>
+        <item>VOLATILE PARTICLE REMOVER</item>
+        <item>VIOLATION PROCESSING SYSTEM</item>
+        <item>VEHICLE RECALL BULLETIN</item>
+        <item>VEHICLE REGISTRATION MARK</item>
+        <item>VEHICLE REGISTRATION NUMBER</item>
+        <item>VEHICLE REGISTRATION OFFICE</item>
+        <item>VEHICLE REGISTRATION RECOGNITION</item>
+        <item>VEHICLE STANDARDS</item>
+        <item>VEHICLE STABILITY CONTROL</item>
+        <item>VEHICLE &amp; STANDARDS ENGINEERING -DoT</item>
+        <item>VEHICLE SEAT FIXTURE</item>
+        <item>VEHICLE SECURITY INSTALLATION BOARD</item>
+        <item>VEHICLE SAFETY RESEARCH CENTRE</item>
+        <item>VOLTAGE STANDING WAVE RADIO</item>
+        <item>VOLTAGE TRANSFORMER</item>
+        <item>VEHICLE TYPE APPROVAL CENTRE</item>
+        <item>VOCATIONAL TRAINING CERTIFICATE</item>
+        <item>VEHICLE TESTING STATION</item>
+        <item>VARIABLE VALVE TIMING</item>
+        <item>VIBRATION WHITE FINGER</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_w_to_x">
+        <item>W</item>
+        <item>WAC</item>
+        <item>WAD</item>
+        <item>WAP</item>
+        <item>WAVCA</item>
+        <item>WBV</item>
+        <item>WCA</item>
+        <item>WCRE</item>
+        <item>WDA</item>
+        <item>WDF</item>
+        <item>WEEE</item>
+        <item>WEF</item>
+        <item>WG</item>
+        <item>WG-CVR</item>
+        <item>WG-R</item>
+        <item>WHIPS</item>
+        <item>WHO</item>
+        <item>WI</item>
+        <item>WIM</item>
+        <item>WIMS</item>
+        <item>WIRE</item>
+        <item>WIRP</item>
+        <item>WLP</item>
+        <item>WLTP</item>
+        <item>WMTC</item>
+        <item>WOBs</item>
+        <item>WOVM</item>
+        <item>WRG</item>
+        <item>WRULD</item>
+        <item>WTD</item>
+        <item>WTE</item>
+        <item>WTO</item>
+        <item>WTORS</item>
+        <item>WTP</item>
+        <item>WVTA</item>
+    </string-array>
+    <string-array name="automobile_fullform_w_to_x">
+        <item>Full Form</item>
+        <item>WASTE ACCEPTANCE CRITERIA</item>
+        <item>WHIPLASH ASSOCIATED DISORDER</item>
+        <item>WIRELESS APPLICATION PROTOCOL</item>
+        <item>WHEELCHAIR ACCESSIBLE VEHICLE CONVERTERS ASSOCIATION</item>
+        <item>WHOLE BODY VIBRATION</item>
+        <item>WASTE COLLECTION AUTHORITY</item>
+        <item>WORLD COUNCIL FOR RENEWABLE ENERGIES</item>
+        <item>WELSH DEVELOPMENT AGENCY</item>
+        <item>WASTE DERIVED FUEL</item>
+        <item>WASTE ELECTRICAL &amp; ELECTRONIC EQUIPMENT</item>
+        <item>WORLD ECONOMIC FORUM</item>
+        <item>WORKING GROUP</item>
+        <item>WORKING GROUP COMMERCIAL VEHICLE REGULATIONS</item>
+        <item>WORKING GROUP ON REGULATIONS</item>
+        <item>WHIPLASH PROTECTION SEATING</item>
+        <item>WORLD HEALTH ORGANISATION</item>
+        <item>WORKING ITEM</item>
+        <item>WEIGHT IN MOTION</item>
+        <item>WEIGH IN MOTION SENSOR</item>
+        <item>WEB-BASED INTERACTIVE RADIO ENVIRONMENT</item>
+        <item>WATER INDUSTRY RESEARCH PROGRAMME</item>
+        <item>WASTE LOCAL PLAN</item>
+        <item>WORLD WIDE HARMONISED LIGHT VEHICLESTEST PROCEDURE</item>
+        <item>WORLD-WIDE HARMONISED EMISSIONS CERTIFICATION PROCEDURE -MOTORCYCLES</item>
+        <item>WASTE OIL BURNERS</item>
+        <item>WHOLE OF VEHICLE MARKING (NZ VEHICLE ID SCHEME)</item>
+        <item>WASTE RECYCLING GROUP PLC</item>
+        <item>WORK RELATED UPPER LIMB DISORDER</item>
+        <item>WORKING TIME DIRECTIVE</item>
+        <item>WASTE TO ENERGY OR EFW</item>
+        <item>WORLD TRADE ORGANISATION</item>
+        <item>WHEELCHAIR TIE-DOWN AND OCCUPANT RESTRAINT</item>
+        <item>WILLINGNESS TO PAY</item>
+        <item>WHOLE VEHICLE TYPE APPROVAL</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_y_to_z">
+        <item>Y</item>
+        <item>YC</item>
+
+        <item>Z</item>
+        <item>ZEB</item>
+        <item>ZEV</item>
+        <item>ZPDVJ</item>
+        <item>ZVI</item>
+    </string-array>
+    <string-array name="automobile_fullform_y_to_z">
+        <item>Full Form</item>
+        <item>YAW CONTROL</item>
+
+        <item>Full Form</item>
+        <item>ZERO EMISSION BUS</item>
+        <item>ZERO EMISSION VEHICLE</item>
+        <item>YUGOSLAV ASSOCIATION OF MOTOR VEHICLE MANUFACTURERS</item>
+        <item>ZONE OF VISUAL INFLUENCE </item>
+    </string-array>
+
+    <!--Medical-Science abbreviation A-Z-->
+    <string-array name="medical_abbreviation_a_to_b">
+        <item>A</item>
+        <item>ABG</item>
+        <item>AC</item>
+        <item>ACS</item>
+        <item>ADHD</item>
+        <item>AIDS</item>
+        <item>ALS</item>
+        <item>ARDS</item>
+        <item>A.A.R.O.M.</item>
+        <item>add</item>
+        <item>ADA Diet</item>
+        <item>ASAP </item>
+
+        <item>B</item>
+        <item>BAC</item>
+        <item>BAMS</item>
+        <item>BCG</item>
+        <item>BDS</item>
+        <item>BMD</item>
+        <item>BMI</item>
+        <item>BMR</item>
+        <item>BMT</item>
+        <item>bm</item>
+        <item>BM</item>
+        <item>BP</item>
+        <item>BR</item>
+        <item>bs</item>
+        <item>bx</item>
+    </string-array>
+    <string-array name="medical_fullform_a_to_b">
+        <item>Full Form</item>
+        <item>Arterial Blood Gas</item>
+        <item>before meals</item>
+        <item>American Chemical Society</item>
+        <item>Attention Deficit Hyperactivity Disorder</item>
+        <item>Acquired Immune Deficiency Syndrome</item>
+        <item>Amyotrophic Lateral Sclerosis</item>
+        <item>Acute Respiratory Distress Syndrome</item>
+        <item>Active assistive range of motion</item>
+        <item>Adduction</item>
+        <item>American Diabetes Association Diet</item>
+        <item>as soon as possible</item>
+
+        <item>Full Form</item>
+        <item>blood alcohol content</item>
+        <item>Bachelor of Ayurvedic Medicine and Surgery</item>
+        <item>Bacillus Calmette-Guerin</item>
+        <item>Bachelor of Dental Surgery</item>
+        <item>Bone Mineral Density</item>
+        <item>Body Mass Index</item>
+        <item>Basal Metabolic Rate</item>
+        <item>Bone Marrow Transplant</item>
+        <item>bowel movement</item>
+        <item>bone marrow</item>
+        <item>blood pressure</item>
+        <item>bed rest</item>
+        <item>bowel sounds</item>
+        <item>biopsy</item>
+    </string-array>
+    <string-array name="medical_abbreviation_c_to_d">
+        <item>C</item>
+        <item>CABG</item>
+        <item>CBC</item>
+        <item>CHF</item>
+        <item>CMO</item>
+        <item>COPD</item>
+        <item>CPR</item>
+        <item>CA</item>
+        <item>CAD</item>
+        <item>cal</item>
+        <item>CCU</item>
+        <item>CN</item>
+        <item>CNA</item>
+        <item>CPAP</item>
+        <item>CRF</item>
+        <item>CSF</item>
+        <item>CV</item>
+
+        <item>D</item>
+        <item>d/c</item>
+        <item>DC</item>
+        <item>DNK</item>
+        <item>DNR</item>
+        <item>DNA</item>
+        <item>DNT</item>
+        <item>DOA</item>
+        <item>DOB</item>
+        <item>DOE</item>
+        <item>d/t </item>
+        <item>Dx</item>
+    </string-array>
+    <string-array name="medical_fullform_c_to_d">
+        <item>Full Form</item>
+        <item>Coronary Artery Bypass Graft</item>
+        <item>Complete Blood Count</item>
+        <item>Congestive Heart Failure</item>
+        <item>Chief Medical Officer</item>
+        <item>Chronic Obstructive Pulmonary Disease</item>
+        <item>Cardio-Pulmonary Resuscitation</item>
+        <item>cardiac arrest</item>
+        <item>coronary artery disease</item>
+        <item>calorie</item>
+        <item>coronary care unit</item>
+        <item>cranial nerve</item>
+        <item>certified nursing assistant</item>
+        <item>continuous positive airway pressure</item>
+        <item>chronic renal failure</item>
+        <item>cerebrospinal fluid</item>
+        <item>cardiovascular</item>
+
+        <item>Full Form</item>
+        <item>discontinue</item>
+        <item>discharge</item>
+        <item>do not know</item>
+        <item>do not resuscitate</item>
+        <item>Deoxyribonucleic Acid</item>
+        <item>did not test</item>
+        <item>dead on arrival</item>
+        <item>date of birth</item>
+        <item>dyspnea on exertion</item>
+        <item>due to</item>
+        <item>diagnosis</item>
+    </string-array>
+    <string-array name="medical_abbreviation_e_to_f">
+        <item>E</item>
+        <item>EBV</item>
+        <item>ECC</item>
+        <item>ECG</item>
+        <item>ECT</item>
+        <item>EEG</item>
+        <item>ENT</item>
+        <item>ER</item>
+
+        <item>F</item>
+        <item>F</item>
+        <item>FH</item>
+        <item>fib</item>
+        <item>FHR</item>
+        <item>Fx</item>
+    </string-array>
+    <string-array name="medical_fullform_e_to_f">
+        <item>Full Form</item>
+        <item>Epstein – Barr virus</item>
+        <item>emergency cardiac care</item>
+        <item>Electrocardiogram</item>
+        <item>Electroconvulsive Therapy</item>
+        <item>electroencephalogram</item>
+        <item>Ear Nose Throat</item>
+        <item>Emergency Room</item>
+
+        <item>Full Form</item>
+        <item>Fahrenheit</item>
+        <item>family history</item>
+        <item>fibrillation</item>
+        <item>Fetal Heart Rate</item>
+        <item>fracture</item>
+    </string-array>
+    <string-array name="medical_abbreviation_g_to_h">
+        <item>G</item>
+        <item>GB</item>
+        <item>GCS</item>
+        <item>GE</item>
+        <item>GERD</item>
+        <item>G/E</item>
+        <item>gen</item>
+        <item>GFR</item>
+        <item>G.I.</item>
+        <item>GMO</item>
+        <item>GNA</item>
+        <item>GSW</item>
+        <item>GTT</item>
+        <item>GYN</item>
+
+        <item>H</item>
+        <item>HAV</item>
+        <item>Hb.</item>
+        <item>HB</item>
+        <item>HBP</item>
+        <item>HR</item>
+        <item>HIV</item>
+    </string-array>
+    <string-array name="medical_fullform_g_to_h">
+        <item>Full Form</item>
+        <item>gall bladder</item>
+        <item>Glasgow Coma Scale</item>
+        <item>Gastroenterology</item>
+        <item>gastroesophageal reflux disease</item>
+        <item>gastroenteritis</item>
+        <item>general</item>
+        <item>Glomerular Filtration Rate</item>
+        <item>gastrointestinal</item>
+        <item>Genetically Modified Organism</item>
+        <item>geriatric nursing assistant</item>
+        <item>gun shot wound</item>
+        <item>glucose tolerance test</item>
+        <item>gynecology</item>
+
+        <item>Full Form</item>
+        <item>Hepatitis A Virus</item>
+        <item>hemoglobin</item>
+        <item>heart block</item>
+        <item>high blood pressure</item>
+        <item>heart rate</item>
+        <item>Human Immunodeficiency Virus</item>
+    </string-array>
+    <string-array name="medical_abbreviation_i_to_j">
+        <item>I</item>
+        <item>ICCU</item>
+        <item>ICP</item>
+        <item>ICU</item>
+        <item>ID</item>
+        <item>int.</item>
+        <item>IPPB</item>
+        <item>IVF</item>
+
+        <item>J</item>
+        <item>jt.</item>
+    </string-array>
+    <string-array name="medical_fullform_i_to_j">
+        <item>Full Form</item>
+        <item>intensive coronary care unit</item>
+        <item>intracranial pressure</item>
+        <item>intensive care unit</item>
+        <item>infectious diseases</item>
+        <item>internal</item>
+        <item>intermittent positive pressure breathing</item>
+        <item>IN Vitro Fertilization</item>
+
+        <item>Full Form</item>
+        <item>joint</item>
+    </string-array>
+    <string-array name="medical_abbreviation_k_to_l">
+        <item>K</item>
+        <item>K</item>
+
+        <item>L</item>
+        <item>lab</item>
+        <item>lac.</item>
+        <item>LBW</item>
+        <item>LOS</item>
+        <item>LP</item>
+        <item>LPN</item>
+        <item>LUE</item>
+    </string-array>
+    <string-array name="medical_fullform_k_to_l">
+        <item>Full Form</item>
+        <item>potassium, kidney</item>
+
+        <item>Full Form</item>
+        <item>laboratory</item>
+        <item>laceration</item>
+        <item>low birth rate</item>
+        <item>length of stay</item>
+        <item>lumbar puncture</item>
+        <item>licensed practical nurse</item>
+        <item>left upper extremity</item>
+    </string-array>
+    <string-array name="medical_abbreviation_m_to_n">
+        <item>M</item>
+        <item>MBC</item>
+        <item>MBSS</item>
+        <item>MBBS</item>
+        <item>MC</item>
+        <item>MCA</item>
+        <item>MD</item>
+        <item>MDD</item>
+        <item>MMR</item>
+        <item>MRI</item>
+
+        <item>N</item>
+        <item>n.</item>
+        <item>NIC</item>
+        <item>NICU</item>
+    </string-array>
+    <string-array name="medical_fullform_m_to_n">
+        <item>Full Form</item>
+        <item>maximum breathing capacity</item>
+        <item>modified barium swallow study</item>
+        <item>Bachelor of Medicine, Bachelor of Surgery</item>
+        <item>Menstrual Cycle</item>
+        <item>middle cerebral artery</item>
+        <item>Doctor of Medicine</item>
+        <item>	maximum daily dose</item>
+        <item>Measles Mumps and Rubella</item>
+        <item>Magnetic Resonance Imaging</item>
+
+        <item>Full Form</item>
+        <item>nerve</item>
+        <item>neonatal intensive care</item>
+        <item>neonatal intensive care unit</item>
+    </string-array>
 
 </resources>
