@@ -2477,7 +2477,6 @@
         <item>HAZARDOUS WASTE LIST</item>
         <item>HOUSEHOLD WASTE RECYCLING CENTRE (FORMERLY CIVIC AMENITY SITE)</item>
     </string-array>
-
     <string-array name="automobile_abbreviation_i_to_j">
         <item>I</item>
         <item>I/M</item>
@@ -2591,104 +2590,102 @@
         <item>JSA</item>
         <item>JSIC</item>
         <item>JUMVEA</item>
-
     </string-array>
-
     <string-array name="automobile_fullform_i_to_j">
         <item>Full Form</item>
-        <item>I/M</item>
-        <item>I2C</item>
-        <item>IA</item>
-        <item>IACG</item>
-        <item>IATF</item>
-        <item>IBA</item>
-        <item>IBAS</item>
-        <item>IBC</item>
-        <item>IC</item>
-        <item>IC</item>
-        <item>ICAO</item>
-        <item>ICBC</item>
-        <item>ICC</item>
-        <item>ICCS</item>
-        <item>ICDP</item>
-        <item>ICE</item>
-        <item>ICE</item>
-        <item>ICER</item>
-        <item>ICPCMP</item>
-        <item>ICR</item>
-        <item>ICSITMUA</item>
-        <item>ICT</item>
-        <item>IDELSEY</item>
-        <item>IDI</item>
-        <item>IDIADA</item>
-        <item>IDO</item>
-        <item>IEA</item>
-        <item>IEA</item>
-        <item>IEC</item>
-        <item>IEE</item>
-        <item>IEEE</item>
-        <item>IEEP</item>
-        <item>IEPC</item>
-        <item>IF</item>
-        <item>IGES</item>
-        <item>IGOs</item>
-        <item>IHRA</item>
-        <item>IIHS</item>
-        <item>IIP</item>
-        <item>IIW</item>
-        <item>IIWPG</item>
-        <item>ILEV</item>
-        <item>ILO</item>
-        <item>IM</item>
-        <item>IM</item>
-        <item>IMDS</item>
-        <item>IMMA</item>
-        <item>IMO</item>
-        <item>IMS</item>
-        <item>IMVIC</item>
-        <item>INCPEN</item>
-        <item>INTRASTAT</item>
-        <item>IPA</item>
-        <item>IPC</item>
-        <item>IPIECA</item>
-        <item>IPPC</item>
-        <item>IPPR</item>
-        <item>IPR</item>
-        <item>IPS</item>
-        <item>IRCA</item>
-        <item>IRF</item>
-        <item>IRFA</item>
-        <item>IRFO</item>
-        <item>IRR</item>
-        <item>IRS</item>
-        <item>IRTAD</item>
-        <item>IRTO</item>
-        <item>IRU</item>
-        <item>IS</item>
-        <item>ISA</item>
-        <item>ISI</item>
-        <item>ISM</item>
-        <item>ISO</item>
-        <item>ISP</item>
-        <item>ISSB</item>
-        <item>ISWA</item>
-        <item>ITN</item>
-        <item>ITR</item>
-        <item>ITS</item>
-        <item>ITSEC</item>
-        <item>ITSOFC</item>
-        <item>ITSUG</item>
-        <item>ITU</item>
-        <item>ITUSA</item>
-        <item>IUC</item>
-        <item>IUCLID</item>
-        <item>IUD</item>
-        <item>IVA</item>
-        <item>IVHS</item>
-        <item>IVIS</item>
-        <item>IVT</item>
-        <item>IVTM</item>
-        <item>IWPPA</item>
+        <item>INSPECTION/MAINTENANCE</item>
+        <item>INFRASTRUCTURE TO CAR (COMMUNICATION)</item>
+        <item>INTEGRATED APPROACH</item>
+        <item>INDEPENDENT AUTOMOTIVE CONSULTANTS GROUP</item>
+        <item>INTERNATIONAL AUTOMOTIVE TASK FORCE</item>
+        <item>INCINERATOR BOTTOM ASH</item>
+        <item>INTELLIGENT BODY ASSEMBLY SYSTEM</item>
+        <item>INTERMEDIATE BULK CARRIER</item>
+        <item>INTERGRATED CIRCUIT</item>
+        <item>INTERNAL COMBUSTION</item>
+        <item>INTERNATIONAL CIVIL AVIATION ORGANISATION</item>
+        <item>INSURANCE CORPORATION OF BRITISH COLUMBIA</item>
+        <item>INTERNATIONAL CHAMBER OF COMMERCE</item>
+        <item>INTEGRATED COASTGUARD COMMUNICATION SYSTEM</item>
+        <item>INTERNATIONAL CAR DISTRIBUTION PROGRAMME</item>
+        <item>IN CAR ENTERTAINMENT</item>
+        <item>INTERNAL COMBUSTION ENGINE</item>
+        <item>INDUSTRY COUNCIL FOR ELECTRONIC &amp; ELECTRICAL EQUIPMENT RECYCLING</item>
+        <item>RUBBER &amp; PLASTICS RESEARCH INSTITUTE (Romania)</item>
+        <item>INTELLIGENT CHARACTER RECOGNITION</item>
+        <item>AGRICULTURAL MACHINERY RESEARCH INSTITUTE (Rom)</item>
+        <item>INFORMATION COMMUNICATION TECHNOLOGY</item>
+        <item>INITIATIVE FOR DIAGNOSIS OF ELECTRONIC SYSTEMS</item>
+        <item>	INDIRECT INJECTION</item>
+        <item>IDINSTITUTE FOR APPLIED AUTOMOTIVE RESEARCH (Spain)IADA</item>
+        <item>INTERIM DEVELOPMENT ORDER</item>
+        <item>INTERNATIONAL ENERGY AGENCY</item>
+        <item>INSTITUTE OF ECONOMIC AFFAIRS</item>
+        <item>INTERNATIONAL ELECTROTECHNICAL COMMISSION</item>
+        <item>INSTITUTE OF ELECTRICAL ENGINEERS</item>
+        <item>INSTITUTE OF ELECTRICAL AND ELECTRONIC ENGINEERS</item>
+        <item>INSTITUTE FOR EUROPEAN ENVIRONMENTAL POLICY</item>
+        <item>INDUSTRIAL AND ECONOMIC POLICY COMMITTEE</item>
+        <item>INDUSTRY FORUM (OF SMMT)</item>
+        <item>INITIAL GRAPHIC EXCHANGE SPECIFICATION</item>
+        <item>INTERGOVERNMENTAL ORGANISATIONS</item>
+        <item>INTERNATIONAL HARMONISATION RESEARCH ACTIVITIES</item>
+        <item>INSURANCE INSTITUTE for HIGHWAY SAFETY (USA)</item>
+        <item>INVESTORS IN PEOPLE</item>
+        <item>INSTRUCTIONS IN WRITING</item>
+        <item>INTERNATIONAL INSURANCE WHIPLASH PROTECTION GROUP</item>
+        <item>INHERENTLY LOW EMISSION VEHICLE</item>
+        <item>INTERNATIONAL LABOUR ORGANISATION</item>
+        <item>INSPECTION MANUAL</item>
+        <item>INSPECTION MAINTENANCE</item>
+        <item>INTERNATIONAL MATERIAL DATA SYSTEM</item>
+        <item>INTERNATIONAL MOTORCYCLE MANUFACTURERS</item>
+        <item>INTERNATIONAL MARITIME ORGANISATION</item>
+        <item>INSTITUTE OF MANPOWER STUDIES</item>
+        <item>INTERNATIONAL MOTOR VEHICLE INSPECTION COMMITTEE</item>
+        <item>INDUSTRY COUNCIL FOR PACKAGING</item>
+        <item>INTERNATIONAL TRADE STATISTICS USERS GROUP</item>
+        <item>INTELLIGENT PARKING ASSIST</item>
+        <item>INTEGRATED POLLUTION CONTROL</item>
+        <item>INTERNATIONAL PETROLEUM INDUSTRY ENVIROMENT CONSERVATION ASSOCIATION</item>
+        <item>INTEGRATED POLLUTION PREVENTION AND CONTROL</item>
+        <item>INSTITUTE FOR PUBLIC POLICY RESEARCH</item>
+        <item>INTELLIGENT PROPERTY RIGHTS</item>
+        <item>INTELLIGENT PROTECTION SAFETY SYSTEM</item>
+        <item>INTERNATIONAL REGISTER OF CERTIFICATED AUDITORS</item>
+        <item>INTERNATIONAL ROAD FEDERATION</item>
+        <item>INITIAL REGULATORY FLEXIBILITY ANALYSIS (USA)</item>
+        <item>INTERNATIONAL ROAD FREIGHT OFFICE</item>
+        <item>INTERNATIONAL RAIL REGULATOR</item>
+        <item>INDEPENDENT REAR SUSPENSION</item>
+        <item>INTERNATIONAL ROAD TRAFFIC ACCIDENTS DATABASE</item>
+        <item>INTERNATIONAL ROAD TRAFFIC ORGANISATION</item>
+        <item>INTERNATIONAL ROAD TRANSPORT UNION</item>
+        <item>INFORMATION SYSTEMS</item>
+        <item>INTELLIGENT SPEED ADAPTATION</item>
+        <item>INSPECTION SERVICES INTERNATIONAL</item>
+        <item>	INDUSTRIAL SCIENTIC AND MEDICAL</item>
+        <item>INTERNATIONAL STANDARDS ORGANISATION</item>
+        <item>INTERNET SERVICE PROVIDER</item>
+        <item>IRON &amp; STEEL STATISTICS BUREAU</item>
+        <item>INTERNATIONAL SOLID WASTES ASSOCIATION</item>
+        <item>INVITATION TO NEGOTIATE</item>
+        <item>INTERNAL TECHNICAL REPORT</item>
+        <item>INTELLIGENT TRANSPORT SYSTEM</item>
+        <item>STANDARDS ON SECURITY SYSTEMS FOR DATA</item>
+        <item>INTERMEDIATE TEMPERATURE SOLID OXIDE FUEL CELL</item>
+        <item>INTERNATIONAL TRADE STATISTICAL USERS GROUP</item>
+        <item>INTERNATIONAL TELECOMMUNICATIONS UNION</item>
+        <item>INFORMATION TECHNOLOGY USERS STANDARDS ASSOCIATION</item>
+        <item>IN-USE COMPLIANCE</item>
+        <item>INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE</item>
+        <item>IN USE DETERIORATION</item>
+        <item>INDIVIDUAL VEHICLE APPROVAL</item>
+        <item>INTELLIGENT VEHICLE HIGHWAY SYSTEMS</item>
+        <item>IN-VEHICLE INFORMATION SYSTEMS</item>
+        <item>INFINITELY VARIABLE TRANSMISION</item>
+        <item>INTERGRATED VEHICLE TYRE MONITORING</item>
+        <item>INDEPENDENT WASTE PAPER PROCESSORS ASSOCIATION</item>
 
         <item>Full Form</item>
         <item>JOINT AVIATION AUTHORITIES</item>
@@ -2707,6 +2704,1123 @@
         <item>JAPAN STANDARDS ASSOCIATION</item>
         <item>JAPAN STANDARDS INTERNATIONALISATION CENTRE</item>
         <item>JAPAN MOTOR VEHICLES EXPORTER ASSOCIATION</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_k_to_l">
+        <item>K</item>
+        <item>KAMA</item>
+        <item>KAREN</item>
+        <item>KATRI</item>
+        <item>KBA</item>
+        <item>KERS</item>
+        <item>KPI</item>
+        <item>KSI</item>
+        <item>KWP</item>
+
+
+        <item>L</item>
+        <item>LA</item>
+        <item>LAIPPC</item>
+        <item>LAPC</item>
+        <item>LARAC</item>
+        <item>LARSOA</item>
+        <item>LATCH</item>
+        <item>LAWDC</item>
+        <item>LCA</item>
+        <item>LCD</item>
+        <item>LCI</item>
+        <item>LCR</item>
+        <item>LDA</item>
+        <item>LDPE</item>
+        <item>LDV</item>
+        <item>LDWS</item>
+        <item>LEA</item>
+        <item>LEAPS</item>
+        <item>LEV</item>
+        <item>LEZ</item>
+        <item>LGA</item>
+        <item>LGC</item>
+        <item>LGV</item>
+        <item>LHD</item>
+        <item>LHDDE</item>
+        <item>LHV</item>
+        <item>LIFE</item>
+        <item>LII</item>
+        <item>LLDPE</item>
+        <item>LMPAB</item>
+        <item>LNC</item>
+        <item>LNG</item>
+        <item>LOLER</item>
+        <item>LPG</item>
+        <item>LR</item>
+        <item>LRP</item>
+        <item>LRQA</item>
+        <item>LRT</item>
+        <item>LRUC</item>
+        <item>LSC</item>
+        <item>LSR</item>
+        <item>LSV</item>
+        <item>LT</item>
+        <item>LTB</item>
+        <item>LTP</item>
+        <item>LTTE</item>
+        <item>LTUC</item>
+        <item>LUL</item>
+        <item>LVD</item>
+        <item>LVTA</item>
+        <item>LWRL</item>
+
+    </string-array>
+    <string-array name="automobile_fullform_k_to_l">
+        <item>Full Form</item>
+        <item>KOREA AUTOMOBILE MANUFACTURERS ASSOCIATION</item>
+        <item>KEYSTONE ARCHITECTURE REQUIRED FOR EUROPEAN NETWORKS</item>
+        <item>KOREAN AUTOMOBILE TESTING &amp; RESEARCH INSTITUTE</item>
+        <item>DRAFTFAHRT-BUNDESAMT (GERMAN VEHICLE CERTIFICATION AGENCY)</item>
+        <item>KINETIC ENERGY RECOVERY SYSTEMS</item>
+        <item>KEY PERFORMANCE INDICATOR</item>
+        <item>KILLED OR SERIOUSLY INJURED</item>
+        <item>KEYWORK PROTOCOL</item>
+
+        <item>Full Form</item>
+        <item>LOCAL AUTHORITY</item>
+        <item>LOCAL AUTHORITY IPPC (PART A(2) OF PPC REGS)</item>
+        <item>LOCAL AIR POLLUTION CONTROL</item>
+        <item>LOCAL AUTHORITY RECYCLING ADVISORY COMMITTEE</item>
+        <item>LOCAL AUTHORITY ROAD SAFETY OFFICERS ASSOCIATION</item>
+        <item>LOWER ANCHORAGES AND TETHERS FOR CHILDREN</item>
+        <item>LOCAL AUTHORITY WASTE DISPOSAL COMPANY</item>
+        <item>LIFE CYCLE ANALYSIS</item>
+        <item>LIQUID CRYSTAL DISPLAY</item>
+        <item>LIFE-CYCLE INVENTORY</item>
+        <item>LONDON AND CONTINENTAL RAILWAYS</item>
+        <item>LONDON DEVELOPMENT AGENCY</item>
+        <item>LOW DENSITY POLYETHYLENE</item>
+        <item>LIGHT DUTY VEHICLE</item>
+        <item>LANE DEPARTURE WARNING SYSTEM</item>
+        <item>LAW ENFORCEMENT AGENCY</item>
+        <item>LOCAL ENVIRONMENT AGENCY PLANS</item>
+        <item>LOW EMISSION VEHICLE</item>
+        <item>LOW EMISSION ZONE</item>
+        <item>LOCAL GOVERNMENT ASSOCIATION</item>
+        <item>LABORATORY OF THE GOVERNMENT CHEMIST</item>
+        <item>LIGHT GOODS VEHICLE</item>
+        <item>LEFT HAND DRIVE</item>
+        <item>LIGHT HEAVY-DUTY DIESEL ENGINE</item>
+        <item>LONGER HEAVIER VEHICLE</item>
+        <item>FINANCIAL INSTRUMENT FOR THE ENVIRONMENT (EU COUNCIL, MAY 1992)</item>
+        <item>LASER INDUCED INCANDESCANCE (PM MEASUREMENT)</item>
+        <item>LINEAR LDPE</item>
+        <item>LOW MOUNTED PASSENGER AIRBAG</item>
+        <item>LEAN NOX CATALYST</item>
+        <item>LIQUID NATURAL GAS</item>
+        <item>LIFTING OPERATIONS &amp; LIFTING EQUIPMENT REGULATIONS 1988 </item>
+        <item>LIQUID PETROLEUM GAS</item>
+        <item>LAND ROVER</item>
+        <item>LEAD REPLACEMENT PETROL</item>
+        <item>LLOYDS REGISTER QUALITY ASSURANCE</item>
+        <item>LIGHT RAPID TRANSIT</item>
+        <item>LORRY ROAD USER CHARGING</item>
+        <item>LEARNING &amp; SKILLS COUNCIL (FORMERLY TEC)</item>
+        <item>LOCAL SERVICE REGISTRATION – LOCAL BUSES</item>
+        <item>	LOW SPEED VEHICLE</item>
+        <item>LONDON TRANSPORT</item>
+        <item>LONDON TRANSPORT BUSES</item>
+        <item>LOCAL TRANSPORT PLAN</item>
+        <item>LIGHT TRAILER &amp; TRAILER EQUIPMENT SECTION</item>
+        <item>LONDON TRANSPORT USERS COMMITTEE</item>
+        <item>LONDON UNDERGROUND LIMITED</item>
+        <item>LOW VOLTAGE DIRECTIVE</item>
+        <item>LOW VOLUME TYPE APPROVAL</item>
+        <item>LOWER WINDSCREEN REFERENCE LINE</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_m_to_n">
+        <item>M</item>
+        <item>MAA</item>
+        <item>MAC</item>
+        <item>MAC</item>
+        <item>MAC</item>
+        <item>MACS</item>
+        <item>MADD</item>
+        <item>MADYMO</item>
+        <item>MAFF</item>
+        <item>MAIB</item>
+        <item>MAIS</item>
+        <item>MAP</item>
+        <item>MAVIS</item>
+        <item>MBI</item>
+        <item>MBU</item>
+        <item>MC</item>
+        <item>MCA</item>
+        <item>MCA</item>
+        <item>MCD</item>
+        <item>MCDA</item>
+        <item>MCI</item>
+        <item>MCI</item>
+        <item>MCS</item>
+        <item>MCSAP</item>
+        <item>MCUSA</item>
+        <item>MDA</item>
+        <item>MDB</item>
+        <item>MDHS</item>
+        <item>MDPV</item>
+        <item>MEDG</item>
+        <item>MEHRA</item>
+        <item>MEL</item>
+        <item>MEMA</item>
+        <item>MEP</item>
+        <item>MESF</item>
+        <item>MEWG</item>
+        <item>MFA</item>
+        <item>MFBI</item>
+        <item>MFDD</item>
+        <item>MHDDE</item>
+        <item>MI</item>
+        <item>MIA</item>
+        <item>MIAFTR</item>
+        <item>MIB</item>
+        <item>MIC</item>
+        <item>MICOPS</item>
+        <item>MIN</item>
+        <item>MIRA</item>
+        <item>MIRRC</item>
+        <item>MIS</item>
+        <item>MISG</item>
+        <item>MISG</item>
+        <item>MISG</item>
+        <item>MISRA</item>
+        <item>MIU</item>
+        <item>MLSO</item>
+        <item>MMC</item>
+        <item>MMEA</item>
+        <item>MMI</item>
+        <item>MO</item>
+        <item>MOA</item>
+        <item>MORI</item>
+        <item>MOT</item>
+        <item>MOT</item>
+        <item>MOTOREX</item>
+        <item>MP</item>
+        <item>mpg</item>
+        <item>MPG</item>
+        <item>MPG</item>
+        <item>mph</item>
+        <item>MPMA</item>
+        <item>MPSS</item>
+        <item>MPV</item>
+        <item>MRA</item>
+        <item>MRBT</item>
+        <item>MRF</item>
+        <item>MRG</item>
+        <item>MRPS</item>
+        <item>MS</item>
+        <item>MSA</item>
+        <item>MSA</item>
+        <item>MSAT</item>
+        <item>MSB</item>
+        <item>MSDS</item>
+        <item>MSVA</item>
+        <item>MSW</item>
+        <item>MTA</item>
+        <item>MTBE</item>
+        <item>MTBF</item>
+        <item>MTTA</item>
+        <item>MTVV</item>
+        <item>MVDA</item>
+        <item>MVEC</item>
+        <item>MVEG</item>
+        <item>MVRA</item>
+        <item>MVRF</item>
+        <item>MVRIB</item>
+        <item>MVRIS</item>
+        <item>MVTPA</item>
+        <item>MVUE</item>
+        <item>MVV</item>
+        <item>MVWG</item>
+        <item>MW</item>
+        <item>MY</item>
+
+        <item>N</item>
+        <item>NA</item>
+        <item>NAAQS</item>
+        <item>NAGHSR</item>
+        <item>NAMAS</item>
+        <item>NAO</item>
+        <item>NAP</item>
+        <item>NAPM</item>
+        <item>NAQS</item>
+        <item>NASBA</item>
+        <item>NASS</item>
+        <item>NATS</item>
+        <item>NAW</item>
+        <item>NAWDO</item>
+        <item>NAWRO</item>
+        <item>NBCP</item>
+        <item>NBM</item>
+        <item>NC</item>
+        <item>NCAP</item>
+        <item>NCC</item>
+        <item>NCDA</item>
+        <item>NCIS</item>
+        <item>NDIR</item>
+        <item>NDPB</item>
+        <item>NDT</item>
+        <item>NEC</item>
+        <item>NEDC</item>
+        <item>NEN</item>
+        <item>NERC</item>
+        <item>NETA</item>
+        <item>NETCEN</item>
+        <item>NFB</item>
+        <item>NFC</item>
+        <item>NFDA</item>
+        <item>NFFO</item>
+        <item>NG</item>
+        <item>NGC</item>
+        <item>NGO</item>
+        <item>NGV</item>
+        <item>NHTSA</item>
+        <item>NICB</item>
+        <item>NIDB</item>
+        <item>NLEV</item>
+        <item>NMHC</item>
+        <item>NMOG</item>
+        <item>NMP</item>
+        <item>NNR</item>
+        <item>NOx</item>
+        <item>NPL</item>
+        <item>NPRM</item>
+        <item>NPV</item>
+        <item>NRF</item>
+        <item>NRMM</item>
+        <item>NRSC</item>
+        <item>NRTC</item>
+        <item>NSCA</item>
+        <item>NSI</item>
+        <item>NSSF</item>
+        <item>NSSTA</item>
+        <item>NTA</item>
+        <item>NTDA</item>
+        <item>NTO</item>
+        <item>NTSB</item>
+        <item>NTTA</item>
+        <item>NTTAA</item>
+        <item>NVH</item>
+        <item>NVQ</item>
+        <item>NVSA</item>
+        <item>NZEV</item>
+    </string-array>
+    <string-array name="automobile_fullform_m_to_n">
+        <item>Full Form</item>
+        <item>MOTOR AGENTS ASSOCIATION (NOW RMIF)</item>
+        <item>MECHANICAL AIR BAG</item>
+        <item>MINISTER’S APPROVAL CERTIFICATE</item>
+        <item>MOBILE AIR CONDITIONING</item>
+        <item>MOBILE AIR CONDITIONING SYSTEM</item>
+        <item>MOTHERS AGAINST DRUNK DRIVING (USA)</item>
+        <item>MATHEMATICAL DYNAMIC MODEL</item>
+        <item>MINISTRY OF AGRICULTURE FISHERIES &amp; FOOD</item>
+        <item>MARINE ACCIDENT INVESTIGATION BRANCH</item>
+        <item>MAXIMUM ABBREVIATED INJURY SCALE</item>
+        <item>MANUFACTURING AUTOMATION PROTOCOL</item>
+        <item>MOBILITY ADVICE AND VEHICLE INFORMATION SERVICE</item>
+        <item>MECHANICAL BREAKDOWN INSURANCE</item>
+        <item>MAKING BETTER USE (ROADS PROGRAMME)</item>
+        <item>MANAGEMENT COMMITTEE, CEN</item>
+        <item>MARITIME AND COASTGUARD AGENCY</item>
+        <item>MONETARY COMPENSATORY AMOUNT</item>
+        <item>MOBILE COMPLIANCE DEVICE</item>
+        <item>MULTI CRITERIA DECISION ANALYSIS</item>
+        <item>MOTOR COACH INDUSTRIES</item>
+        <item>MOTOR CYCLE INDUSTRY ASSOCIATION OF GREAT BRITAIN</item>
+        <item>MOTOR CARAVAN SECTION</item>
+        <item>MOTOR CARRIER SAFETY ASSISTANCE PROGRAM</item>
+        <item>CONNECTION AND USE OF SYSTEM AGREEMENT</item>
+        <item>MEDICAL DEVICES AGENCY</item>
+        <item>MOBILE DEFORMABLE BARRIER</item>
+        <item>METHODS FOR THE DETERMINATION OF HAZARDOUS SUBSTANCES (H&amp;S LAB)</item>
+        <item>MEDIUM DUTY PASSENGER VEHICLES</item>
+        <item>MIDDLE EAST DISCUSSION GROUP</item>
+        <item>MARINE ENVIRONMENT HIGH RISK AREA</item>
+        <item>MAXIMUM EXPOSURE LIMIT</item>
+        <item>MOTOR AND EQUIPMENT MANUFACTURERS ASSOCIATION</item>
+        <item>MEMBER OF THE EUROPEAN PARLIAMENT</item>
+        <item>MOBILE ELECTRONIC SECURITY FITTERS</item>
+        <item>MANUFACTURING ENVIRONMENT WORKING GROUP</item>
+        <item>MOTOR FACTORS ASSOCIATION (NOW ADF)</item>
+        <item>MARKET FACTS AND BUSINESS INFORMATION</item>
+        <item>MEAN FULLY-DEVELOPED DECELERATION</item>
+        <item>MEDIUM HEAVY-DUTY DIESEL ENGINE</item>
+        <item>MALFUNCTION INDICATOR</item>
+        <item>MOTORSPORT INDUSTRY ASSOCIATION</item>
+        <item>MOTOR INSURANCE ANTI-FRAUD THEFT REGISTER</item>
+        <item>MOTOR INSURERS BUREAU</item>
+        <item>MECHATRONICS, INFORMATICS AND CONTROL</item>
+        <item>MOTOR INDUSTRY CODE OF PRACTICE</item>
+        <item>MANUFACTURERS INDENTIFICATION NUMBER</item>
+        <item>MOTOR INDUSTRY RESEARCH ASSOCIATION</item>
+        <item>MOTORINSURANCE REPAIR &amp; RESEARCH CENTRE</item>
+        <item>MOTORHOME INFORMATION SERVICE</item>
+        <item>MOTOR INDUSTRY STUDY GROUP</item>
+        <item>MOTOR INDUSTRY SAFETY GROUP</item>
+        <item>MISG</item>
+        <item>MOTOR INDUSTRY SOFTWARE RELIABILITY ASSOCIATION</item>
+        <item>MOBILITY INCLUSION UNIT</item>
+        <item>MULTI-LAYERED SAFETY OBJECTIVES</item>
+        <item>MONOPOLIES &amp; MERGERS COMMISSION</item>
+        <item>MISUSE MODE AND EFFECTS ANALYSIS</item>
+        <item>MAN-MACHINE INTERFACE (TELEMATICS)</item>
+        <item>MATERIALS OPERATION</item>
+        <item>MEMORANDUM OF AGREEMENT</item>
+        <item>MARKET AND OPINION RESEARCH INTERNATIONAL</item>
+        <item>MINISTRY OF TRANSPORT – USUALLY REFERRED TO IN THE CONTEXT OF THE STATUTORY MOT TEST</item>
+        <item>ANNUAL STATUTORY TEST FOR CARS AND MOTORCYCLES</item>
+        <item>PROFESSIONAL ORGANIZATION OF THE AUTOMOBILE INDUSTRY</item>
+        <item>MEMBER OF PARLIAMENT</item>
+        <item>MILES PER GALLON</item>
+        <item>MILLBROOK PROVING GROUND</item>
+        <item>MINERALS PLANNING GUIDANCE</item>
+        <item>MILES PER HOUR</item>
+        <item>METAL PACKAGING MANUFACTURERS ASSOCIATION</item>
+        <item>MOTORPARC STATISTICS SERVICE</item>
+        <item>MULTI-PURPOSE VEHICLE</item>
+        <item>MUTUAL RECOGNITION AGREEMENT</item>
+        <item>MOBILE ROLLER BRAKE TESTER</item>
+        <item>MATERIALS RECYCLING/RECOVERY FACILITY</item>
+        <item>METROPOLITAN RAILWAY GRANT</item>
+        <item>METROPOLITAN RAILWAY PASSENGER SERVICES</item>
+        <item>MEMBER STATE</item>
+        <item>MOTOR SPORTS ASSOCIATION</item>
+        <item>MOTORWAY SERVICE AREA</item>
+        <item>MOBILE SOURCE AIR TOXICS</item>
+        <item>MULTI-STAGE BUILD</item>
+        <item>MATERIAL SAFETY DATA SHEET</item>
+        <item>MOTORCYCLE SINGLE VEHICLE APPROVAL</item>
+        <item>MUNICIPAL SOLID WASTE</item>
+        <item>MANUFACTURING TECHNOLOGIES ASSOCIATION</item>
+        <item>METHYL TERTIARY BUTYL ETHER</item>
+        <item>MEAN TIME BETWEEN FAILURES</item>
+        <item>ACHINE TOOL TECHNOLOGIES ASSOCIATION (NOW MTA)</item>
+        <item>MAXIMUM TRANSIENT VIBRATION VALUES</item>
+        <item>MOTOR VEHICLES DISMANTLERS ASSOCIATION</item>
+        <item>MOTOR VEHICLE EMISSIONS GROUP (EC)</item>
+        <item>MOTOR VEHICLES EMISSIONS GROUP</item>
+        <item>MOTOR VEHICLES REPAIRERS ASSOCIATION</item>
+        <item>MOTOR VEHICLE RADIO-FREQUENCY</item>
+        <item>MODERNISING VEHICLE REGISTRATION IMPLEMENTATION BOARD</item>
+        <item>MOTOR VEHICLE REGISTRATION INFORMATION SERVICE</item>
+        <item>MOTOR VEHICLE THEFT PROTECTION ACT (USA)</item>
+        <item>MINIMUM VARIANCE UNBIASED ESTIMATE (OF THE MEAN)</item>
+        <item>MINISTERIE VAN VOLKSHUISVESTIG</item>
+        <item>MOTOR VEHICLE WORKING GROUP</item>
+        <item>MEGAWATTS (UNIT ENERGY, ONE MILLION WATTS)</item>
+        <item>MODEL YEAR</item>
+
+        <item>Full Form</item>
+        <item>NEGOTIATED AGREEMENT</item>
+        <item>NATIONAL AMBIENT AIR QUALITY STANDARDS</item>
+        <item>NATIONAL ASSOCIATION OF GOVERNORS HIGHWAY SAFETY REPRESENTATIVES</item>
+        <item>NATIONAL MEASUREMENT ACCREDITATION SERVICE</item>
+        <item>NATIONAL AUDIT OFFICE</item>
+        <item>NATIONAL ALLOCATION PLAN (UNDER EUETS)</item>
+        <item>NATIONAL ASSOCIATION OF PAPER MERCHANTS</item>
+        <item>NATIONAL AIR QUALITY SURVEY</item>
+        <item>NATIONAL AUTOMOBILE SAFETY BELT ASSOCIATION</item>
+        <item>NATIONAL ACCIDENT SAMPLING SYSTEM</item>
+        <item>NATIONAL AIR TRAFFIC SERVICES</item>
+        <item>NATIONAL ASSEMBLY FOR WALES</item>
+        <item>NATIONAL ASSOCIATION OF WASTE DISPOSAL OFFICERS</item>
+        <item>NATIONAL ASSOCIATION OF WASTE REGULATION OFFICERS</item>
+        <item>NATIONAL BOARD FOR CRIME PREVENTION</item>
+        <item>NEW BUS MODELS</item>
+        <item>NITROCELLUOSE</item>
+        <item>NEW CAR ASSESSMENT PROGRAMME</item>
+        <item>NATIONAL CARAVAN COUNCIL</item>
+        <item>NATIONAL END-OF-LIFE VEHICLE</item>
+        <item>NATIONAL CRIMINAL INTELLIGENCE SERVICE</item>
+        <item>NON-DISPERSIVE INFRARED ANALYSER</item>
+        <item>NON-DEPARTMENTAL PUBLIC BODY</item>
+        <item>NON-DESTRUCTIVE TESTING</item>
+        <item>NATIONAL EXHIBITION CENTRE</item>
+        <item>NEW EUROPEAN DRIVE CYCLE</item>
+        <item>NEDERLANDS NORMALISATIE-INSTITUTE</item>
+        <item>NATURAL ENVIRONEMENT RESEARCH COUNCIL</item>
+        <item>NEW ELECTRICITY TRADING ARRANGEMENTS</item>
+        <item>NATIONAL ENVIRONMENTAL TECHNOLOGY CENTRE</item>
+        <item>NATIONAL FERDERATION FOR THE BLIND</item>
+        <item>NATIONAL FREIGHT CONSORTIUM</item>
+        <item>NATIONAL FRANCHISED DEALERS ASSOCIATION</item>
+        <item>NON FOSSIL FUEL OBLIGATION</item>
+        <item>NITROGLYCERINE</item>
+        <item>NATIONAL GRID COMPANY</item>
+        <item>NON-GOVERNMENTAL ORGANISATION</item>
+        <item>NATURAL GAS VEHICLE</item>
+        <item>NATIONAL HIGHWAY TRANSPORT SAFETY ADMINISTRATION</item>
+        <item>NATIONAL INSURANCE CRIME BOARD</item>
+        <item>NORTHERN IRELAND DEVELOPMENT BOARD</item>
+        <item>NATIONAL LOW EMISSION VEHICLE</item>
+        <item>NON METHANE HYDROCARBONS</item>
+        <item>NON METHANE ORGANIC GASES</item>
+        <item>NEW MAINTENANCE PROGRAMME</item>
+        <item>NATIONAL NATURE RESERVE</item>
+        <item>NITROGEN OXIDES</item>
+        <item>NATIONAL PHYSICAL LABORATORY</item>
+        <item>NOTICE OF PROPOSED RULEMAKING</item>
+        <item>NET PRESENT VALUE</item>
+        <item>NATIONAL RECYCLING FORUM</item>
+        <item>NON-ROAD MOBILE MACHINERY</item>
+        <item>NON-ROAD STEADY CYCLE</item>
+        <item>NON-ROAD TRANSIENT CYCLE</item>
+        <item>NATIONAL SAFETY COUNCIL (USA)</item>
+        <item>NATIONAL SECURITY INSPECTORATE</item>
+        <item>NATIONAL STANDARDIZATION STRATEGY FRAMEWORK</item>
+        <item>NATIONAL SMALL SERIES TYPE APPROVAL</item>
+        <item>NATIONAL TYPE APPROVAL</item>
+        <item>NATIONAL TYRE DISTRIBUTORS ASSOCIATION</item>
+        <item>NATIONAL TRAINING ORGANISATION</item>
+        <item>NATIONAL TRANSPORTATION SAFETY BOARD</item>
+        <item>NATIONAL TRAILER &amp; TOWING ASSOCIATION</item>
+        <item>NATIONAL TECHNOLOGY TRANSFER ADVANCEMENT ACT</item>
+        <item>NOISE, VIBRATION AND HARSHNESS</item>
+        <item>NATIONAL VOCATIONAL QUALIFICATION</item>
+        <item>NEW VEHICLE SECURITY ASSESSMENT</item>
+        <item>NEAR ZERO EMISSION VEHICLE</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_o_to_p">
+        <item>O</item>
+        <item>OBD</item>
+        <item>OBE</item>
+        <item>OBRPO</item>
+        <item>OCC</item>
+        <item>OCE</item>
+        <item>OCP</item>
+        <item>OCRS</item>
+        <item>OCWS</item>
+        <item>ODA</item>
+        <item>ODB</item>
+        <item>ODI</item>
+        <item>ODPM</item>
+        <item>OECD</item>
+        <item>OEM</item>
+        <item>OES</item>
+        <item>OFT</item>
+        <item>OFTP</item>
+        <item>OGC</item>
+        <item>OHS</item>
+        <item>OJ</item>
+        <item>OJEC</item>
+        <item>OLAS</item>
+        <item>OMB</item>
+        <item>OOP</item>
+        <item>OPRA</item>
+        <item>OPRAF</item>
+        <item>OPTL</item>
+        <item>ORR</item>
+        <item>OSC</item>
+        <item>OSHA</item>
+        <item>OSI</item>
+        <item>OSS</item>
+        <item>OST</item>
+        <item>OTA</item>
+        <item>OTAQ</item>
+        <item>OTIF</item>
+        <item>OTR</item>
+        <item>OTS</item>
+        <item>OVC</item>
+        <item>OVLS</item>
+        <item>OVSC</item>
+
+
+        <item>P</item>
+        <item>P/T</item>
+        <item>PAC</item>
+        <item>PACT</item>
+        <item>PACTS</item>
+        <item>PAH</item>
+        <item>PAS</item>
+        <item>PAT</item>
+        <item>PAVD</item>
+        <item>PBB</item>
+        <item>PBC</item>
+        <item>PBDE</item>
+        <item>PBIT</item>
+        <item>PBR</item>
+        <item>PBT</item>
+        <item>PC</item>
+        <item>PCB</item>
+        <item>PCFCO</item>
+        <item>PCN</item>
+        <item>PCNTA</item>
+        <item>PCU</item>
+        <item>PCV</item>
+        <item>PDB</item>
+        <item>PDE</item>
+        <item>PDM</item>
+        <item>PDP</item>
+        <item>PEC</item>
+        <item>PELV</item>
+        <item>PEM</item>
+        <item>PEMFC</item>
+        <item>PEMS</item>
+        <item>PESG</item>
+        <item>PET</item>
+        <item>PFC</item>
+        <item>PFC</item>
+        <item>PFCI</item>
+        <item>PFI</item>
+        <item>PG</item>
+        <item>PHVs</item>
+        <item>PI</item>
+        <item>PIA</item>
+        <item>PIMO</item>
+        <item>PINS</item>
+        <item>PIRG</item>
+        <item>PLG</item>
+        <item>PLM</item>
+        <item>PM</item>
+        <item>PMAC</item>
+        <item>PMMA</item>
+        <item>PMP</item>
+        <item>PMR</item>
+        <item>PMRSA</item>
+        <item>PNC</item>
+        <item>PNEC</item>
+        <item>POC</item>
+        <item>POTW</item>
+        <item>PP</item>
+        <item>PPA</item>
+        <item>PPC</item>
+        <item>PPE</item>
+        <item>PPG</item>
+        <item>PPM</item>
+        <item>PPM</item>
+        <item>PPP</item>
+        <item>PR</item>
+        <item>PR</item>
+        <item>PRA</item>
+        <item>PRCO</item>
+        <item>PRG</item>
+        <item>PRI</item>
+        <item>PRIA</item>
+        <item>PRS</item>
+        <item>PS</item>
+        <item>PS</item>
+        <item>PSA</item>
+        <item>PSB</item>
+        <item>PSPF</item>
+        <item>PSR</item>
+        <item>PSVAR</item>
+        <item>PT</item>
+        <item>PTA</item>
+        <item>PTE</item>
+        <item>PTI</item>
+        <item>PTW</item>
+        <item>PVC</item>
+    </string-array>
+    <string-array name="automobile_fullform_o_to_p">
+        <item>Full Form</item>
+        <item>ON BOARD DIAGNOSTICS</item>
+        <item>ON-BOARD EQUIPMENT</item>
+        <item>POLISH TYRE INDUSTRY R&amp;D CENTRE</item>
+        <item>OIL CORRUGATED CONTAINERS</item>
+        <item>OFF CYCLE EMISSIONS</item>
+        <item>OPTIMISED CONTACT PATH</item>
+        <item>OPERATOR COMPLIANCE RISK SCORE</item>
+        <item>OFFICE OF CRASHWORTHINESS STANDARDS (USA)</item>
+        <item>OVERSEAS DEVELOPMENT ADMINISTRATION</item>
+        <item>OFFSET DEFORMABLE BARRIER</item>
+        <item>OFFICE OF DEFECTS INVESTIGATION (USA)</item>
+        <item>OFFICE OF THE DEPUTY PRIME MINISTER</item>
+        <item>ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT</item>
+        <item>ORIGINAL EQUIPMENT MANUFACTURER</item>
+        <item>OCCUPATIONAL EXPOSURE STANDARD</item>
+        <item>OFFICE OF FAIR TRADING</item>
+        <item>ODETTE File Transfer Protocol</item>
+        <item>OFFICE OF GOVERNMENT COMMERCE</item>
+        <item>OCCUPATIONAL HEALTH &amp; SAFETY</item>
+        <item>OFFICIAL JOURNAL (EU publication)</item>
+        <item>OFFICIAL JOURNAL OF THE EUROPEAN COMMUNITY</item>
+        <item>ON-LINE ACCESS SYSTEM OF MVRIS</item>
+        <item>OFFICE OF MANAGEMENT &amp; BUDGET (WHITE HOUSE USA)</item>
+        <item>OUT OF POSITION</item>
+        <item>OPERATOR AND RISK APPRAISAL</item>
+        <item>OFFICE OF PASSENGER RAIL FRANCHISING</item>
+        <item>ONE PERSON TEST LANE</item>
+        <item>OFFICE OF THE RAIL REGULATOR</item>
+        <item>OXYGEN STORAGE CAPACITY</item>
+        <item>OCCUPANT SAFETY AND HEALTH ADMINISTRATION</item>
+        <item>OPEN SYSTEMS INTERCONNECTION</item>
+        <item>ONE-STOP SERVICE</item>
+        <item>OFFICE OF SCIENCE &amp; TECHNOLOGY</item>
+        <item>OPERATION OF EEC TYPE APPROVAL</item>
+        <item>OFFICE OF TRANSPORTATION AND AIR QUALITY</item>
+        <item>ORGANISATION FOR INTERNATIONAL RAILWAY TRAFFIC</item>
+        <item>OZONE TRANSPORT REGION (USA)</item>
+        <item>ON THE SPOT</item>
+        <item>OFF VEICLE CHARGING</item>
+        <item>OPEN PROTOCOLS FOR INTERFACING VEHICLE LOCATION SUBSYSTEMS</item>
+        <item>OFFICE OF VEHICLE SAFETY COMPLIANCE</item>
+
+        <item>Full Form</item>
+        <item>PRE-TENSIONER</item>
+        <item>PUBLIC AFFAIRS COMMITTEE</item>
+        <item>PARTNERSHIP AGAINST CAR THEFT</item>
+        <item>PARLIAMENTARY ADVISORY COMMITTEE FOR TRANSPORT SAFETY</item>
+        <item>POLYCYCLIC AROMATIC HYDROCARBONS</item>
+        <item>POWER ASSISTED STEERING</item>
+        <item>PROFESSIONAL ASSOCIATION OF TEACHERS</item>
+        <item>PHYSICAL AGENTS (VIBRATION) DIRECTIVE</item>
+        <item>POLYBROMINATED BIPHENYL</item>
+        <item>PEAK BRAKING COEFFICIENT</item>
+        <item>POLYBROMINATED DIPHENYLETHER</item>
+        <item>PROFIT BEFORE INTEREST AND TAXATION</item>
+        <item>PRE-BUDGET REPORT</item>
+        <item>POLYBUTYLENE TEREPHTHALATE</item>
+        <item>PASSENGER CAR</item>
+        <item>POLYCHLORINATED BIPHENYL</item>
+        <item>PASSENGER CAR FUEL CONSUMPTION ORDER</item>
+        <item>POLYCHLORINATED NAPHTHALENE</item>
+        <item>PASSENGER CAR NATIONAL TYPE APPROVAL</item>
+        <item>PASSENGER CAR UNIT</item>
+        <item>PASSENGER CARRYING VEHICLE</item>
+        <item>PROGRESSIVE DEFORMABLE BARRIER</item>
+        <item>PICTURE DISPLAY EQUIPMENT</item>
+        <item>PRODUCT DATA MANAGEMENT</item>
+        <item>POSITIVE DISPLACEMENT PUMP</item>
+        <item>PACKAGING OF EXPLOSIVES FOR CARRIAGE REGULATIONS</item>
+        <item>PREMATURE END-OF-LIFE VEHICLE</item>
+        <item>POLYMER ELECTROLYTE MEMBRANE</item>
+        <item>PROTON EXCHANGE MEMBRANCE FUEL CELL</item>
+        <item>PORTABLE EMISSIONS MEASUREMENT SYSTEM</item>
+        <item>PERSONAL EXPORT SALES GROUP</item>
+        <item>POLYETHYLENE TEREPHTHALATE</item>
+        <item>PEAK FRICTION COEFFICIENT</item>
+        <item>PERFLUORCARBON</item>
+        <item>PEDIATRIC FUNCTIONAL CAPACITY INDEX</item>
+        <item>PRIVATE FINANCE INITIATIVE</item>
+        <item>PERFORMANCE GAIN</item>
+        <item>PRIVATE HIRE VEHICLES</item>
+        <item>PERFORMANCE INDICATOR</item>
+        <item>PETROLEUM INDUSTRY ASSOCIATION</item>
+        <item>PAPER INDUSTRY MATERIALS ORGANISATION</item>
+        <item>PERSONAL INDENTIFICATION NUMBER STRING</item>
+        <item>PUBLIC INTEREST RESEARCH GROUP</item>
+        <item>PRIVATE AND LIGHT GOODS</item>
+        <item>PRODUCT LIFECYCLE MANAGEMENT</item>
+        <item>PARKING MANAGEMENT</item>
+        <item>PRIMARY MINISTERS APPROVAL CERTIFICATE</item>
+        <item>POLYMETHYLMETHACRYLATE</item>
+        <item>PARTICULATE MEASUREMENT PROGRAMME</item>
+        <item>PRIVATE MOBILE RADIO</item>
+        <item>PRINCE MICHAEL ROAD SAFETY AWARDS</item>
+        <item>POLICE NATIONAL COMPUTER</item>
+        <item>PREDICTED NO EFFECT CONCENTRATION</item>
+        <item>POINT OF CONNECTION (ELECTRICITY)</item>
+        <item>PUBLICLY OWNED TREATMENT WORKS</item>
+        <item>POLYPROPYLENE</item>
+        <item>POWER PURCHASE AGREEMENT</item>
+        <item>POLLUTION PREVENTION &amp; CONTROL REGULATIONS</item>
+        <item>PERSONAL PROTECTIVE EQUIPMENT</item>
+        <item>PLANNING POLICY GUIDANCE</item>
+        <item>PUBLIC PERFORMANCE MEASURE</item>
+        <item>PARTS PER MILLION</item>
+        <item>PUBLIC PRIVATE PARTNERSHIPS</item>
+        <item>PUBLIC RELATIONS</item>
+        <item>PUBLIC RELATIONS</item>
+        <item>PETROL RETAILERS ASSOCIATION</item>
+        <item>POLICING AND REDUCING CRIME</item>
+        <item>PRODUCER RESPONSIBILITY GROUP</item>
+        <item>PREVENTION ROUTIERE INTERNATIONAL</item>
+        <item>PARTIAL REGULATORY IMPACT ASSESSMENT</item>
+        <item>PASS AFTER RECTIFICATION AT STATION</item>
+        <item>PUBLIC SEWER</item>
+        <item>POLYSTYRENE</item>
+        <item>PUBLIC SERVICE AGREEMENT</item>
+        <item>PROGRAMME SUPERVISORY BOARD</item>
+        <item>PENN STATE BUS RESEARCH AND TESTING FACILITY</item>
+        <item>PASSENGER SERVICES REQUIREMENT</item>
+        <item>PUBLIC SERVICE VEHICLE ACCESSIBILITY REGULATIONS</item>
+        <item>PUBLIC TRANSPORT</item>
+        <item>PASSENGER TRANSPORT AUTHORITY</item>
+        <item>PASSENGER TRANSPORT EXECUTIVE</item>
+        <item>PERIODIC TECHNICAL INSPECTION</item>
+        <item>POWERED TWO WHEELER</item>
+        <item>POLYVINYL CHLORIDE</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_q_to_r">
+        <item>Q</item>
+        <item>QA</item>
+        <item>QC</item>
+        <item>QCD</item>
+        <item>QDC</item>
+        <item>QNJAC</item>
+        <item>QPA</item>
+        <item>QR</item>
+        <item>QRP</item>
+        <item>QSAR</item>
+
+        <item>R</item>
+        <item>R&amp;D</item>
+        <item>R&amp;M</item>
+        <item>R2RC</item>
+        <item>RA</item>
+        <item>RAB</item>
+        <item>RAC</item>
+        <item>RACE</item>
+        <item>RADEF</item>
+        <item>RAIB</item>
+        <item>RAKE</item>
+        <item>RAS</item>
+        <item>RAW</item>
+        <item>RBT</item>
+        <item>RBTH</item>
+        <item>RCA</item>
+        <item>RCAR</item>
+        <item>RCEP</item>
+        <item>RCFA</item>
+        <item>RCID</item>
+        <item>RCM</item>
+        <item>RCV</item>
+        <item>RDA</item>
+        <item>RDC</item>
+        <item>RDS</item>
+        <item>RE</item>
+        <item>REIA</item>
+        <item>REL</item>
+        <item>REMSA</item>
+        <item>RES</item>
+        <item>RFG</item>
+        <item>RFID</item>
+        <item>RFO</item>
+        <item>RFWS</item>
+        <item>RHD</item>
+        <item>RHS</item>
+        <item>RIA</item>
+        <item>RKE</item>
+        <item>RME</item>
+        <item>RMTD</item>
+        <item>ROCE</item>
+        <item>ROP</item>
+        <item>RPC</item>
+        <item>RR</item>
+        <item>RSI</item>
+        <item>RSS</item>
+        <item>RTD</item>
+        <item>RTI</item>
+        <item>RTO</item>
+        <item>RTTE</item>
+        <item>RUC</item>
+        <item>RV(AW)</item>
+        <item>RVLR</item>
+        <item>RVR</item>
+    </string-array>
+    <string-array name="automobile_fullform_q_to_r">
+        <item>Full Form</item>
+        <item>QUALITY ASSURANCE</item>
+        <item>QUALITY CONTROL</item>
+        <item>	QUALITY, COST AND DELIVERY</item>
+        <item>	QUALIFIED DETERIOTED COMPONENT</item>
+        <item>QUARRIES NATIONAL JOINT ADVISORY COMMITTEE (HSE)</item>
+        <item>QUARRY PRODUCTS ASSOCIATION (FORMERLY BACMI &amp; SAGA)</item>
+        <item>	QUALITY &amp; RELIABILITY</item>
+        <item>QUALITY AND RELIABILITY PANEL</item>
+        <item>QUANTITY STRUCTURE ACTIVITY RELATIONSHIP (REACH)</item>
+
+        <item>Full Form</item>
+        <item>RESEARCH &amp; DEVELOPMENT</item>
+        <item>RELIABILITY &amp; MAINTAINABILITY</item>
+        <item>RIGHT TO REPAIR CAMPAIGN</item>
+        <item>RADIOCOMMUNCATIONS AGENCY</item>
+        <item>RESOURCE ACCOUNTING AND BUDGETING</item>
+        <item>ROYAL AUTOMOBILE CLUB</item>
+        <item>ROTARY ATKINSON CYCLE ENGINE</item>
+        <item>ROAD ADMINISTRATION DATA EXCHANGE FORMAT</item>
+        <item>RAIL ACCIDENT INVESTIGATION BRANCH</item>
+        <item>RADIO ACTIVATED KEY ENTRY</item>
+        <item>REGIONAL AIR SERVICES</item>
+        <item>RIGID ANGLED WALL</item>
+        <item>ROLLER BRAKE TEST</item>
+        <item>ROLLER BRAKE AND TEST HALL PROJECT</item>
+        <item>RADIO COMMUNICATIONS AGENCY</item>
+        <item>RESEARCH COMMITTEE FOR AUTOMOBILE REPAIRS</item>
+        <item>ROYAL COMMISSION ON ENVIRONMENTAL POLLUTION</item>
+        <item>ROOT CAUSE FAILURE ANALYSIS</item>
+        <item>RESOURCE CENTRE FOR INNOVATION AND DESIGN</item>
+        <item>RELIABILITY CENTRED MAINTENANCE</item>
+        <item>REAR COLLECTION VEHICLE</item>
+        <item>REGIONAL DEVELOPMENT AGENCY</item>
+        <item>RIB DEFLECTION CRITERION</item>
+        <item>RADIO DATA SYSTEM</item>
+        <item>RENEWABLE ENERGY</item>
+        <item>REGULATORY &amp; ENVIRONMENTAL IMPACT ASSESSMENT</item>
+        <item>REAR END LOADER</item>
+        <item>RECOVERY EQUIPMENT MANUFACTURERS AND SUPPLIERS ASSOCIATION</item>
+        <item>RADIO EQUIPMENT AND SYSTEMS</item>
+        <item>REFORMULATED GASOLINE</item>
+        <item>RADIO FREQUENCY IDENTIFICATION DEVICE</item>
+        <item>RECOVERED FUEL OIL</item>
+        <item>RUN-FLAT WARNING SYSTEM</item>
+        <item>RIGHT HAND DRIVE</item>
+        <item>REVITALISING HEALTH AND SAFETY</item>
+        <item>REGULATORY IMPACT ASSESSMENT</item>
+        <item>REMOTE KEY ENTRY</item>
+        <item>RAPESEED METHYL ESTER</item>
+        <item>RADIOACTIVE MATERIALS TRANSPORT DIVISION</item>
+        <item>RETURN ON CAPITAL EMPLOYED</item>
+        <item>ROLL OVER PROTECTION</item>
+        <item>REDUCED POLLUTION CERTIFICATE</item>
+        <item>RADIO REGULATIONS</item>
+        <item>REPETITIVE STRAIN INJURY</item>
+        <item>ROLL STABILITY SUPPORT</item>
+        <item>RESEARCH AND TECHNOLOGY DEVELOPMENT</item>
+        <item>ROAD TRANSPORT INFORMATICS</item>
+        <item>ROAD TRAFFIC ORDINANCE</item>
+        <item>RADIO &amp; TELECOMMUNICATION TERMINAL EQUIPMENT</item>
+        <item>ROAD USER CHARGING</item>
+        <item>ROAD VEHICLES (AUTHORISED WEIGHT)</item>
+        <item>ROAD VEHICLE LIGHTING REGULATIONS</item>
+        <item>REMOTE VIDEO RESPONSE</item>
+    </string-array>
+    <string-array name="automobile_abbreviation_s_to_t">
+        <item>S</item>
+        <item>SABHATA</item>
+        <item>SACTRA</item>
+        <item>SAFED</item>
+        <item>SARA</item>
+        <item>SAW</item>
+        <item>SBAC</item>
+        <item>SBI</item>
+        <item>SBPG</item>
+        <item>SBSTA</item>
+        <item>SCA</item>
+        <item>SCAS</item>
+        <item>SCM</item>
+        <item>SCMG</item>
+        <item>SCR</item>
+        <item>SCU</item>
+        <item>SDA</item>
+        <item>SDARS</item>
+        <item>SDM</item>
+        <item>SEMA</item>
+        <item>SET</item>
+        <item>SFS</item>
+        <item>SHED</item>
+        <item>SI</item>
+        <item>SI</item>
+        <item>SIAM</item>
+        <item>SID</item>
+        <item>SIP</item>
+        <item>SLA</item>
+        <item>SLF</item>
+        <item>SLW</item>
+        <item>SMART</item>
+        <item>SMC</item>
+        <item>SME</item>
+        <item>SOC</item>
+        <item>SOE</item>
+        <item>SOFC</item>
+        <item>SOP</item>
+        <item>SORL</item>
+        <item>SORN</item>
+        <item>SOS</item>
+        <item>SPA</item>
+        <item>SPAD</item>
+        <item>SPC</item>
+        <item>SPFC</item>
+        <item>SPH</item>
+        <item>SPU</item>
+        <item>SPV</item>
+        <item>SQA</item>
+        <item>SRA</item>
+        <item>SRD-MG</item>
+        <item>SRM</item>
+        <item>SRPP</item>
+        <item>SRS</item>
+        <item>SRV</item>
+        <item>SS</item>
+        <item>SSCD</item>
+        <item>SSN</item>
+        <item>SSSI</item>
+        <item>STAG</item>
+        <item>STAIRS</item>
+        <item>STC</item>
+        <item>STET</item>
+        <item>STRO</item>
+        <item>STU</item>
+        <item>SUV</item>
+        <item>SVHC</item>
+        <item>SVM</item>
+        <item>SWR</item>
+        <item>SWT</item>
+        <item>SWUV</item>
+
+        <item>T</item>
+        <item>TA</item>
+        <item>TAAM</item>
+        <item>TABD</item>
+        <item>TAC</item>
+        <item>TAE</item>
+        <item>TAF</item>
+        <item>TALC</item>
+        <item>TAN</item>
+        <item>TAO</item>
+        <item>TAR</item>
+        <item>TBWS</item>
+        <item>TC</item>
+        <item>TCC</item>
+        <item>TCF</item>
+        <item>TCPA</item>
+        <item>TDA</item>
+        <item>TDM</item>
+        <item>TEC</item>
+        <item>TECU</item>
+        <item>TEG</item>
+        <item>TEP</item>
+        <item>TFS</item>
+        <item>THUMS</item>
+        <item>TIC</item>
+        <item>TICS</item>
+        <item>TIGERS</item>
+        <item>TLEV</item>
+        <item>TMS</item>
+        <item>TOC</item>
+        <item>TOR</item>
+        <item>TPC</item>
+        <item>TPM</item>
+        <item>TPMS</item>
+        <item>TPWS</item>
+        <item>TQM</item>
+        <item>TR</item>
+        <item>TRI</item>
+        <item>TRL</item>
+        <item>TRM</item>
+        <item>TS</item>
+        <item>TT</item>
+        <item>TTA</item>
+        <item>TTC</item>
+        <item>TTI</item>
+        <item>TTP</item>
+        <item>TVTW</item>
+    </string-array>
+    <string-array name="automobile_fullform_s_to_t">
+        <item>Full Form</item>
+        <item>SAND &amp; BALLAST HAULAGE &amp; TRANSPORT ASSOCIATION</item>
+        <item>STANDING ADVISORY COMMITTEE ON TRUCK ROAD ASSESSMENT</item>
+        <item>SAFE AND FUEL EFFICIENT DRIVING</item>
+        <item>SHORT RANGE AUTOMOTIVE RADAR FREQUENCY ALLOCATION</item>
+        <item>SURFACE ACOUSTIC WAVE</item>
+        <item>SOCIETY OF BRITISH AEROSPACE COMPANIES</item>
+        <item>SUBSIDIARY BODY FOR IMPLEMENTATION</item>
+        <item>STANDARD BUS PROCUREMENT GUIDELINES</item>
+        <item>SUBSIDIARY BODY FOR SCIENTIFIC AND TECHNCIAL ADVICE</item>
+        <item>SUPPLEMENTARY CREDIT APPROVAL</item>
+        <item>SIDE COLLISION AVOIDANCE SYSTEMS</item>
+        <item>SUPPLY CHAIN MANAGEMENT</item>
+        <item>SPECIALIST CAR MANUFACTURERS GROUP</item>
+        <item>SELECTIVE CATALYTIC REDUCTION</item>
+        <item>SENSOR CONTROL UNIT</item>
+        <item>SERVICE DELIVERY AGREEMENT</item>
+        <item>SATELLITE DIGITAL AUDIO RECEIVER SERVICE</item>
+        <item>SENSOR DIAGNOSTIC MODULE</item>
+        <item>SPECIALITY EQUIPMENT MARKET ASSOCIATION</item>
+        <item>SUPPLEMENTAL EMISSION TEST</item>
+        <item>FINNISH STANDARDS ASSOCIATION</item>
+        <item>SEALED HOUSE EVAPORATIVE DETERMINATION</item>
+        <item>SEVERITY INDEX (E.G. CHEST)</item>
+        <item>SPARK IGNITION</item>
+        <item>SOCIETY of INDIAN AUTOMOBILE MANUFACTURERS</item>
+        <item>SIDE IMPACT DUMMY</item>
+        <item>SIDE IMPACT PROTECTION</item>
+        <item>SERVICE LEVEL AGREEMENT</item>
+        <item>SUBSTITUE/SECONDARY LIQUID FUEL</item>
+        <item>SEATED LOAD WEIGHT</item>
+        <item>STOP MOTOR CRIME AND RING TODAY</item>
+        <item>SHEET MOULDING COMPOSITE</item>
+        <item>SMALL TO MEDIUM ENTERPRISES</item>
+        <item>SYSTEMS OPERATING CENTRE</item>
+        <item>SOCIETY OF OPERATIONS ENGINEERS</item>
+        <item>SOLID OXIDE FUEL CELL</item>
+        <item>STATEMENT OF PRINCIPLES</item>
+        <item>SEAT ORIENTATION REFERENCE LINE</item>
+        <item>STATUTORY OFF ROAD NOTIFICATION</item>
+        <item>SECRETARY OF STATE</item>
+        <item>SPECIAL PROTECTION AREA</item>
+        <item>SIGNAL PASSED AT DANGER</item>
+        <item>STATISTICAL PROCESS CONTROL</item>
+        <item>SOLID POLYMER FUEL CELL</item>
+        <item>SMOOTHED PARTICLE HYDRODYNAMICS</item>
+        <item>SURGE POWER UNIT</item>
+        <item>SPECIAL PURPOSE VEHICLE</item>
+        <item>SUPPLIER QUALITY ASSURANCE (OR ASSISTANCE)</item>
+        <item>STRATEGIC RAIL AUTHORITY</item>
+        <item>SHORT RANGE DEVICES – MAINTENANCE GROUP</item>
+        <item>SUPPLIER RELATIONSHIP MANAGEMENT</item>
+        <item>SELF-REINFORCED POLYPROPYLENE</item>
+        <item>SUPPLEMENTARY RESTRAINT SYSTEMS</item>
+        <item>SPORTS RECREATIONAL VEHICLE</item>
+        <item>SOLD SECURE</item>
+        <item>SPEED SELF CONTROL DEVICE</item>
+        <item>SPECIAL SOCIAL NEEDS VEHICLE</item>
+        <item>SITE OF SPECIAL SCIENTIFIC INTEREST</item>
+        <item>SCHOOL TRAVEL ADVISORY GROUP</item>
+        <item>STANDARDISATION OF ACCIDENT AND INJURY REGISTRATION SYSTEMS</item>
+        <item>STABILITY AND TRACTION CONTROL</item>
+        <item>SURFACE TRANSPORT EMISSIONS TRADING</item>
+        <item>SCANDINAVIAN TYRE &amp; RIM ORGANISATION</item>
+        <item>SEPARATE TECHNICAL UNIT</item>
+        <item>SPORTS UTILITY VEHICLE</item>
+        <item>SUBSTANCE OF VERY HIGH CONCERN</item>
+        <item>SMALL VOLUME MOTOR VEHICLE MANUFACTURER</item>
+        <item>SPECIAL WASTE REGULATIONS</item>
+        <item>SIDEWALL TORSION SENSOR</item>
+        <item>SAFETY OF WHEELCHAIR USERS IN VEHICLES</item>
+
+        <item>Full Form</item>
+        <item>TYPE APPROVAL</item>
+        <item>TYPE APPROVAL AUTHORITIES MEETING</item>
+        <item>TRANSATLANTIC BUSINESS DIALOGUE</item>
+        <item>TYPE APPROVAL CETIFICATE</item>
+        <item>TYPE APPROVAL EXAMINATION</item>
+        <item>TRADE ASSOCIATION FORUM</item>
+        <item>TYPE APPROVAL LIAISON COMMITTEE</item>
+        <item>TRAFFIC AREA NETWORK</item>
+        <item>TRAFFIC AREA OFFICE</item>
+        <item>TYPE APPROVAL REGULATIONS</item>
+        <item>TIME BASED WARNING SYSTEM</item>
+        <item>TECHNICAL COMMITTEE</item>
+        <item>THE CARAVAN CLUB</item>
+        <item>TECHNICAL CONSTRUCTION FILE</item>
+        <item>TOWN &amp; COUNTRY PLANNING ACT</item>
+        <item>TRADE DESCRIPTIONS ACT</item>
+        <item>TEST DATA MANAGEMENT</item>
+        <item>TRAINING ENTERPRISE COUNCIL</item>
+        <item>TRANSMISSION ECU</item>
+        <item>TECHNICAL EVALUATION GROUP</item>
+        <item>TRADE EFFLUENT (TREATMENT) PLANT</item>
+        <item>TRANSFRONTIER SHIPMENTS (OF WASTE)</item>
+        <item>TORAL HUMAN MODEL FOR SAFETY</item>
+        <item>TRAFFIC INFORMATION CENTRE</item>
+        <item>TRANSPORT INFORMATION AND CONTROL SYSTEMS</item>
+        <item>TURBO-GENERATOR INTEGRATED GAS ENERGY RECOVERY SYSTEM</item>
+        <item>TRANSITIONAL LOW EMISSIONS VEHICLE</item>
+        <item>TYRE MANUFACTURERS SECTION</item>
+        <item>TRAIN OPERATING COMPANY</item>
+        <item>TERMS OF REFERENCE</item>
+        <item>TECHNICAL POLICY CENTRE</item>
+        <item>TOTAL PRODUCTIVE MANUFACTURING</item>
+        <item>TYRE PRESSURE MONITORING SYSTEM</item>
+        <item>TRAIN PROTECTION AND WARNING SYSTEM</item>
+        <item>TOTAL QUALITY MANAGEMENT</item>
+        <item>TECHNICAL REPORT</item>
+        <item>TOXIC RELEASE INVENTORY</item>
+        <item>TRANSPORT RESEARCH LABORATORY</item>
+        <item>TRAILER REGISTRATION MARK</item>
+        <item>TECHNICAL SPECIFICATION</item>
+        <item>TRANSPORT TELEMATICS</item>
+        <item>TOP TETHER ANCHORAGE</item>
+        <item>TIME TO COLLISION</item>
+        <item>TRAFFIC &amp; TRAVEL (LER) INFORMATION</item>
+        <item>TIME-TRIGGERED PROTOCOL</item>
+        <item>TEST VEHICLE TARGET WEIGHT</item>
     </string-array>
 
 </resources>
