@@ -409,7 +409,7 @@
         <item>TPC</item>
     </string-array>
     <string-array name="fullform_s_to_t">
-        <item>S</item>
+        <item>Full Form</item>
         <item>Software Asset Management</item>
         <item>Storage Area Network</item>
         <item>Small Computer System Interface </item>
@@ -424,7 +424,7 @@
         <item>Simple Network Management Protocol</item>
         <item>Static Random Access Memory</item>
         <item>System Operator</item>
-        <item>T</item>
+        <item>Full Form</item>
         <item>Transmission Control Protocol</item>
         <item>Terabytes</item>
         <item>Thermoelectric cooler</item>
@@ -446,13 +446,13 @@
         <item>VPN</item>
     </string-array>
     <string-array name="fullform_u_to_v">
-        <item>U</item>
+        <item>Full Form</item>
         <item>User Interface</item>
         <item>Uniform Resource Locator</item>
         <item>Universal Serial Bus</item>
         <item>Uninterrupted Power Supply</item>
         <item>Unshield Twisted Pair</item>
-        <item>V</item>
+        <item>Full Form</item>
         <item>Vital Information Resource Under Siege</item>
         <item>Video Random Access Memory</item>
         <item>Video Compact Disk</item>
@@ -485,7 +485,7 @@
         <item>Wireless Local Area Network</item>
         <item>Wireless Markup Language</item>
         <item>World Wide Web</item>
-        <item>X</item>
+        <item>Full Form</item>
         <item>Extended Graphics Array </item>
         <item>Extensible Hyper Text Markup Language</item>
         <item>Extensible Music File</item>
@@ -4363,5 +4363,250 @@
         <item>neonatal intensive care</item>
         <item>neonatal intensive care unit</item>
     </string-array>
+    <string-array name="medical_abbreviation_o_to_p">
+        <item>O</item>
+        <item>O2</item>
+        <item>OA</item>
+        <item>OBS</item>
+        <item>OCD</item>
+        <item>OH</item>
+        <item>OHD</item>
+        <item>OPD</item>
+        <item>OSA</item>
 
+        <item>P</item>
+        <item>PA</item>
+        <item>PACU</item>
+        <item>PAF</item>
+        <item>PAC</item>
+        <item>PDN</item>
+        <item>PEG</item>
+        <item>PET</item>
+        <item>PID</item>
+        <item>PICU</item>
+        <item>PID</item>
+        <item>P&amp;N</item>
+        <item>PKD</item>
+        <item>PMS</item>
+        <item>PNV</item>
+        <item>PTSD</item>
+        <item>PNI</item>
+        <item>PROM</item>
+        <item>PSH</item>
+        <item>PTA</item>
+        <item>PUD</item>
+        <item>PVD</item>
+        <item>PVT</item>
+        <item>PWB%</item>
+    </string-array>
+    <string-array name="medical_fullform_o_to_p">
+        <item>Full Form</item>
+        <item>oxygen</item>
+        <item>osteoarthritis</item>
+        <item>organic brain syndrome</item>
+        <item>Obsessive-Compulsive Disorder</item>
+        <item>occupational history</item>
+        <item>organic heart disease</item>
+        <item>Outpatient Department</item>
+        <item>Obstructive Sleep Apnea</item>
+
+        <item>Full Form</item>
+        <item>physician’s assistant</item>
+        <item>post anesthesia care unit</item>
+        <item>paroxysmal atrial fibrillation</item>
+        <item>Premature Atrial Contraction</item>
+        <item>private duty nurse</item>
+        <item>percutaneous endoscopic gastrostomy</item>
+        <item>percutaneous endoscopic gastrostomy</item>
+        <item>pelvic inflammatory disease</item>
+        <item>pulmonary intensive care unit</item>
+        <item>Pelvic Inflammatory Disease</item>
+        <item>Psychiatry and Neurology</item>
+        <item>Polycystic Kidney Disease</item>
+        <item>Premenstrual Syndrome</item>
+        <item>prenatal vitamins</item>
+        <item>Post-Traumatic Stress Disorder</item>
+        <item>peripheral nerve injury</item>
+        <item>passive range of motion</item>
+        <item>past surgical history</item>
+        <item>prior to admission,</item>
+        <item>peptic ulcer disease</item>
+        <item>peripheral vascular disease</item>
+        <item>previous trouble</item>
+        <item>partial weight bearing with percent</item>
+    </string-array>
+    <string-array name="medical_abbreviation_q_to_r">
+        <item>Q</item>
+        <item>q</item>
+        <item>q.h.</item>
+        <item>q.i.d.</item>
+        <item>QD</item>
+
+        <item>R</item>
+        <item>RA</item>
+        <item>rad.</item>
+        <item>r.a.m</item>
+        <item>R.A.S.</item>
+        <item>RBC</item>
+        <item>RCA</item>
+        <item>RCU</item>
+        <item>RD</item>
+        <item>RE</item>
+        <item>rehab.</item>
+        <item>RLA</item>
+        <item>RLE</item>
+        <item>RHD</item>
+        <item>RNA</item>
+        <item>Rx</item>
+    </string-array>
+    <string-array name="medical_fullform_q_to_r">
+        <item>Full Form</item>
+        <item>every</item>
+        <item>every hour</item>
+        <item>four times a day</item>
+        <item>once a day</item>
+
+        <item>Full Form</item>
+        <item>rheumatoid arthritis, right atrium</item>
+        <item>radial</item>
+        <item>rapid alternating movements</item>
+        <item>right arm sitting</item>
+        <item>red blood cell</item>
+        <item>right coronary artery</item>
+        <item>respiratory care unit</item>
+        <item>respiratory distress</item>
+        <item>reconditioning exercise</item>
+        <item>rehabilitation.</item>
+        <item>Rancho Los Amigo Scale</item>
+        <item>right lower extremity</item>
+        <item>Rheumatic Heart Disease</item>
+        <item>Ribonucleic Acid</item>
+        <item>prescription, treatment</item>
+    </string-array>
+    <string-array name="medical_abbreviation_s_to_t">
+        <item>S</item>
+        <item>Sa.</item>
+        <item>SCD</item>
+        <item>SCI</item>
+        <item>SCU</item>
+        <item>SGA</item>
+        <item>SH</item>
+        <item>SI</item>
+        <item>SICU</item>
+        <item>SIDS</item>
+        <item>SLP</item>
+        <item>SS</item>
+        <item>ST</item>
+        <item>STD</item>
+
+        <item>T</item>
+        <item>T</item>
+        <item>T&amp;A</item>
+        <item>tab.</item>
+        <item>TAH</item>
+        <item>TB</item>
+        <item>TBI</item>
+        <item>tbsp.</item>
+        <item>temp</item>
+        <item>THR</item>
+        <item>TIA</item>
+        <item>TKR</item>
+        <item>TLC</item>
+        <item>TT</item>
+    </string-array>
+    <string-array name="medical_fullform_s_to_t">
+        <item>Full Form</item>
+        <item>saline</item>
+        <item>sudden cardiac death</item>
+        <item>sudden cardiac death</item>
+        <item>special care unit</item>
+        <item>small for gestational ag</item>
+        <item>small for gestational ag</item>
+        <item>stroke index</item>
+        <item>surgical intensive care unit</item>
+        <item>surgical intensive care unit</item>
+        <item>speech-language pathology</item>
+        <item>social service</item>
+        <item>social service</item>
+        <item>sexually transmitted disease</item>
+
+        <item>Full Form</item>
+        <item>temperature</item>
+        <item>temperature</item>
+        <item>tablet</item>
+        <item>total abdominal hysterectomy</item>
+        <item>tuberculosis</item>
+        <item>traumatic brain injury</item>
+        <item>tablespoon.</item>
+        <item>temperature</item>
+        <item>temperature</item>
+        <item>transient ischemic attack</item>
+        <item>total knee replacement</item>
+        <item>Total Lung Capacity</item>
+        <item>Tetanus Toxoid</item>
+    </string-array>
+    <string-array name="medical_abbreviation_u_to_v">
+        <item>U</item>
+        <item>UA</item>
+        <item>UCD</item>
+        <item>UCHD</item>
+        <item>UG</item>
+        <item>u/o</item>
+        <item>Ur.</item>
+        <item>URD</item>
+        <item>URI</item>
+        <item>Urol.</item>
+        <item>US.</item>
+        <item>UTI</item>
+
+        <item>V</item>
+        <item>V</item>
+        <item>VA</item>
+        <item>VD</item>
+        <item>vent.</item>
+        <item>vit</item>
+    </string-array>
+    <string-array name="medical_fullform_u_to_v">
+        <item>Full Form</item>
+        <item>urinalysis</item>
+        <item>usual childhood diseases</item>
+        <item>usual childhood diseases</item>
+        <item>upward gaze</item>
+        <item>under observation</item>
+        <item>urine</item>
+        <item>upper respiratory disease</item>
+        <item>upper respiratory infection</item>
+        <item>urology.</item>
+        <item>ultrasound</item>
+        <item>urinary tract infection</item>
+
+        <item>Full Form</item>
+        <item>vein</item>
+        <item>visual acuity</item>
+        <item>venereal disease</item>
+        <item>ventilator.</item>
+        <item>vitamin</item>
+    </string-array>
+    <string-array name="medical_abbreviation_w_to_x">
+        <item>W</item>
+        <item>WBC</item>
+        <item>WBT</item>
+        <item>WNL</item>
+        <item>wt.</item>
+
+        <item>X</item>
+        <item>x</item>
+        <item>XRT</item>
+    </string-array>
+    <string-array name="medical_fullform_w_to_x">
+        <item>Full Form</item>
+        <item>White Blood Cell</item>
+        <item>White Blood Cell</item>
+        <item>White Blood Cell</item>
+        <item>weight.</item>
+
+        <item>Full Form</item>
+        <item>times</item>
+        <item>external radiation therapy</item>
+    </string-array>
 </resources>
