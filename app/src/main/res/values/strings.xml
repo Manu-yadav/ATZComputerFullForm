@@ -4601,12 +4601,240 @@
     <string-array name="medical_fullform_w_to_x">
         <item>Full Form</item>
         <item>White Blood Cell</item>
-        <item>White Blood Cell</item>
-        <item>White Blood Cell</item>
+        <item>weight bearing tolerance</item>
+        <item>within normal limits</item>
         <item>weight.</item>
 
         <item>Full Form</item>
         <item>times</item>
         <item>external radiation therapy</item>
+    </string-array>
+
+    <!--Business/Finance abbreviation A-Z-->
+    <string-array name="business_abbreviation_a_to_b">
+        <item>A</item>
+        <item>ADR</item>
+        <item>AI</item>
+        <item>AM</item>
+        <item>AOP</item>
+        <item>AOP</item>
+        <item>AP</item>
+        <item>AR</item>
+        <item>ARPU</item>
+        <item>ASP</item>
+        <item>agcy</item>
+        <item>a/c.</item>
+
+        <item>B</item>
+        <item>BAU</item>
+        <item>BEP</item>
+        <item>BIC</item>
+        <item>bldg</item>
+        <item>BLS</item>
+        <item>BMC</item>
+        <item>BOM</item>
+        <item>BPO</item>
+        <item>BPR</item>
+        <item>BPV</item>
+        <item>BRD</item>
+        <item>BRU</item>
+        <item>BRV</item>
+        <item>BTW</item>
+        <item>B2B</item>
+        <item>B2C</item>
+        <item>B2G</item>
+        <item>BU</item>
+        <item>BUSI</item>
+        <item>bus</item>
+        <item>BFRS</item>
+    </string-array>
+    <string-array name="business_fullform_a_to_b">
+        <item>Full Form</item>
+        <item>Alternative dispute resolution</item>
+        <item>Artificial Intelligence</item>
+        <item>Account manager</item>
+        <item>Adjusted Operating Profit</item>
+        <item>Annual Operating Plan</item>
+        <item>Accounts payable</item>
+        <item>Accounts receivable</item>
+        <item>Average revenue per user</item>
+        <item>Average selling price</item>
+        <item>Agency</item>
+        <item>Account</item>
+
+        <item>Full Form</item>
+        <item>Business As Usual</item>
+        <item>Break Even Point</item>
+        <item>Bank Identifier Code</item>
+        <item>Building</item>
+        <item>Balance sheet</item>
+        <item>Business Model Canvas</item>
+        <item>Bill of materials</item>
+        <item>Business Process Outsourcing</item>
+        <item>Brief Project Report</item>
+        <item>Bank Payment Voucher</item>
+        <item>Business Requirements Document</item>
+        <item>Business Recovery Unit</item>
+        <item>Bank Receipt Voucher</item>
+        <item>By the way</item>
+        <item>Business-to-business</item>
+        <item>Business to Consumer</item>
+        <item>Business-to-government</item>
+        <item>Business Unit</item>
+        <item>Business</item>
+        <item>Business</item>
+        <item>Bangladesh Financial Reporting Standards</item>
+    </string-array>
+    <string-array name="business_abbreviation_c_to_d">
+        <item>C</item>
+        <item>CA</item>
+        <item>CAGR</item>
+        <item>CAO</item>
+        <item>CAPEX</item>
+        <item>CAPM</item>
+        <item>CBOE</item>
+        <item>CBOT</item>
+        <item>CDO</item>
+        <item>CDM</item>
+        <item>CDS</item>
+        <item>CEO</item>
+        <item>COA</item>
+        <item>CFA</item>
+        <item>CFD</item>
+        <item>CFC</item>
+        <item>CFCT</item>
+        <item>CFM</item>
+        <item>CFO</item>
+        <item>CFS</item>
+        <item>CIA</item>
+        <item>CIF</item>
+        <item>CIMA</item>
+        <item>CIO</item>
+        <item>CIP</item>
+        <item>CISA</item>
+        <item>CISO</item>
+        <item>CLO</item>
+        <item>CMA</item>
+        <item>CMFB</item>
+        <item>CMO</item>
+        <item>COB</item>
+        <item>COC</item>
+        <item>COD</item>
+        <item>COE</item>
+        <item>COGS</item>
+        <item>Corp</item>
+        <item>COO</item>
+        <item>CPA</item>
+        <item>CPI</item>
+        <item>CPO</item>
+        <item>CPQ</item>
+        <item>CPU</item>
+        <item>CSI</item>
+        <item>CSO</item>
+        <item>CSR</item>
+        <item>CRM</item>
+        <item>CVP</item>
+        <item>CTA</item>
+        <item>CTO</item>
+        <item>CX</item>
+        <item>CXO</item>
+        <item>C2B</item>
+        <item>C&amp;F</item>
+        <item>CKM</item>
+        <item>CTC</item>
+        <item>CUSIP number</item>
+        <item>Cr</item>
+
+        <item>D</item>
+        <item>DDA</item>
+        <item>Dept.</item>
+        <item>DI</item>
+        <item>DIFOT</item>
+        <item>Dir</item>
+        <item>disc.</item>
+        <item>DMA</item>
+        <item>DOE</item>
+        <item>DPO</item>
+        <item>DR</item>
+        <item>DSO</item>
+        <item>DSP</item>
+        <item>DTP</item>
+        <item>DVP</item>
+    </string-array>
+    <string-array name="business_fullform_c_to_d">
+        <item>Full Form</item>
+        <item>Current Account</item>
+        <item>Compound annual growth rate</item>
+        <item>Chief Accounting Officer</item>
+        <item>Capital Expenditure</item>
+        <item>Capital asset pricing model</item>
+        <item>Chicago Board Options Exchange</item>
+        <item>Chicago Board of Trade</item>
+        <item>Collateralized debt obligation or Chief Data Officer</item>
+        <item>Change and Data Management</item>
+        <item>Credit default swap</item>
+        <item>Chief executive officer</item>
+        <item>Chart of Account</item>
+        <item>Chartered Financial Analyst</item>
+        <item>Contract for difference</item>
+        <item>Consumption of fixed capital</item>
+        <item>Cash Flow Cycle Time</item>
+        <item>Certified Financial Manager</item>
+        <item>Chief Financial Officer</item>
+        <item>Consolidated Financial Statement</item>
+        <item>Certified Internal Auditor</item>
+        <item>Cost Insurance With Freight</item>
+        <item>Chartered Institute of Management Accountants</item>
+        <item>Chief Investment Officer</item>
+        <item>Carriage and Insurance Paid</item>
+        <item>Certified Information Systems Auditor</item>
+        <item>Chief Information Security Officer</item>
+        <item>Chief Legal Officer</item>
+        <item>Certified Management Accountant</item>
+        <item>Committee on monetary, finance and balance of payments statistics</item>
+        <item>Chief Marketing Officer</item>
+        <item>Close of Business</item>
+        <item>Cost of Capital</item>
+        <item>Cash on Delivery</item>
+        <item>Cost of Equity</item>
+        <item>Cost of Goods Sold</item>
+        <item>Corporation</item>
+        <item>Chief Operating Officer</item>
+        <item> Certified Public Accountant</item>
+        <item>Consumer Price Index</item>
+        <item>Chief Procurement Officer</item>
+        <item>Configure, Price, Quote</item>
+        <item> Central Processing Unit</item>
+        <item>Corporate Social Investment</item>
+        <item>Chief Security Officer</item>
+        <item>Corporate social responsibility</item>
+        <item>Customer Relationship Management</item>
+        <item>Cost Volume Profit</item>
+        <item>Call to action</item>
+        <item>Chief Technology Officer</item>
+        <item>Customer Experience</item>
+        <item>Any chief officer(s), x being a placeholder.</item>
+        <item>Consumer-to-business</item>
+        <item>Cost With Freight</item>
+        <item>Customer Knowledge Management</item>
+        <item>Cost to company</item>
+        <item>Committee on Uniform Security Identification Procedures number</item>
+        <item>Credit</item>
+
+        <item>Full Form</item>
+        <item>Depletion Depreciation Amortization</item>
+        <item>Department</item>
+        <item>Dispatch information</item>
+        <item>Delivery in full on time, a variant of On Time In Full</item>
+        <item>Director</item>
+        <item>Discount</item>
+        <item>Direct market access</item>
+        <item>Depending on Experience</item>
+        <item>Days Payable Outstanding</item>
+        <item>Depositary receipt</item>
+        <item>Days Sales Outstanding</item>
+        <item>Delivery service provider</item>
+        <item>Desktop Publishing</item>
+        <item>Delivery versus payment</item>
     </string-array>
 </resources>

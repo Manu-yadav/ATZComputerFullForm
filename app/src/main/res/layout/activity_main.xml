@@ -248,7 +248,7 @@
                     android:layout_gravity="center"
                     android:gravity="center"
                     android:padding="5dp"
-                    android:text="Corporate"
+                    android:text="Business/Finance"
                     android:drawableTop="@drawable/icon_corporate"
                     android:drawablePadding="5dp"
                     android:textColor="#FFFFFF"
