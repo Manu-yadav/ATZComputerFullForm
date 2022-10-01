@@ -4837,4 +4837,697 @@
         <item>Desktop Publishing</item>
         <item>Delivery versus payment</item>
     </string-array>
+    <string-array name="business_abbreviation_e_to_f">
+        <item>E</item>
+        <item>EAR</item>
+        <item>EAY</item>
+        <item>EBITA </item>
+        <item>EBITDA </item>
+        <item>ECB </item>
+        <item>ECS </item>
+        <item>EDI </item>
+        <item>EFSM</item>
+        <item>EFTPOS</item>
+        <item>EIDL</item>
+        <item>EPS</item>
+        <item>EXP</item>
+        <item>EOB</item>
+        <item>EOD</item>
+        <item>EOM</item>
+        <item>ERP</item>
+        <item>ETA</item>
+        <item>ETD</item>
+        <item>EMI</item>
+        <item>EPC</item>
+        <item>ECGC</item>
+        <item>EXW</item>
+
+        <item>F</item>
+        <item>FAB </item>
+        <item>FDP </item>
+        <item>FOB </item>
+        <item>FIFO</item>
+        <item>FinMin</item>
+        <item>Fin Min </item>
+        <item>FL</item>
+        <item>FOMC</item>
+        <item>FP&amp;A</item>
+        <item>FPO</item>
+        <item>FIX</item>
+        <item>FSA</item>
+        <item>FTE</item>
+        <item>FV</item>
+        <item>FX</item>
+        <item>FY</item>
+        <item>FYA</item>
+        <item>FYI</item>
+        <item>FOC</item>
+        <item>F/U</item>
+    </string-array>
+    <string-array name="business_fullform_e_to_f">
+        <item>Full Form</item>
+        <item>Effective annual rate</item>
+        <item>Effective Annual Yield</item>
+        <item>Earnings before interest and taxes and amortization </item>
+        <item> Earnings before Interest, Taxes, Depreciation, and Amortization </item>
+        <item> European Central Bank </item>
+        <item>Electronic Clearing System </item>
+        <item>Electronic Data Interchange </item>
+        <item> European Financial Stabilisation Mechanism</item>
+        <item>Electronic Funds Transfer at Point of Sale</item>
+        <item> Economic Injury Disaster Loan</item>
+        <item>Earnings per share</item>
+        <item>Export</item>
+        <item> End of business</item>
+        <item>End of day</item>
+        <item>End of Message</item>
+        <item> Enterprise Resource Planning</item>
+        <item>Estimated Time of Arrival</item>
+        <item>Estimated Time of Delivery</item>
+        <item>Equated Monthly Installment</item>
+        <item>Export Promotion Council</item>
+        <item>Export Credit Guarantee Corporation of India</item>
+        <item>Ex Works</item>
+
+        <item>Full Form</item>
+        <item>Feature Advantage Benefits </item>
+        <item>Finance Department </item>
+        <item>Freight On Board </item>
+        <item>First In, First Out</item>
+        <item>Finance Minister</item>
+        <item>Finance Minister</item>
+        <item>Financial leverage</item>
+        <item>Federal Open Market Committee</item>
+        <item>Financial Planning &amp; Analysis</item>
+        <item>Follow-on Public Offer</item>
+        <item>Financial Information Exchange</item>
+        <item>Financial Services Authority</item>
+        <item>Full-Time Equivalent</item>
+        <item>Future Value</item>
+        <item>Foreign exchange market</item>
+        <item>Fiscal year or Financial year</item>
+        <item> For Your Action</item>
+        <item>For Your Information</item>
+        <item>Free Of Cost</item>
+        <item>Follow-Up</item>
+    </string-array>
+    <string-array name="business_abbreviation_g_to_h">
+        <item>G</item>
+        <item>GAAP</item>
+        <item>GAAS</item>
+        <item>GDP</item>
+        <item>GDPR</item>
+        <item>GDR</item>
+        <item>GFCF</item>
+        <item>GL</item>
+        <item>GMV</item>
+        <item>GP</item>
+        <item>GPO</item>
+        <item>GRN</item>
+        <item>GRNI</item>
+        <item>GSV</item>
+        <item>GVC</item>
+        <item>GMROII</item>
+        <item>G&amp;A</item>
+
+        <item>H</item>
+        <item>HMRC</item>
+        <item>HP</item>
+        <item>HQ</item>
+        <item>HR</item>
+        <item>HRD</item>
+        <item>HS Code</item>
+    </string-array>
+    <string-array name="business_fullform_g_to_h">
+        <item>Full Form</item>
+        <item>Generally Accepted Accounting Principles</item>
+        <item>Generally Accepted Audit Standards</item>
+        <item>Gross Domestic Product</item>
+        <item>General Data Protection Regulation</item>
+        <item>Global depository receipt</item>
+        <item>Gross fixed capital formation</item>
+        <item>General Ledger</item>
+        <item>Gross Merchandise Volume</item>
+        <item>Gross Profit</item>
+        <item>Group purchasing organization</item>
+        <item>Goods Receipt Note</item>
+        <item>Goods Receipt Not Invoiced</item>
+        <item>Gross Sales Value</item>
+        <item>Global value chain</item>
+        <item>Gross Margin Return on Inventory Investment</item>
+        <item>General and Administration expense.</item>
+
+        <item>Full Form</item>
+        <item>Her Majesty's Revenue and Customs</item>
+        <item>Hire purchase</item>
+        <item>Headquarters</item>
+        <item>Human Resources</item>
+        <item>Human Resource Development</item>
+        <item>Harmonized Commodity Description and Coding System</item>
+    </string-array>
+    <string-array name="business_abbreviation_i_to_j">
+        <item>I</item>
+        <item>IAS</item>
+        <item>IBAN</item>
+        <item>ICB</item>
+        <item>ICRM</item>
+        <item>IE</item>
+        <item>IFRS</item>
+        <item>ILCLP</item>
+        <item>IMF</item>
+        <item>IMP</item>
+        <item>Inc.</item>
+        <item>IoT</item>
+        <item>IPO</item>
+        <item>IPT</item>
+        <item>IR</item>
+        <item>IRS</item>
+        <item>IRR </item>
+        <item>ISIN </item>
+        <item>ISM </item>
+        <item>ITT </item>
+        <item>IYR</item>
+
+        <item>J</item>
+        <item>J</item>
+        <item>JIT</item>
+        <item>JIS</item>
+        <item>JST</item>
+        <item>JV</item>
+    </string-array>
+    <string-array name="business_fullform_i_to_j">
+        <item>Full Form</item>
+        <item>International Accounting Standards</item>
+        <item>International Bank Account Number</item>
+        <item>Industry Classification Benchmark</item>
+        <item>Innovative Customer Relationship Management</item>
+        <item>Interest expense</item>
+        <item>International Financial Reporting Standard</item>
+        <item>IdentLogic Systems Customer Loyalty Program</item>
+        <item>International Monetary Fund</item>
+        <item>Import</item>
+        <item>Incorporated</item>
+        <item>Internet of Things</item>
+        <item>Initial public offering</item>
+        <item>Item Per Transaction</item>
+        <item>Interest rate – typically referring to an IR derivative product</item>
+        <item>Internal Revenue Service</item>
+        <item>Internal rate of return</item>
+        <item>International Securities Identification Number</item>
+        <item>Institute of Supply Management</item>
+        <item>Invitation to tender</item>
+        <item>In Year Revenue</item>
+
+        <item>Full Form</item>
+        <item>Journal</item>
+        <item>Just in time</item>
+        <item>Just in sequence</item>
+        <item>Joint Supervisory Team</item>
+        <item>Joint Venture</item>
+    </string-array>
+    <string-array name="business_abbreviation_k_to_l">
+        <item>K</item>
+        <item>K</item>
+        <item>Ke</item>
+        <item>KIBOR</item>
+        <item>KPI</item>
+        <item>KYC</item>
+
+        <item>L</item>
+        <item>LBO</item>
+        <item>LC</item>
+        <item>LIBOR</item>
+        <item>LE</item>
+        <item>LIFFE</item>
+        <item>LIFO</item>
+        <item>LLC</item>
+        <item>LME </item>
+        <item>LMS</item>
+        <item>Ltd.</item>
+        <item>LTV</item>
+        <item>LOC</item>
+        <item>LOI</item>
+        <item>LoU</item>
+        <item>LY</item>
+    </string-array>
+    <string-array name="business_fullform_k_to_l">
+        <item>Full Form</item>
+        <item>Is used as an abbreviation for 1,000.</item>
+        <item>Is used as an abbreviation for Cost of Equity (COE)</item>
+        <item>Karachi Interbank Offered Rate</item>
+        <item>Key Performance Indicator</item>
+        <item>Know Your Custome</item>
+
+        <item>Full Form</item>
+        <item>Leveraged Buyout</item>
+        <item>Letter of credit</item>
+        <item>London Interbank Offered Rate</item>
+        <item>Latest Estimate</item>
+        <item>London International Financial Futures and Options Exchange</item>
+        <item>Last In, First Out</item>
+        <item>Limited Liability Company</item>
+        <item>London Metal Exchange </item>
+        <item>Learning Management System</item>
+        <item>Limited Company</item>
+        <item>Loan to Value</item>
+        <item>Lines of Credit</item>
+        <item>Letter of intent</item>
+        <item>Letters of Undertaking</item>
+        <item>Last Year</item>
+    </string-array>
+    <string-array name="business_abbreviation_m_to_n">
+        <item>M</item>
+        <item>MBS</item>
+        <item>mfg.</item>
+        <item>MGMT</item>
+        <item>MIC</item>
+        <item>MiFID</item>
+        <item>MILE</item>
+        <item>MoM</item>
+        <item>MOQ</item>
+        <item>MOU</item>
+        <item>MPC</item>
+        <item>MRO</item>
+        <item>MRP</item>
+        <item>MSOD</item>
+        <item>MSRP</item>
+        <item>MTD</item>
+        <item>MWC</item>
+        <item>MPR</item>
+        <item>MTM</item>
+
+        <item>N</item>
+        <item>NAV</item>
+        <item>NCBO</item>
+        <item>NCND</item>
+        <item>NDA</item>
+        <item>NII</item>
+        <item>NIM</item>
+        <item>NNTO</item>
+        <item>NOA</item>
+        <item>NOI</item>
+        <item>NOPAT</item>
+        <item>NPA</item>
+        <item>NPL</item>
+        <item>NPV</item>
+        <item>NTE</item>
+        <item>NYMEX</item>
+        <item>NYSE</item>
+        <item>NFO</item>
+    </string-array>
+    <string-array name="business_fullform_m_to_n">
+        <item>Full Form</item>
+        <item>Mortgage-backed security</item>
+        <item>Manufacturing</item>
+        <item>Management</item>
+        <item>Market Identifier Code</item>
+        <item>Markets in Financial Instruments Directive</item>
+        <item>Maximum impact, little effort</item>
+        <item>Month on Month / Month over Month</item>
+        <item>Minimum Order Quantity</item>
+        <item>Memorandum of understanding</item>
+        <item>marginal propensity to consume</item>
+        <item>Maintenance, Repair, and Operations</item>
+        <item>Maximum Retail Price</item>
+        <item>Monthly Statement of Select Operational Data</item>
+        <item>Manufacturer's Suggested Retail Price</item>
+        <item>Month-to-date</item>
+        <item>Managerial Working Capital</item>
+        <item>Monthly Progress Report</item>
+        <item>Mark To Market</item>
+
+        <item>Full Form</item>
+        <item>Net asset value</item>
+        <item>No Change of Beneficial Ownership</item>
+        <item>Non-Circumvent and Non-Disclosure</item>
+        <item>Non-Disclosure Agreement</item>
+        <item>Net Interest Income</item>
+        <item>Net Interest Margin</item>
+        <item>No Need To Open</item>
+        <item>Net Operating Assets</item>
+        <item>Net Operating Income</item>
+        <item>Net Operating Profit After Tax</item>
+        <item>Non Performing Asset</item>
+        <item>Non-performing loan</item>
+        <item>Net Present Value</item>
+        <item>Not To Exceed</item>
+        <item>New York Mercantile Exchange</item>
+        <item>New York Stock Exchange</item>
+        <item>New Fund Offer</item>
+    </string-array>
+    <string-array name="business_abbreviation_o_to_p">
+        <item>O</item>
+        <item>OC</item>
+        <item>OCF</item>
+        <item>OECD</item>
+        <item>OEM</item>
+        <item>OIBDA</item>
+        <item>OKR</item>
+        <item>OOF</item>
+        <item>OOO</item>
+        <item>OPEX</item>
+        <item>OTIF</item>
+        <item>OTC</item>
+
+        <item>P</item>
+        <item>P&amp;L</item>
+        <item>P2B</item>
+        <item>PA</item>
+        <item>PA</item>
+        <item>PAT</item>
+        <item>PBT</item>
+        <item>P/E</item>
+        <item>PE</item>
+        <item>PEG</item>
+        <item>PHEK</item>
+        <item>PFI</item>
+        <item>PI</item>
+        <item>PII</item>
+        <item>pip</item>
+        <item>PMAC</item>
+        <item>PO</item>
+        <item>POA</item>
+        <item>POS</item>
+        <item>PP&amp;E</item>
+        <item>PPP</item>
+        <item>PPP</item>
+        <item>PPT</item>
+        <item>PR</item>
+        <item>PSP</item>
+        <item>PTC</item>
+        <item>PTD</item>
+        <item>PLR</item>
+        <item>PWIN</item>
+        <item>PWP</item>
+    </string-array>
+    <string-array name="business_fullform_o_to_p">
+        <item>Full Form</item>
+        <item>Opportunity Cost</item>
+        <item>Operating cash flow</item>
+        <item>Organisation for Economic Co-operation and Development</item>
+        <item>Original Equipment Manufacturer</item>
+        <item>Operating Income Before Depreciation And Amortization</item>
+        <item>Objectives and key results</item>
+        <item>Out of Facility</item>
+        <item>Out of Office</item>
+        <item>Operational Expenditure</item>
+        <item>On Time In Full</item>
+        <item>Over-the-counter (finance)</item>
+
+        <item>Full Form</item>
+        <item>Profit and Loss</item>
+        <item>Platform to Business</item>
+        <item>Purchasing agent </item>
+        <item>Promotional Activity</item>
+        <item>Profit After Tax</item>
+        <item>Profit Before Tax</item>
+        <item>Price-to-earnings ratio</item>
+        <item>Private Equity</item>
+        <item>Price-to-earnings growth ratio</item>
+        <item>(Product Planning cost)</item>
+        <item>Private Finance Initiative</item>
+        <item>Professional Indemnity (insurance coverage)</item>
+        <item>Personally identifiable information</item>
+        <item>Periodic Investment Plan</item>
+        <item>Period Moving Average Cost</item>
+        <item>Purchase Order</item>
+        <item>Plan Of Action</item>
+        <item>Point of sale</item>
+        <item>Property, plant, and equipment</item>
+        <item>Public-private partnership</item>
+        <item>Purchasing power parity</item>
+        <item>Powerpoint presentation</item>
+        <item>Purchase Requisition</item>
+        <item>Profit Sharing Plan</item>
+        <item>Private Trust Company</item>
+        <item>Project to Date</item>
+        <item>Prime Lending Rate</item>
+        <item>Percent win </item>
+        <item>Personal Wealth Portfolio</item>
+    </string-array>
+    <string-array name="business_abbreviation_q_to_r">
+        <item>Q</item>
+        <item>QC</item>
+        <item>QoQ</item>
+        <item>QPR</item>
+        <item>QRP</item>
+        <item>q/q</item>
+        <item>QTD</item>
+
+        <item>R</item>
+        <item>RAQSCI</item>
+        <item>RBI.</item>
+        <item>RBA</item>
+        <item>RE</item>
+        <item>REIT</item>
+        <item>RFI</item>
+        <item>RFP</item>
+        <item>RFQ</item>
+        <item>RFX</item>
+        <item>RMD.</item>
+        <item>R/O</item>
+        <item>ROA</item>
+        <item>ROB</item>
+        <item>ROC</item>
+        <item>ROCE</item>
+        <item>ROE</item>
+        <item>ROI</item>
+        <item>ROIC</item>
+        <item>RONA</item>
+        <item>ROS</item>
+        <item>RR</item>
+        <item>RSP.</item>
+        <item>RWA</item>
+        <item>R&amp;D</item>
+        <item>RC</item>
+    </string-array>
+    <string-array name="business_fullform_q_to_r">
+        <item>Full Form</item>
+        <item>Quality control or Quality costs</item>
+        <item>Quarter on quarter</item>
+        <item>Quarterly Performance Report</item>
+        <item>Qualified Retirement Plan</item>
+        <item>Quarter on quarter</item>
+        <item>Quarter-to-date</item>
+
+        <item>Full Form</item>
+        <item>Regulatory, Assurance of Supply, Quality, Service, Cost, Innovation</item>
+        <item>Reserve Bank of India</item>
+        <item>Reserve Bank of Australia</item>
+        <item>Retained Earnings</item>
+        <item>Real Estate Investment Trust</item>
+        <item>Request for information</item>
+        <item>Request for Proposal</item>
+        <item>Request for Quotation</item>
+        <item>Generic name for a Request for Information, Proposal or Quotation</item>
+        <item>Required Minimum Distribution</item>
+        <item>Rollover</item>
+        <item>Return on assets</item>
+        <item>Return on brand</item>
+        <item>Registration Of Company</item>
+        <item>Return on Capital Employed</item>
+        <item>Return on Equity</item>
+        <item>Return on Investment</item>
+        <item>Return on Invested Capital</item>
+        <item>Return on net assets</item>
+        <item>Return on Sales</item>
+        <item>Resource rent</item>
+        <item>Retail selling price.</item>
+        <item>Risk-weighted asset</item>
+        <item>Research and Development</item>
+        <item>Retail Company</item>
+    </string-array>
+    <string-array name="business_abbreviation_s_to_t">
+        <item>S</item>
+        <item>S&amp;M</item>
+        <item>SLR</item>
+        <item>S&amp;OP</item>
+        <item>SAAS</item>
+        <item>SAM</item>
+        <item>SBU</item>
+        <item>SBLC</item>
+        <item>SCM</item>
+        <item>SCBA</item>
+        <item>SEBI</item>
+        <item>SEC</item>
+        <item>SEDOL</item>
+        <item>SF</item>
+        <item>SG&amp;A</item>
+        <item>SIMPLE</item>
+        <item>SIOP</item>
+        <item>SIR</item>
+        <item>SIV</item>
+        <item>SKU</item>
+        <item>SLA</item>
+        <item>SMA</item>
+        <item>SME</item>
+        <item>SOHO</item>
+        <item>SOP</item>
+        <item>SOW</item>
+        <item>SOX</item>
+        <item>SPP</item>
+        <item>SROI</item>
+        <item>SSN</item>
+        <item>Stg</item>
+        <item>STP</item>
+        <item>SUA</item>
+        <item>SWM</item>
+        <item>SWIP</item>
+        <item>SWOT</item>
+
+        <item>T</item>
+        <item>TB</item>
+        <item>TBC</item>
+        <item>TBD</item>
+        <item>TCO</item>
+        <item>TCV</item>
+        <item>TOTW</item>
+        <item>TQM</item>
+        <item>TSR</item>
+        <item>TTM</item>
+        <item>TVM</item>
+        <item>Ts &amp; Cs</item>
+    </string-array>
+    <string-array name="business_fullform_s_to_t">
+        <item>Full Form</item>
+        <item>Sales &amp; Marketing</item>
+        <item>Statutory Liquidity Ratio</item>
+        <item>Sales and operations planning</item>
+        <item>Software-as-a-Service</item>
+        <item>Strategic Asset Management</item>
+        <item>Strategic Business Unit</item>
+        <item>Stand By Letter of Credit</item>
+        <item>Supply Chain Management</item>
+        <item>Social Cost Benefit Analysis</item>
+        <item>Securities and Exchange Board of India</item>
+        <item>Securities and Exchange Commission</item>
+        <item>Stock Exchange Daily Official List</item>
+        <item>Structured Finance</item>
+        <item>Sales, General, and Administrative expenses</item>
+        <item>Savings Incentive Match Plan for Employees</item>
+        <item>Sales Inventory and Operations Plan</item>
+        <item>Stores Issuance Requisition</item>
+        <item>Structured investment vehicle</item>
+        <item>Stock keeping unit</item>
+        <item>Service Level Agreement</item>
+        <item>Separately Managed Account</item>
+        <item>Small and Medium Enterprises</item>
+        <item>Small Office/Home Office</item>
+        <item>Standard Operating Procedure</item>
+        <item>Statement of Work</item>
+        <item>Sarbanes-Oxley</item>
+        <item>Systematic Payment Plan</item>
+        <item>Social return on investment</item>
+        <item>Social Security Number</item>
+        <item>Sterling, the currency of the United Kingdom</item>
+        <item>Situation Target Proposal or Situation Target Path</item>
+        <item>Start Up Agreement</item>
+        <item>Strategic Wealth Management</item>
+        <item>Systematic Withdrawal from Investment Plan</item>
+        <item>Strengths, Weaknesses, Opportunities, Threats</item>
+
+        <item>Full Form</item>
+        <item>Transaction Banking</item>
+        <item>To Be Completed</item>
+        <item>To Be Defined</item>
+        <item>Total Cost of Ownership</item>
+        <item>Total Contract Value</item>
+        <item>Time Off for Time Worked</item>
+        <item>Total Quality Management</item>
+        <item>Total shareholder return</item>
+        <item>Trailing Twelve Months</item>
+        <item>Time Value of Money</item>
+        <item>Terms and Conditions</item>
+    </string-array>
+    <string-array name="business_abbreviation_u_to_v">
+        <item>U</item>
+        <item>USP </item>
+        <item>UPI </item>
+
+        <item>V</item>
+        <item>VAD</item>
+        <item>VaR</item>
+        <item>VAR</item>
+        <item>VAT</item>
+        <item>VC</item>
+        <item>VP</item>
+    </string-array>
+    <string-array name="business_fullform_u_to_v">
+        <item>Full Form</item>
+        <item>Unique Selling Proposition</item>
+        <item>Unified Payment Interface</item>
+
+        <item>Full Form</item>
+        <item>Value-Added Distributor</item>
+        <item>Value at Risk</item>
+        <item>Value-Added Reseller</item>
+        <item>Value-Added Tax</item>
+        <item>Venture Capital</item>
+        <item>Vice President</item>
+    </string-array>
+    <string-array name="business_abbreviation_w_to_x">
+        <item>W</item>
+        <item>WACC</item>
+        <item>WC</item>
+        <item>WFH</item>
+        <item>wk</item>
+        <item>wrk</item>
+        <item>wo</item>
+        <item>WOGs</item>
+        <item>WIGs</item>
+        <item>wasp</item>
+        <item>WLL</item>
+        <item>w.r.t</item>
+        <item>WTI</item>
+        <item>WVN</item>
+        <item>WHT</item>
+        <item>WTO</item>
+        <item>WTD</item>
+        <item>WW</item>
+    </string-array>
+    <string-array name="business_fullform_w_to_x">
+        <item>Full Form</item>
+        <item>Weighted average cost of capital</item>
+        <item>Working capital</item>
+        <item>Work From Home</item>
+        <item>week</item>
+        <item>work</item>
+        <item>work order</item>
+        <item>With other Goods</item>
+        <item>Wildly Important Goals</item>
+        <item>weighted average selling price</item>
+        <item>With Limited Liability</item>
+        <item>With Respect To</item>
+        <item>West Texas Intermediate</item>
+        <item>Withdraw Voucher Note</item>
+        <item>Withholding Tax</item>
+        <item>World Trade Organization</item>
+        <item>Week-To-Date</item>
+        <item>World Wide</item>
+    </string-array>
+
+    <string-array name="business_abbreviation_y_to_z">
+        <item>Y</item>
+        <item>YTD</item>
+        <item>YTG</item>
+        <item>YOY</item>
+        <item>YTC</item>
+
+        <item>Z</item>
+        <item>ZBB</item>
+        <item>zcyc</item>
+        <item>ZOPA</item>
+    </string-array>
+    <string-array name="business_fullform_y_to_z">
+        <item>Full Form</item>
+        <item>Year-to-date</item>
+        <item>Year-to-go</item>
+        <item>Year-over-year</item>
+        <item> Yet-To-Confirm</item>
+
+        <item>Full Form</item>
+        <item>Zero Based Budgeting</item>
+        <item>Zero Coupon Yield Curve</item>
+        <item>Zone of Possible Agreement</item>
+    </string-array>
 </resources>
