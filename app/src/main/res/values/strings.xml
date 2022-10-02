@@ -5981,7 +5981,6 @@
         <item>National Statistical Commission</item>
         <item>National Small Savings Fund</item>
     </string-array>
-
     <string-array name="banking_abbreviation_o_to_p">
         <item>O</item>
         <item>OD</item>
@@ -6011,7 +6010,6 @@
         <item>PSE</item>
         <item>PUC</item>
     </string-array>
-
     <string-array name="banking_fullform_o_to_p">
         <item>Full Form</item>
         <item>Over Draft</item>
@@ -6040,5 +6038,171 @@
         <item>Primary Revenue Balance</item>
         <item>Public Sector Enterprises</item>
         <item>Paid Up Capital</item>
+    </string-array>
+    <string-array name="banking_abbreviation_q_to_r">
+        <item>Q</item>
+        <item>QRR</item>
+
+        <item>R</item>
+        <item>RBI</item>
+        <item>RD</item>
+        <item>RDBMS</item>
+        <item>RE</item>
+        <item>REC</item>
+        <item>REER</item>
+        <item>RFC</item>
+        <item>RIB</item>
+        <item>RIDF</item>
+        <item>RLA</item>
+        <item>RLC</item>
+        <item>RMB</item>
+        <item>RNBC</item>
+        <item>RO</item>
+        <item>RoCs</item>
+        <item>RPA</item>
+        <item>RPCD</item>
+        <item>RR</item>
+        <item>RRB</item>
+        <item>RTP</item>
+        <item>RUF</item>
+        <item>RWA</item>
+    </string-array>
+    <string-array name="banking_fullform_q_to_r">
+        <item>Full Form</item>
+        <item>Quick Review Report</item>
+
+        <item>Full Form</item>
+        <item>Quick Review Report</item>
+        <item>Revenue Deficit</item>
+        <item>Relational Database Management System</item>
+        <item>Revenue Expenditure</item>
+        <item>Rural Electrification Corporation</item>
+        <item>Real Effective Exchange Rate</item>
+        <item>Residents Foreign Currency</item>
+        <item>Resurgent India Bonds</item>
+        <item>Rural Infrastructure Development Fund</item>
+        <item>Recoveries of Loans &amp; Advances</item>
+        <item>Repayment of Loans to Centre</item>
+        <item>Renminbi (Chinese)</item>
+        <item>Residuary Non-Banking Companies</item>
+        <item>Regional Office</item>
+        <item>Registrars of Companies</item>
+        <item>Rupee Payment Area</item>
+        <item>Rural Planning and Credit Department, RBI</item>
+        <item>Revenue Receipts</item>
+        <item>Regional Rural Bank</item>
+        <item>Reserve Tranche Position</item>
+        <item>Revolving Underwriting Facility</item>
+        <item>Risk Weighted Asset</item>
+    </string-array>
+    <string-array name="banking_abbreviation_s_to_t">
+        <item>S</item>
+        <item>SAM</item>
+        <item>SAS</item>
+        <item>SBI</item>
+        <item>SC</item>
+        <item>SCARDB</item>
+        <item>SCB</item>
+        <item>SCB</item>
+        <item>SCS</item>
+        <item>SDDS</item>
+        <item>SDR</item>
+        <item>SEBI</item>
+        <item>SEBs</item>
+        <item>SFC</item>
+        <item>SGL</item>
+        <item>SGSY</item>
+        <item>SHGs</item>
+        <item>SIDBI</item>
+        <item>SIDC</item>
+        <item>SI-SPA</item>
+        <item>SJSRY</item>
+        <item>SLR</item>
+        <item>SLRS</item>
+        <item>SMG</item>
+        <item>SRWTO</item>
+        <item>SSI</item>
+        <item>SSSBEs</item>
+        <item>ST</item>
+        <item>SWG</item>
+
+        <item>T</item>
+        <item>TBs</item>
+        <item>TC</item>
+        <item>TT</item>
+    </string-array>
+    <string-array name="banking_fullform_s_to_t">
+        <item>S</item>
+        <item>Social Accounting Matrix</item>
+        <item>Statistical Analysis System</item>
+        <item>State Bank of India</item>
+        <item>Schedule Caste</item>
+        <item>State Cooperative Agriculture and Rural Development Bank</item>
+        <item>State Cooperative Bank</item>
+        <item>Scheduled Commercial Bank</item>
+        <item>Size Class Strata</item>
+        <item>Special Data Dissemination Standards</item>
+        <item>Special Drawing Right</item>
+        <item>Securities and Exchange Board of India</item>
+        <item>State Electricity Boards</item>
+        <item>State Financial Corporation</item>
+        <item>Subsidiary General Ledger</item>
+        <item>Swarnajayanthi Gram Swarrojgar Yojana</item>
+        <item>Self-Help Groups</item>
+        <item>Small Industries Development Bank of India</item>
+        <item>State Industrial Development Corporation</item>
+        <item>Systems Improvement Scheme under Special Project Agriculture</item>
+        <item>Swarna Jayanti Shahari Rojgar Yojana</item>
+        <item>Statutory Liquidity Ratio</item>
+        <item>Scheme for Liberation &amp; Rehabilitation of Scavangers</item>
+        <item>Standing Monitoring Group</item>
+        <item>Small road &amp; Water Transport Operators</item>
+        <item>Small-Scale Industries</item>
+        <item>Small Scale Service &amp; Business Enterprises</item>
+        <item>Schedule Tribe</item>
+        <item>Second Working Group on Money Supply</item>
+
+        <item>Full Form</item>
+        <item>Treasury Bills</item>
+        <item>Temporary Change</item>
+        <item>Telegraphic Transfer</item>
+    </string-array>
+    <string-array name="banking_abbreviation_u_to_v">
+        <item>U</item>
+        <item>UBB</item>
+        <item>UBD</item>
+        <item>UCB</item>
+        <item>UCN</item>
+        <item>US</item>
+        <item>USD</item>
+        <item>UTI</item>
+
+        <item>V</item>
+        <item>VC</item>
+    </string-array>
+    <string-array name="banking_fullform_u_to_v">
+        <item>Full Form</item>
+        <item>Uniform Balance Book</item>
+        <item>Urban Banks Department</item>
+        <item>Urban Cooperative Bank</item>
+        <item>Uniform Code Number</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Unit Trust of India</item>
+
+        <item>Full Form</item>
+        <item>Venture Capital</item>
+    </string-array>
+    <string-array name="banking_abbreviation_w_to_x">
+        <item>W</item>
+        <item>WGMS</item>
+        <item>WPI</item>
+        <item>WSS</item>
+    </string-array>
+    <string-array name="banking_fullform_w_to_x">
+        <item>Full Form</item>
+        <item>Working Group on Money Supply: Analytics and Methodology of Compilation</item>
+        <item>Wholesale Price Index</item>
+        <item>Weekly Statistical Supplement</item>
     </string-array>
 </resources>
