@@ -5505,7 +5505,6 @@
         <item>Week-To-Date</item>
         <item>World Wide</item>
     </string-array>
-
     <string-array name="business_abbreviation_y_to_z">
         <item>Y</item>
         <item>YTD</item>
@@ -5529,5 +5528,517 @@
         <item>Zero Based Budgeting</item>
         <item>Zero Coupon Yield Curve</item>
         <item>Zone of Possible Agreement</item>
+    </string-array>
+
+    <!--Banking abbreviation A-Z-->
+    <string-array name="banking_abbreviation_a_to_b">
+        <item>A</item>
+        <item>ACF</item>
+        <item>AD</item>
+        <item>ADB</item>
+        <item>ADR</item>
+        <item>AFS</item>
+        <item>AGM</item>
+        <item>AIRCSC</item>
+        <item>AO</item>
+        <item>AR</item>
+        <item>ARIMA</item>
+        <item>AFS</item>
+        <item>ASSOCHAM</item>
+        <item>ATM</item>
+        <item>ATM</item>
+
+        <item>B</item>
+        <item>BIS</item>
+        <item>BOI</item>
+        <item>BoP</item>
+        <item>BPM5</item>
+        <item>BPSD</item>
+        <item>BPSD</item>
+        <item>BSR</item>
+    </string-array>
+    <string-array name="banking_fullform_a_to_b">
+        <item>Full Form</item>
+        <item>Auto-Correlation Function</item>
+        <item>Authorized Dealer</item>
+        <item>Asian Development Bank</item>
+        <item>American Depository Receipt</item>
+        <item>American Depository Receipt</item>
+        <item>Annual General Meeting</item>
+        <item>All India Rural Credit Survey Committee</item>
+        <item>Additive Outliers</item>
+        <item>Auto Regression</item>
+        <item>Auto-Regressive Integrated Moving Average</item>
+        <item>Available For Sale</item>
+        <item>Associated Chambers of Commerce and Industry of India</item>
+        <item>Asynchronous Transfer Mode</item>
+        <item>Asynchronous Transfer Mode</item>
+
+        <item>Full Form</item>
+        <item>Bank for International Settlements</item>
+        <item>Bank for International Settlements</item>
+        <item>Balance of Payments</item>
+        <item>Balance of Payments Manual, 5th edition</item>
+        <item>Balance of Payments Division, DESACS, RBI</item>
+        <item>Basel Committee on Banking Supervision</item>
+        <item>Basic Statistical Returns</item>
+    </string-array>
+    <string-array name="banking_abbreviation_c_to_d">
+        <item>C</item>
+        <item>CAD</item>
+        <item>CAG</item>
+        <item>CBS</item>
+        <item>CC</item>
+        <item>CD</item>
+        <item>CD Ratio</item>
+        <item>CDBS</item>
+        <item>CF</item>
+        <item>CFRA</item>
+        <item>CGRA</item>
+        <item>CII</item>
+        <item>CO</item>
+        <item>CP</item>
+        <item>CPI</item>
+        <item>CPI-IW</item>
+        <item>CR</item>
+        <item>CRAR</item>
+        <item>CRR</item>
+        <item>CSIR</item>
+        <item>CSO</item>
+        <item>CVC</item>
+
+
+        <item>D</item>
+        <item>DAP</item>
+        <item>DBOD</item>
+        <item>DBS</item>
+        <item>DCA</item>
+        <item>DCB</item>
+        <item>DCCB.</item>
+        <item>DCM</item>
+        <item>DD</item>
+        <item>DDS</item>
+        <item>DEIO</item>
+        <item>DESACS</item>
+        <item>DGBA</item>
+        <item>DGCI&amp;S</item>
+        <item>DI</item>
+        <item>DICGC</item>
+        <item>DID</item>
+        <item>DMA</item>
+        <item>DRI</item>
+        <item>DSBB</item>
+        <item>DVP.</item>
+    </string-array>
+    <string-array name="banking_fullform_c_to_d">
+        <item>Full Form</item>
+        <item>Capital Account Deficit</item>
+        <item>Capital Account Deficit</item>
+        <item>Capital Account Deficit</item>
+        <item>Capital Account Deficit</item>
+        <item>Capital Account Deficit</item>
+        <item>Credit Deposit Ratioo</item>
+        <item>Committee of Direction on Banking Statistics</item>
+        <item>Company Finance</item>
+        <item>Company Finance</item>
+        <item>Currency and Gold Revaluation Account</item>
+        <item>Confederation of Indian Industries</item>
+        <item>Capital Outlay</item>
+        <item>Commercial Paper</item>
+        <item>Commercial Paper</item>
+        <item>Consumer Price Index for Industrial Workers</item>
+        <item>Capital Receipts</item>
+        <item>Capital to Risk Weighted Asset Ratio</item>
+        <item>Cash Reserve Ratio</item>
+        <item>Council of Scientific and Industrial Research</item>
+        <item>Central Statistical Organisation</item>
+        <item>Central Vigilance Commission</item>
+
+        <item>Full Form</item>
+        <item>Development Action Plan</item>
+        <item>Department of Banking Operations and Development</item>
+        <item>Department of Banking Supervision, RBI</item>
+        <item>Department of Company Affairs,</item>
+        <item>Demand Collection and Balance</item>
+        <item>District Central Cooperative Bank.</item>
+        <item>Department of Currency Management, RBI</item>
+        <item>Demand Draft</item>
+        <item>Data Dissemination Standards</item>
+        <item>Department of External Investments and Operations</item>
+        <item>Department of Statistical Analysis &amp; Computer Services, RBI</item>
+        <item>Department of Government and Bank Accounts, RBI</item>
+        <item>Directorate General of Commercial Intelligence and Statistic</item>
+        <item>Direct Investment</item>
+        <item>Deposit Insurance and Credit Guarantee Corporation of India</item>
+        <item>Discharge of Internal Debt</item>
+        <item>Departmentalized Ministries Account</item>
+        <item>Differntial Rate of Interest Scheme</item>
+        <item>Dissemination Standards Bulletin Board</item>
+        <item>Delivery versus Payment.</item>
+    </string-array>
+    <string-array name="banking_abbreviation_e_to_f">
+        <item>E</item>
+        <item>External Commercial Borrowing</item>
+        <item>European Central Bank</item>
+        <item>Export Credit and Guarantee Corporation</item>
+        <item>Electronic Clearing Scheme </item>
+        <item>External Debt Management Unit </item>
+        <item>Exchange Equalization Account </item>
+        <item>European Economic Community </item>
+        <item>Exchange Earners Foreign Currency</item>
+        <item>Exchange Fluctuation Reserve</item>
+        <item>Employees Provident Fund</item>
+        <item>Euro</item>
+
+        <item>F</item>
+        <item>Foreign Currency Assets </item>
+        <item>Foreign Currency Convertible Bond </item>
+        <item>Foreign Currency Non-resident (Banks)</item>
+        <item>Foreign Currency Non-resident Account</item>
+        <item>Foreign Currency Non-Repatriable Deposit</item>
+        <item>Foreign Direct Investment</item>
+        <item>Foreign Exchange Management Act</item>
+        <item>Financial Institution</item>
+        <item>Federation of Indian Chambers of Commerce and Industry</item>
+        <item>Foreign Institutional Investor</item>
+        <item>Fixed Income Money Market and Derivatives Association of India</item>
+        <item>Financial Intermediation Services Indirectly Measured</item>
+        <item>Foreign Liabilities and Assets Survey</item>
+        <item>Flow Of Funds</item>
+        <item>Foreign Portfolio Investment</item>
+        <item>Forward Rate Agreement</item>
+        <item>Fiscal Responsibility and Budget Management Act, 2003</item>
+        <item>Floating Rate Note</item>
+        <item>Farmers’ Service Societies</item>
+        <item>First Working Group on Money supply</item>
+    </string-array>
+    <string-array name="banking_fullform_e_to_f">
+        <item>Full Form</item>
+        <item>Effective annual rate</item>
+        <item>Effective Annual Yield</item>
+        <item>Earnings before interest and taxes and amortization </item>
+        <item> Earnings before Interest, Taxes, Depreciation, and Amortization </item>
+        <item> European Central Bank </item>
+        <item>Electronic Clearing System </item>
+        <item>Electronic Data Interchange </item>
+        <item> European Financial Stabilisation Mechanism</item>
+        <item>Electronic Funds Transfer at Point of Sale</item>
+        <item> Economic Injury Disaster Loan</item>
+        <item>Earnings per share</item>
+        <item>Export</item>
+        <item> End of business</item>
+        <item>End of day</item>
+        <item>End of Message</item>
+        <item> Enterprise Resource Planning</item>
+        <item>Estimated Time of Arrival</item>
+        <item>Estimated Time of Delivery</item>
+        <item>Equated Monthly Installment</item>
+        <item>Export Promotion Council</item>
+        <item>Export Credit Guarantee Corporation of India</item>
+        <item>Ex Works</item>
+
+        <item>Full Form</item>
+        <item>Feature Advantage Benefits </item>
+        <item>Finance Department </item>
+        <item>Freight On Board </item>
+        <item>First In, First Out</item>
+        <item>Finance Minister</item>
+        <item>Finance Minister</item>
+        <item>Financial leverage</item>
+        <item>Federal Open Market Committee</item>
+        <item>Financial Planning &amp; Analysis</item>
+        <item>Follow-on Public Offer</item>
+        <item>Financial Information Exchange</item>
+        <item>Financial Services Authority</item>
+        <item>Full-Time Equivalent</item>
+        <item>Future Value</item>
+        <item>Foreign exchange market</item>
+        <item>Fiscal year or Financial year</item>
+        <item> For Your Action</item>
+        <item>For Your Information</item>
+        <item>Free Of Cost</item>
+        <item>Follow-Up</item>
+    </string-array>
+    <string-array name="banking_abbreviation_g_to_h">
+        <item>G</item>
+        <item>GDP</item>
+        <item>GDR</item>
+        <item>GFD</item>
+        <item>GFS</item>
+        <item>GIC</item>
+        <item>GLS</item>
+        <item>GNIE</item>
+        <item>GoI</item>
+        <item>GPD</item>
+        <item>G-Sec</item>
+
+        <item>H</item>
+        <item>HDFC</item>
+        <item>HFT</item>
+        <item>HICP</item>
+        <item>HO</item>
+        <item>HUDCO</item>
+    </string-array>
+    <string-array name="banking_fullform_g_to_h">
+        <item>Full Form</item>
+        <item>Gross Domestic Product</item>
+        <item>Global Depository Receipt</item>
+        <item>Gross Fiscal Deficit</item>
+        <item>Government Finance Statistics</item>
+        <item>General Insurance Corporation</item>
+        <item>Generalized Least Squares</item>
+        <item>Government Not Included Elsewhere</item>
+        <item>Government of India</item>
+        <item>Gross Primary Deficit</item>
+        <item>Government Securities</item>
+
+        <item>Full Form</item>
+        <item>Housing Development Finance Corporation</item>
+        <item>Held For Trading</item>
+        <item>Harmonised Index of Consumer Prices</item>
+        <item>Head Office</item>
+        <item>Housing &amp; Urban Development Corporation</item>
+    </string-array>
+    <string-array name="banking_abbreviation_i_to_j">
+        <item>I</item>
+        <item>IBRD</item>
+        <item>IBS</item>
+        <item>ICAR</item>
+        <item>ICICI</item>
+        <item>ICMR</item>
+        <item>IDB</item>
+        <item>IDBI</item>
+        <item>IDD</item>
+        <item>IFAD</item>
+        <item>IFC</item>
+        <item>IFC(W)</item>
+        <item>IFCI</item>
+        <item>IFR</item>
+        <item>IFS</item>
+        <item>IGLS</item>
+        <item>IIBI</item>
+        <item>IIP </item>
+        <item>IMD </item>
+        <item>IMF </item>
+        <item>IN</item>
+        <item>INR</item>
+        <item>IOTT</item>
+        <item>IP</item>
+        <item>IRBI</item>
+        <item>ISDA</item>
+        <item>ISIC</item>
+        <item>ISO</item>
+        <item>ITRS</item>
+        <item>IWGEDS</item>
+    </string-array>
+    <string-array name="banking_fullform_i_to_j">
+        <item>Full Form</item>
+        <item>International Bank for Reconstruction and Development</item>
+        <item>International Banking Statistics</item>
+        <item>Indian Council of Agricultural Research</item>
+        <item>Industrial Credit and Investment Corporation of India</item>
+        <item>Indian Council of Medical Research</item>
+        <item>India Development Bonds</item>
+        <item>Industrial Development Bank of India</item>
+        <item>Industrial Development Department</item>
+        <item>International Fund for Agricultural Development</item>
+        <item>International Finance Corporation</item>
+        <item>International Finance Corporation(Washington)</item>
+        <item>Industrial Finance Corporation of India</item>
+        <item>Investment Fluctuation Reserve Account</item>
+        <item>International Financial Statistics</item>
+        <item>Iterative Generalized Least Squares</item>
+        <item>Industrial Investment Bank of India</item>
+        <item>Index of Industrial Production </item>
+        <item>India Millennium Deposits </item>
+        <item>International Monetary Fund </item>
+        <item>India</item>
+        <item>Indian Rupee</item>
+        <item>Input-Output Transaction Table</item>
+        <item>Interest Payment</item>
+        <item>Industrial Reconstruction Bank of India</item>
+        <item>International Swaps and Derivative Association</item>
+        <item>International Standard Industrial Classification</item>
+        <item>International Standards Organization</item>
+        <item>International Transaction Reporting System</item>
+        <item>International Working Group on External Debt Statistics</item>
+    </string-array>
+    <string-array name="banking_abbreviation_k_to_l">
+        <item>K</item>
+        <item>KVIC</item>
+
+        <item>L</item>
+        <item>LAF</item>
+        <item>LAMPS</item>
+        <item>LAS</item>
+        <item>LBD</item>
+        <item>LBS</item>
+        <item>LERMS</item>
+        <item>LIC</item>
+        <item>LS </item>
+        <item>LT</item>
+        <item>LTO</item>
+    </string-array>
+    <string-array name="banking_fullform_k_to_l">
+        <item>Full Form</item>
+        <item>Khadi &amp; Village Industries Corporation</item>
+
+        <item>Full Form</item>
+        <item>Liquidity Adjustment Facility</item>
+        <item> Large-sized Adivasi Multipurpose Societies</item>
+        <item>Loan &amp; Advances by States</item>
+        <item>Land Development Banks</item>
+        <item>Locational Banking Statistics</item>
+        <item>Liberalised Exchange Rate Management System</item>
+        <item>Life Insurance Corporation of India</item>
+        <item>Level Shift </item>
+        <item>Long Term</item>
+        <item>Long Term Operation</item>
+    </string-array>
+    <string-array name="banking_abbreviation_m_to_n">
+        <item>M</item>
+        <item>M1</item>
+        <item>M3</item>
+        <item>MA</item>
+        <item>MCA</item>
+        <item>MIGA</item>
+        <item>MIS</item>
+        <item>MMSE</item>
+        <item>MoF</item>
+        <item>MOF</item>
+        <item>MRM</item>
+        <item>MSS</item>
+        <item>MT</item>
+        <item>MTM</item>
+
+        <item>N</item>
+        <item>NABARD</item>
+        <item>NAC(LTO)</item>
+        <item>NAIO</item>
+        <item>NAS</item>
+        <item>NASSCOM</item>
+        <item>NBC</item>
+        <item>NBFC</item>
+        <item>NEC</item>
+        <item>NEER</item>
+        <item>NFA</item>
+        <item>NFD</item>
+        <item>NGO</item>
+        <item>NHB</item>
+        <item>NIC</item>
+        <item>NIF</item>
+        <item>NNML</item>
+        <item>NPA</item>
+        <item>NPD</item>
+        <item>NPRB</item>
+        <item>NPV</item>
+        <item>NRE</item>
+        <item>NRG</item>
+        <item>NRI</item>
+        <item>NSC</item>
+        <item>NSSF</item>
+    </string-array>
+    <string-array name="banking_fullform_m_to_n">
+        <item>Full Form</item>
+        <item>Narrow Money</item>
+        <item>Broad Money</item>
+        <item>Moving Average</item>
+        <item>Ministry of Company Affairs</item>
+        <item>Multilateral Investment Guarantee Agency</item>
+        <item>Management Information System</item>
+        <item>Minimum Mean Squared Errors</item>
+        <item>Ministry of Finance</item>
+        <item>Master Office File</item>
+        <item>Monitoring and Review Mechanism</item>
+        <item>Market Stabilisation Scheme</item>
+        <item>Mail Transfer</item>
+        <item>Mark-To-Market</item>
+
+        <item>Full Form</item>
+        <item>National Bank for Agriculture and Rural Development</item>
+        <item>National Agricultural Credit (Long Term Operatiion)</item>
+        <item>Non Administratively Independent Office</item>
+        <item>National Account Statistics</item>
+        <item>National Association of Software and Services Companies</item>
+        <item>Non-Banking Companies</item>
+        <item>Non Banking Financial Companies</item>
+        <item>Not Elsewhere Classified</item>
+        <item>Nominal Effective Exchange Rate</item>
+        <item>Non-Foreign Exchange Assets</item>
+        <item>Net Fiscal Deficit</item>
+        <item>Non-Governmental Organization</item>
+        <item>National Housing Bank</item>
+        <item>National Industrial Classification</item>
+        <item>Note Issuance Facility</item>
+        <item>Net Non-Monetary Liabilities</item>
+        <item>Non-Performing Assets</item>
+        <item>Net Primary Deficit</item>
+        <item>Net Primary Revenue Balance</item>
+        <item>Net Present Value</item>
+        <item>Non-Resident External</item>
+        <item>Non-Resident Government</item>
+        <item>Non-Resident Indian</item>
+        <item>National Statistical Commission</item>
+        <item>National Small Savings Fund</item>
+    </string-array>
+
+    <string-array name="banking_abbreviation_o_to_p">
+        <item>O</item>
+        <item>OD</item>
+        <item>ODA</item>
+        <item>OECD</item>
+        <item>OECO</item>
+        <item>OFI</item>
+        <item>OLTAS</item>
+        <item>OMO</item>
+        <item>OSCB</item>
+
+        <item>P</item>
+        <item>PACF</item>
+        <item>PACS</item>
+        <item>PCARDB</item>
+        <item>PD</item>
+        <item>PDAI</item>
+        <item>PDO</item>
+        <item>PDO-NDS</item>
+        <item>PDs</item>
+        <item>PES</item>
+        <item>PF</item>
+        <item>PIO</item>
+        <item>PNB</item>
+        <item>PO</item>
+        <item>PRB</item>
+        <item>PSE</item>
+        <item>PUC</item>
+    </string-array>
+
+    <string-array name="banking_fullform_o_to_p">
+        <item>Full Form</item>
+        <item>Over Draft</item>
+        <item>Official Development Assistance</item>
+        <item>Organisation for Economic Cooperation and Development</item>
+        <item>Organisaton for Economic Co-operation</item>
+        <item>Other Financial Institutions</item>
+        <item> OnLine Tax Accounting System</item>
+        <item>Open Market Operations</item>
+        <item>Other Indian Scheduled Commercial Bank</item>
+
+        <item>Full Form</item>
+        <item>Partial Auto-Correlation Function</item>
+        <item>Primary Agriculture Credit Societies</item>
+        <item>Primary Cooperative Agriculture and Rural Development Bank</item>
+        <item>Primary Deficit</item>
+        <item>Primary Dealers Association of India</item>
+        <item>Public Debt Office</item>
+        <item>Public Debt Office-cum-Negotiated Dealing System</item>
+        <item> Primary Dealers</item>
+        <item>Public Enterprises Survey</item>
+        <item>Provident Fund</item>
+        <item>Persons of Indian Origin</item>
+        <item>Punjab National bank</item>
+        <item>Principal Office</item>
+        <item>Primary Revenue Balance</item>
+        <item>Public Sector Enterprises</item>
+        <item>Paid Up Capital</item>
     </string-array>
 </resources>
