@@ -36,6 +36,7 @@ public class AbbreviationActivity extends BaseActivity implements View.OnClickLi
     private CardView mUtoV_LL;
     private CardView mWtoX_LL;
     private String mSelectedCategory;
+    private CardView mYtoZ_LL;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,6 +62,7 @@ public class AbbreviationActivity extends BaseActivity implements View.OnClickLi
         mStoT_LL = (CardView) findViewById(R.id.s_t_ff_ll);
         mUtoV_LL = (CardView) findViewById(R.id.u_v_ff_ll);
         mWtoX_LL = (CardView) findViewById(R.id.w_x_ff_ll);
+        mYtoZ_LL = (CardView) findViewById(R.id.y_z_ff_ll);
 
         mAtoB_LL.setOnClickListener(this);
         mCtoD_LL.setOnClickListener(this);
@@ -74,11 +76,8 @@ public class AbbreviationActivity extends BaseActivity implements View.OnClickLi
         mStoT_LL.setOnClickListener(this);
         mUtoV_LL.setOnClickListener(this);
         mWtoX_LL.setOnClickListener(this);
+        mYtoZ_LL.setOnClickListener(this);
 
-        findViewById(R.id.iv_share_button).setOnClickListener(this);
-        findViewById(R.id.tv_facebook_link).setOnClickListener(this);
-        findViewById(R.id.tv_instagram_link).setOnClickListener(this);
-        findViewById(R.id.tv_all_app_link).setOnClickListener(this);
         //Initializing ad.
         /*MobileAds.initialize(this, new OnInitializationCompleteListener() {
             @Override
@@ -160,19 +159,6 @@ public class AbbreviationActivity extends BaseActivity implements View.OnClickLi
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.iv_share_button:
-             /*   try {
-                    Intent shareIntent = new Intent(Intent.ACTION_SEND);
-                    shareIntent.setType("text/plain");
-                    shareIntent.putExtra(Intent.EXTRA_SUBJECT, getResources().getString(R.string.app_name));
-                    String shareMessage = "\nLet me recommend you this application\n\n";
-                    shareMessage = shareMessage + "https://play.google.com/store/apps/details?id=" + BuildConfig.APPLICATION_ID + "\n\n";
-                    shareIntent.putExtra(Intent.EXTRA_TEXT, shareMessage);
-                    startActivity(Intent.createChooser(shareIntent, "choose one"));
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }*/
-                break;
             case R.id.a_b_ff_ll:
                 Intent aTobIntent = new Intent(this, FullFormActivity.class);
                 aTobIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
@@ -196,82 +182,80 @@ public class AbbreviationActivity extends BaseActivity implements View.OnClickLi
                 break;
             case R.id.g_h_ff_ll:
                 Intent gTohIntent = new Intent(this, FullFormActivity.class);
+                gTohIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 gTohIntent.putExtra(Constants.FROM, Constants.FROM_G_TO_H);
                 gTohIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mGtoH_LL));
                 startActivity(gTohIntent);
                 break;
             case R.id.i_j_ff_ll:
                 Intent iTojIntent = new Intent(this, FullFormActivity.class);
+                iTojIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 iTojIntent.putExtra(Constants.FROM, Constants.FROM_I_TO_J);
                 iTojIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mItoJ_LL));
                 startActivity(iTojIntent);
                 break;
             case R.id.k_l_ff_ll:
                 Intent kTolIntent = new Intent(this, FullFormActivity.class);
+                kTolIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 kTolIntent.putExtra(Constants.FROM, Constants.FROM_K_TO_L);
                 kTolIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mKtoL_LL));
                 startActivity(kTolIntent);
                 break;
             case R.id.m_n_ff_ll:
                 Intent mTonIntent = new Intent(this, FullFormActivity.class);
+                mTonIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 mTonIntent.putExtra(Constants.FROM, Constants.FROM_M_TO_N);
                 mTonIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mMtoN_LL));
                 startActivity(mTonIntent);
                 break;
             case R.id.o_p_ff_ll:
                 Intent oTopIntent = new Intent(this, FullFormActivity.class);
+                oTopIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 oTopIntent.putExtra(Constants.FROM, Constants.FROM_O_TO_P);
                 oTopIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mOtoP_LL));
                 startActivity(oTopIntent);
                 break;
             case R.id.q_r_ff_ll:
                 Intent qTorIntent = new Intent(this, FullFormActivity.class);
+                qTorIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 qTorIntent.putExtra(Constants.FROM, Constants.FROM_Q_TO_R);
                 qTorIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mQtoR_LL));
                 startActivity(qTorIntent);
                 break;
             case R.id.s_t_ff_ll:
                 Intent sTotIntent = new Intent(this, FullFormActivity.class);
+                sTotIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 sTotIntent.putExtra(Constants.FROM, Constants.FROM_S_TO_T);
                 sTotIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mStoT_LL));
                 startActivity(sTotIntent);
                 break;
             case R.id.u_v_ff_ll:
                 Intent uTovIntent = new Intent(this, FullFormActivity.class);
+                uTovIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 uTovIntent.putExtra(Constants.FROM, Constants.FROM_U_TO_V);
                 uTovIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mUtoV_LL));
                 startActivity(uTovIntent);
                 break;
             case R.id.w_x_ff_ll:
                 Intent wToxIntent = new Intent(this, FullFormActivity.class);
+                wToxIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
                 wToxIntent.putExtra(Constants.FROM, Constants.FROM_W_TO_X);
                 wToxIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mWtoX_LL));
                 startActivity(wToxIntent);
                 break;
-            case R.id.tv_facebook_link:
-                Intent facebookIntent =
-                        new Intent("android.intent.action.VIEW",
-                                Uri.parse("https://www.facebook.com/its.android.talk"));
-                startActivity(facebookIntent);
-                break;
-            case R.id.tv_instagram_link:
-                Intent instagramIntent =
-                        new Intent("android.intent.action.VIEW",
-                                Uri.parse("https://www.instagram.com/developer_android_app/"));
-                startActivity(instagramIntent);
-                break;
-            case R.id.tv_all_app_link:
-                /*Intent allOurApp =
-                        new Intent("android.intent.action.VIEW",
-                                Uri.parse("https://play.google.com/store/apps/details?id=" + BuildC.APPLICATION_ID ));
-                startActivity(allOurApp);*/
+            case R.id.y_z_ff_ll:
+                Intent yTozIntent = new Intent(this, FullFormActivity.class);
+                yTozIntent.putExtra(Constants.KEY_SELECTED_CATEGORY, mSelectedCategory);
+                yTozIntent.putExtra(Constants.FROM, Constants.FROM_Y_TO_Z);
+                yTozIntent.putExtra(Constants.KEY_ABBREVIATION_COLOR, getViewBackGroundColor(mYtoZ_LL));
+                startActivity(yTozIntent);
                 break;
         }
     }
 
     @RequiresApi(api = Build.VERSION_CODES.N)
     private int getViewBackGroundColor(View view) {
-        ColorStateList color = ((CardView)view).getCardBackgroundColor();
+        ColorStateList color = ((CardView) view).getCardBackgroundColor();
         return color.getDefaultColor();
     }
 }

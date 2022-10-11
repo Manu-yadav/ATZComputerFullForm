@@ -14,12 +14,11 @@ import com.androidtalk.atzcomputerfullform.R;
 import com.androidtalk.atzcomputerfullform.utils.Constants;
 
 public class MainActivity extends BaseActivity implements View.OnClickListener {
-
     private View mComputerCV;
     private CardView mMedicalScienceCV;
     private CardView mAutomobileCV;
     private CardView mBankingCV;
-    private View mCorporateCV;
+    private CardView mCorporateCV;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,8 +38,15 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         mAutomobileCV.setOnClickListener(this);
         mBankingCV = (CardView) findViewById(R.id.cat_banking);
         mBankingCV.setOnClickListener(this);
-        mCorporateCV = findViewById(R.id.cat_corporate);
+        mCorporateCV = (CardView) findViewById(R.id.cat_corporate);
         mCorporateCV.setOnClickListener(this);
+        findViewById(R.id.cv_contact_us).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent contactIntent = new Intent(MainActivity.this, ContactUsActivity.class);
+                startActivity(contactIntent);
+            }
+        });
     }
 
     @Override

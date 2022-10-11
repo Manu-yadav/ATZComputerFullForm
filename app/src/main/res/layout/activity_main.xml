@@ -259,12 +259,11 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/c_d_ff_ll"
+            android:id="@+id/cv_contact_us"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:elevation="2dp"
-
             card_view:cardCornerRadius="10dp"
             card_view:cardElevation="2dp"
             android:clickable="true"

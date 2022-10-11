@@ -25,6 +25,7 @@ public class Constants {
     public static final String FROM_S_TO_T = "FROM_S_TO_T";
     public static final String FROM_U_TO_V = "FROM_U_TO_V";
     public static final String FROM_W_TO_X = "FROM_W_TO_X";
+    public static final String FROM_Y_TO_Z = "FROM_Y_TO_Z";
     public static final String FROM = "FROM";
 
     //..........
