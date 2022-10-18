@@ -12,8 +12,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:keepScreenOn="true"
-        android:src="@mipmap/app_icon"
-        android:textColor="#683bb7"
+        android:src="@mipmap/app_icon_second"
         android:textSize="50sp"
         android:textStyle="bold" />
 
